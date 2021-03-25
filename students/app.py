@@ -1,42 +1,40 @@
 student_list = []
 
 
+class Student:
+    def __init__(self, name):
+        self.name = name
+        self.marks = []
+
+    def average_mark(self):
+        number_of_marks = len(self.marks)
+        if number_of_marks == 0:
+            return 0
+
+        total = sum(self.marks)
+        return total / number_of_marks
+
+
 def create_student():
     # Ask the user for the student's name
     # Create the dictionary in the format {'name': '<student_name>', 'marks': []}
     # Return that dictionary
 
     name = input("Please enter the new student's name: ")
-    student_data = {
-        'name': name,
-        'marks': []
-    }
+    student_data = Student(name)
     return student_data
 
 
 def add_mark(student, mark):
     # Append a mark to the student dictionary
-    student['marks'].append(mark)
+    student.marks.append(mark)
     return None
-
-
-def calculate_average_mark(student):
-    # Add together all of student['marks']
-    # Divide the by the total number of marks
-    # What happens if the student has no marks yet?
-
-    number_of_marks = len(student['marks'])
-    if number_of_marks == 0:
-        return 0
-
-    total = sum(student['marks'])
-    return total / number_of_marks
 
 
 def print_student_details(student):
     # Print out a string that tells the user important information about this student
-    print("{}, average mark: {}.".format(student['name'],
-                                         calculate_average_mark(student)))
+    print("{}, average mark: {}.".format(student.name,
+                                         student.average_mark()))
 
 
 def print_student_list(students):
@@ -62,6 +60,8 @@ def menu():
             student_list.append(create_student())
         elif selection == 'a':
             student_id = int(input("Enter the student ID to add a mark to: "))
+            if student_id > (len(student_list) - 1):
+                continue
             student = student_list[student_id]
             new_mark = int(input("Enter the new mark to be added: "))
             add_mark(student, new_mark)
