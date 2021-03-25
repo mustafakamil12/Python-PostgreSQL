@@ -16,6 +16,6 @@ class User:
         return watched_movies_list
         """
 
-        movies_watched = list(filter(lambda x: x.watched, self.movies))
-        return movies_watched
+        return list(filter(lambda movie: movie.watched, self.movies))
+
 

@@ -3,7 +3,7 @@ from user import User
 
 user = User("Mustafa")
 
-my_movie = Movie("The Matrix", "Sci-Fi", False)
+my_movie = Movie("The Matrix", "Sci-Fi", True)
 
 user.movies.append(my_movie)
 
