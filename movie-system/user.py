@@ -26,7 +26,7 @@ class User:
         return watched_movies_list
         """
         return list(filter(lambda movie: movie.watched, self.movies))
-
+    """ csv from the last century...
     def save_to_file(self):
         with open("{}.txt".format(self.name), 'w') as f:
             f.write(self.name + "\n")
@@ -47,5 +47,7 @@ class User:
             user = cls(username)
             user.movies = movies
             return user
+    """
+    
 
 
