@@ -1,0 +1,8 @@
+Uninstall PostgresSQL and then clean /Library/PostgreSQL/ Directory.
+Open teminal and run :
+
+sudo dscl . -create /Users/postgres UserShell /bin/sh
+
+sudo dscl . -create /Users/postgres NFSHomeDirectory /Library/PostgreSQL
+
+Install PostgresSQL
