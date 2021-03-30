@@ -32,7 +32,10 @@ class CursorFromConnectionFromPool:
         self.cursor = self.connection.cursor()
         return self.cursor
 
-    def __exit__(self, exc_type, exc_val, exc_tb):  # return connection when with end
-        self.cursor.close()
-        self.connection.commit()
+    def __exit__(self, exception_type, exception_value, exception_traceback):  # return connection when with end
+        if exception_value is not None:     # e.g. TypeError, AttributeError, ValueError
+            self.connection.rollback()
+        else:
+            self.cursor.close()
+            self.connection.commit()
         connection_pool.putconn(self.connection)
