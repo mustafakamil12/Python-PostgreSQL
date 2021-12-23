@@ -1,0 +1,2269 @@
+IOWACOMMODPRCPMI,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreMI_%Y%m%d.txt,"",t
+IOWACOMMODPRCPOH,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreOH_%Y%m%d.txt,"",t
+IOWACOMMODPRCPIN,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreIN_%Y%m%d.txt,"",t
+NATGASWALCOVER,Email,"","",t
+TCPGHOURLY,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 HOURLY-%m%d%y.txt,,f
+AVISTATABFCT,Ftp,ftp.avistacorp.com  /Wsiweather Wsiweather kxea398r ,,t
+AVISTAOBS,Ftp,ftp.avistacorp.com /Wsiweather Wsiweather kxea398r ,,t
+SUSQFCST,Ftp,ftpsrv.wsicorp.com /u/sus sus river45cats %m%d%Y.txt,,t
+STARKFCTHOURLY,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 hourly_forecast_%y%m%d%H.csv,"",t
+CECOBSDEW,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+ALYRHVA,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# HVA%Y%m%d.txt,,t
+STARKOBSHOURLY,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 hourly_observations_%y%m%d%H.csv,"",t
+BERKGASFCST,Email,"","",t
+ECAST_ZFP,Ftp,energysr0 /data2/ECA/WordedForecasts/ op doctor ECAST_ZFP,"",t
+CHGGASFCT,Fax,18454865626 CENTRAL_HUDSON FORECAST,,
+DIRECTNRGFCST,Email ,ops@na.centrica.com,,t
+cngobstxt,Email,"","",t
+CNGTABFCT,Email,"","",t
+RMSUSA2,Ftp,ftpsrv.wsicorp.com /u/rms/CME_US/ rms r3dsox F%m%d%Y.csv,,t
+PPLFCST,Ftp,ftpsrv.wsicorp.com /u/ppl ppl key8stone %m%d%Y.txt,,t
+PPLOBS,Ftp,ftpsrv.wsicorp.com /u/ppl ppl key8stone %m%d%Y_obs.txt,,t
+CSUTABFCT2,Ftp,ftpsrv.wsicorp.com /u/csu csu rock4sun CSUTABFCT2,,t
+SUEZDAILYTRADER,Ftp,ftpsrv.wsicorp.com /u/GDFsuez GDFsuez H0t1nH0uston WSIDailyForecast_%Y%m%d.csv,"",t
+STECFCSTDAILY,Ftp,ftpsrv.wsicorp.com /u/stec stec 7pEanuts,,
+ENVAINTFCST,Ftp,ftpsrv.wsicorp.com /u/env env tree9star int.txt,,t
+SCANAFCST,Ftp,charon.scana.com /home/wsi wsi FastBall1 scanafcst.csv,,t
+CNGTABFCT_AM,Email,"","",t
+SELTABFCT,Ftp,ftpserver.gs.com  /incoming  ftpwsi ftp123wsi,,
+LIMHOURLYFCST,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 promohourlyfcst%m%d%y.txt,,t
+DETABFCT,Ftp,ftpsrv.wsicorp.com /u/nairns nairns krauser %m%d%Yfct.txt,"",t
+CSUTABFCT,Email,"","",t
+CSUTABFCT2,Email,"","",t
+DYNEGYMXMN,Ftp,ftpsrv.wsicorp.com /u/dyn dyn star6nine cityfct%m%d%y.txt,,t
+CORALFCST,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun CORALFCST%Y%m%d%H.txt,,t
+DEPART_0_12,Ftp,ftpsrv.wsicorp.com /u/sel sel grass8bird %y%m%d_GFS_days0-12_T_dep.txt,,t
+ENERGYNE.BAF,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant BAF-%m%d%y.txt,"",t
+PRTFCSTSMOOTH,Ftp,ftp.prt-inc.com / wsi w1909 prtwf.for,,t
+SWISSREFCST,Ftp,ftpsrv.wsicorp.com /u/swissre swissre maple56gum %m%d%y_wsio.csv,,t
+CORALOBS,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun CORALOBS%Y%m%d%H.txt,,t
+NRGFCSTIAD,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 IAD-F-%m%d%y.txt,"",t
+CECOBSRH,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+DIAMONDFCST,Ftp,ftpsrv.wsicorp.com /u/diamond diamond precious4ewe ,,t
+BOFADLYFCSTN,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant NF%m%d%Y.txt,"",t
+DEOBS,Ftp,ftpsrv.wsicorp.com /u/nairns nairns krauser %m%d%Yobs.txt,"",t
+BOUNCE90DAYFORECAST,Ftp,ftpsrv.wsicorp.com /u/bounce bounce H0uston! WSI_90Day_Forecast_%Y%m%d.txt,"",t
+TCPGFCSTISP,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ISP-F-%m%d%y.txt,,f
+SOLEAHRLYFCSTFC,Ftp,ftpsrv.wsicorp.com /u/solea solea bring0ntheW1nd %y%m%d%H_Forecast.csv#TZ=USCenral#,"",t
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_srfcst.csv,"",f
+DYNEGYOBS,Ftp,ftpsrv.wsicorp.com /u/dyn dyn star6nine obs%m%d%y.txt,,t
+NATGASBILLS,Email,"","",t
+PGEOBSMIN,Ftp,ftpsrv.wsicorp.com /u/pge pge river8money fcstmin.txt,,f
+NATGRIDSLKFCST,Email,"","",t
+VITOLDAILY,Ftp,ftpsrv.wsicorp.com /u/vitol vitol elan6signs WSI_MaxMin_%Y%m%d.csv,"",t
+ALYRHVA,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HVA%Y%m%d.txt,,t
+LIMALLHOURLYP1,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 ,,t
+RMSUSA,Ftp,ftpsrv.wsicorp.com /u/rms/usa/temp/daily rms r3dsox F%m%d%Y.usa.csv,,t
+ALYTMPVA,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TVA%Y%m%d.txt,,t
+ALYSPDVA,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WVA%Y%m%d.txt,,t
+ALYSPDND.OKV,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WVA%Y%m%d.txt,,t
+OXYOBSDAY,Ftp,ftpsrv.wsicorp.com /u/oxy oxy fish87land obshourly.csv,,t
+ALYRHND.OKV,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HVA%Y%m%d.txt,,t
+ALYTEMPND.OKV,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TVA%Y%m%d.txt,,t
+AFGANFCST,HCSN,197 fast,,t
+HTNATEXT,Ftp,ftpsrv.wsicorp.com /u/nairns nairns krauser %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",f
+CGCUFCSTBGI,Ftp,ftp.cgcu.com / wsi wsi4wx cgcufcst.bgi,"",t
+SPECTRAFCST,Ftp,ftpsrv.wsicorp.com /u/spectra spectra light9ghost fcst_%Y%m%d.xml,,t
+SPECTRAOBS,Ftp,ftpsrv.wsicorp.com /u/spectra spectra light9ghost obs_%Y%m%d%H.xml,,t
+SELTABCCF_AM,Ftp,ftpsrv.wsicorp.com /u/sel sel grass8bird fp4%Y%m%d.txt,,t
+VAPRHFCST,Ftp,ftpsrv.wsicorp.com /u/dom2 dom2 land9castle 1hpngstd.txt,,f
+PRAXAIRFCST,Email,"","",t
+TYSONFCST,Email,"","",t
+ALLEG.KERI,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KERI-F-%m%d%y.txt,,t
+DTEHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/detroitedison detroitedison tigers6claw wxupdate.sal,"",t
+PEPGRP001,Direct,48011 5 Pepco_Washington_DC ,,f
+WESTARFCSTCSV.GGG,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS ggg-tmp.csv,"",t
+TYSONOBS,Email,"","",t
+WSIOBSHGE,Email,"","",t
+YankeeGasfcst,Email,"","",t
+EUROPE.csv,Email,"","",t
+NATGRDLIOB5APGP,Attachment,ngrid_ver.csv,"",t
+NATGRIDLIFCSTPGP,Attachment,ngrid.csv,"",t
+ALLIANTFCST,Attachment,FOR-MSNCID_1.TXT,"",t
+Aviation_Risk_Temps,Attachment,aviation_risk_temps.csv,"",t
+CAITHNESSXLS,Attachment,CAITHNESS_%Y%m%d.xls,"",t
+CHGGASOBS,Attachment,chggasobs.txt,"",t
+WSIOBSCSU,Ftp,ftpsrv.wsicorp.com /u/csu csu rock4sun WSIOBSCSU.%Y%m%d%H#TZ=USMouain#,,t
+LIMALLHOURLYP2,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 ,,t
+COPPERWOODOBS,Ftp,ftpsrv.wsicorp.com /u/copperwood copperwood B1gR0de0 15dayobs.txt,"",t
+ALLEG.KBFD,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KBFD-F-%m%d%y.txt,,t
+CSUFCTXLS,Attachment,CSUFCT_%Y%m%d%H.xls,"",t
+LSPOWERFCST,Attachment,LSPOWER_Forecast_%Y%m%d.txt,"",t
+PANDAHRLYFCST.GYI,Attachment,WSIHourlyShermanForecast_%y%m%d.csv,"",t
+TODDEDICAST,Attachment,%Y%m%d%HEDIForecast.csv,"",t
+TODDOBS,Attachment,%Y%m%dObs.csv,"",t
+INTERGENFCST,Ftp,ftp2.intergen.com /wsi wsi weather %m%d%y.csv,,t
+FACTRAK_HR_35W,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_HOURLY verif verif1,"",t
+FACTRAK_HR_35E,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_HOURLY verif verif1,"",t
+FACTRAK_HR_02W,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_HOURLY verif verif1,"",t
+FACTRAK_HR_02E,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_HOURLY verif verif1,"",t
+FACTRAK_HOURLY,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_HOURLY verif verif1,"",t
+FACTRAK_DAY_02E,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY verif verif1,"",t
+FACTRAK_DAY_02W,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY verif verif1,"",t
+FACTRAK_DAY_1115,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY verif verif1,"",t
+FACTRAK_DAY_35E,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY verif verif1,"",t
+FACTRAK_DAY_35W,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY verif verif1,"",t
+FACTRAK_DAY_610,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY verif verif1,"",t
+OBS_FACTRAK,Ftp,energy-abacus1.wsicorp.com FACTRAK/OBS_FACTRAK verif verif1,"",t
+OBS_FACTRAK_TVA,Ftp,energy-abacus1.wsicorp.com FACTRAK/OBS_FACTRAK_TVA verif verif1,"",t
+FACTRAK_DAY_EDICAST,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY_EDICAST verif verif1,"",t
+FACTRAK_DAY_FE,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY verif verif1,"",t
+FACTRAK_DAY_FE_OBS,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY_OBS verif verif1,"",t
+FACTRAK_HR_EDICAST,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_HOURLY_EDICAST verif verif1,"",t
+FACTRAK_HR_OBS,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_HOURLY_OBS verif verif1,"",t
+FACTRAK_TVA,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_TVA verif verif1,"",t
+FACTRAK_DAY_OBS,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY_OBS verif verif1,"",t
+CARZFPHCS,HCSN,3097 fast,,t
+FACTRAK_FE_EDICAST,Ftp,energy-abacus1.wsicorp.com FACTRAK/FACTRAK_DAILY_EDICAST verif verif1,"",t
+POWEREXFCST,Ftp,ftpsrv.wsicorp.com /u/powerex powerex Vanc0uver WSIForecast_%Y%m%d.%H.csv,"",t
+FREEPTHOURLY,Ftp,ftpsrv.wsicorp.com /u/freepoint freepoint Stamf0rd! HourlyFrcst_%Y%m%d%H.csv,"",t
+COPPERWOODFCST,Ftp,ftpsrv.wsicorp.com /u/copperwood copperwood B1gR0de0 15dayfcst.txt,"",t
+TODDWSI,Attachment,%Y%m%dWSIForecast.csv,"",t
+AIRTABEUR,Ftp,ftpsrv.wsicorp.com /u/air air car4ewe eurtable.txt,,t
+YESHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/yesenergy yesenergy B0ulder4Sn0w WSITraderHourlyObs_%Y%m%d_%H.csv,"",t
+CGCUOBS,Ftp,ftp.cgcu.com / wsi wsi4wx cgcuobs.txt,"",t
+CFCYULHCS,HCSN,3096 fast,,
+NATGRDLIOB12PPGP,Attachment,ngrid_ver.csv,"",t
+NEXTERAHOURLY,Ftp,ftpsrv.wsicorp.com /u/FPL FPL Juno  hourly.%Y%m%d.csv,"",t
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/nairns nairns krauser %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+CECOBSTEMP,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+DIAMONDHRLYFCST,Attachment,DIAMONDHRLYFCST.%y%b%d.%H.csv,"",t
+SARACENHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/saracen saracen horse3empire HourlyObservations_%Y%m%d.csv,"",t
+NATGASSCADA48.NY0,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_NY0.txt,"",t
+BROOKFIELDDLY2,Ftp,ftpsrv.wsicorp.com /u/brookfield brookfield C0ldandSn0wy WSIDaily_%Y%m%d.csv,"",t
+TCPGFCSTLGA,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 LGA-F-%m%d%y.txt,,f
+CNGHRLYOBSPWR,Ftp,ftpsrv.wsicorp.com /u/cng cng Hartf0rd! weather_power_%Y%m%d.dat,"",t
+NC2OBSTXT.CON,Web,/u2/www/html-docs/energy/nco/forecast/icwf/data,,f
+PANDAHRLY,Ftp,ftpsrv.wsicorp.com /u/pandapower pandapower Ch1na HourlyObservations_%Y%m%d.csv,"",t
+AMERICANGPDLY,Ftp,ftpsrv.wsicorp.com /u/apg apg Fl0rida WSIDailyForecast_%Y%m%d.csv,"",t
+NATGASSCADA48.ART,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_ART.txt,"",t
+WPSWETBULBOBS,Ftp,ftp.integrysgroup.com / wsiuser dJ2by63Q %m%d%Y_wetbulb_obs.txt,,
+ENERGYNE.ABE,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  ABE-%m%d%y.txt,"",t
+NATGASSCADA48.GFL,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_GFL.txt,"",t
+SUSQHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/sus sus river45cats %m%d%Y_hourly_obs.txt,"",t
+POWEREXOBS,Ftp,ftpsrv.wsicorp.com /u/powerex powerex Vanc0uver WSIObs_%Y%m%d.csv,"",t
+WSIOBSSEL,Ftp,ftpsrv.wsicorp.com /u/sel sel grass8bird WXFTABOBS,,t
+NGLIFTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57017.txt,,f
+NGLIATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57018.txt,,f
+NCEPOBTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCEPOBTXT,,f
+NCEORFTXT,Direct,53017 5 Norfolk_VA,,f
+NCEILMTXT,Direct,53010 5 Wilmington_NC,,f
+NCEGSOTXT,Direct,53007 5 Greensboro_NC ,,f
+NCEAVLTXT,Direct,53009 5 Asheville_NC,,f
+CPLDIRILM,Direct,53010 5 Wilmington_NC_Forecast,,f
+ABCDIRDCA,Direct,48000 5 Washington_DC_Forecast,,f
+ABCDIRDEN,Direct,48001 5 Denver_CO_Forecast,,f
+WPSOBS,Ftp,ftp.integrysgroup.com / wsiuser dJ2by63Q %m%d%Yobs.txt,,t
+AIRWORDEUR,Ftp,ftpsrv.wsicorp.com /u/air air car4ewe eurtext.txt,,t
+CHGGASFCT,Attachment,chggasfct.txt,,t
+NRGCUSTOMDAILY,Attachment,TWCForecast.csv,"",t
+BGETABFTP,Ftp,ftpsrv.wsicorp.com /u/bge/bge3 bge clam9sun %Y%m%d%H%M%S.txt,"",t
+TCPGFCSTSWF,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SWF-F-%m%d%y.txt,,f
+TCPGFCSTPLB,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 PLB-F-%m%d%y.txt,,f
+CIGERHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/ciger ciger coreapiforecasts hourly_forecast_%y%m%d.csv,"",t
+TCPGFCSTSYR,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SYR-F-%m%d%y.txt,,f
+KGDAILYFCSTU,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 WSIDailyForecastUpdate_%Y%m%d.csv,"",t
+FPLOBSTST,Ftp,jolt.wsicorp.com /home/dicast dicast ENOL620 tempture.txt,,t
+NRGFCSTBDR,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BDR-F-%m%d%y.txt,"",t
+NATGASSCADADAILY.ART,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_ART.txt,"",t
+CitadelCddData.csv,Ftp,ftpsrv.wsicorp.com /u/rni rni tye1on %m%d%ycdddata.txt,,t
+TCPGFCSTSTL,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 STL-F-%m%d%y.txt,,f
+TCPGFCSTCLE,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 CLE-F-%m%d%y.txt,,f
+PSEG.ACY,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail ACY-F-%m%d%y.txt,,t
+TCPGFCSTBAK,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BAK-F-%m%d%y.txt,,f
+NATGASSCADADAILY.NY0,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_NY0.txt,"",t
+CHGELEOBS,Ftp,ftpsrv.wsicorp.com /u/chg chg toad8snow CHGELEOBS.%Y%m%d.%H,,t
+NATGASSCADADAILY.GFL,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_GFL.txt,"",t
+NATGASSCADADAILY.RME,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_RME.txt,"",t
+ENTERGY90DAYFCST,Ftp,ftpsrv.wsicorp.com /u/entergy entergy SeasonalForecasts DailyForecast90Days_%Y%m%d.csv,"",t
+CHGGASOBS,Fax,18454865626 CENTRAL_HUDSON GAS_OBS,,
+SELTABFCTU,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+CHGGASOBS,Ftp,ftpsrv.wsicorp.com /u/chg chg toad8snow CHGGASOBS.%Y%m%d.%H,,t
+damcities.txt,Ftp,198.81.230.40 / wsi gimpla$  damcities.txt,,t
+DRWFCST,Ftp,ftpsrv.wsicorp.com /u/drw drw Chicag0 Daily15DayForecast_%Y%m%d.csv,"",t
+CFANATLGFS00_BYDAYTC,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CFAN_ATL_GFS_00_bydaytcprob_m3_%Y%m%d.nc,"",f
+tdamcities.txt,Ftp,198.81.230.40 / wsi gimpla$  tdamcities.txt,,t
+tdpmcities.txt,Ftp,198.81.230.40 / wsi gimpla$  tdpmcities.txt,,t
+dpmcities.txt,Ftp,198.81.230.40 / wsi gimpla$  dpmcities.txt,,t
+PSEG.SMQ,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail SMQ-F-%m%d%y.txt,,t
+WXEF_MINMAX,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXFMAXMIN_GFS_%y%m%d,,t
+AQUILA_INTL_MRF,http,http://merchant.aquila.com/servlet/forecastfeeds/index.jsp,,t
+ALYRHAP,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HAP%Y%m%d.txt,,t
+ALYRHMD,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HMD%Y%m%d.txt,,t
+CFANATLECM12_15DAYTC,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CFAN_ATL_ECMWF_12_15daytcprob_m3_%Y%m%d.nc,"",f
+NRGFCSTPRX,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 PRX-F-%m%d%y.txt,,t
+ALYTMPVA,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# TVA%Y%m%d.txt,,t
+CHGTABFCT,Ftp,ftpsrv.wsicorp.com /u/chg chg toad8snow CHGTABFCT.%Y%m%d,,t
+CNGTABFCT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cng/forecast/icwf/data ftp_fcst vanillabean gtext.shtml,,f
+ALYSPDVA,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# WVA%Y%m%d.txt,,t
+BRUCE_MONTHLY,Ftp,ftpsrv.wsicorp.com /u/brp brp flower4stop monthlysum.txt,,f
+PRTPOPOBS,Ftp,ftp.prt-inc.com / wsi w1909 prtp.act,,t
+PEPDCAHCS,HCSN,3095 fast,,t
+PJMHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/pjm pjm Wx0rKn0t,"",t
+AIRZFPFCT,Ftp,ftpsrv.wsicorp.com /u/air air car4ewe ustext.txt,,t
+WSIOBSCSU2,Ftp,ftpsrv.wsicorp.com /u/csu csu rock4sun WSIOBSCSU2,,t
+NRGOBSTEMP,Ftp,ftpsrv.wsicorp.com /u/nrg05 nrg05 6water9melon %m%d%y_obs_new.csv,,t
+ALYTMPOBSVA,Ftp,ftp.alleghenyenergy.com /ACT A31721620 J$39po# AVA%Y%m%d.txt,,t
+ALYTMPOBSAP,Ftp,ftp.alleghenyenergy.com /ACT A31721620 J$39po# AAP%Y%m%d.txt,,t
+FIRST_CHOICE_FCST,Ftp,ftpsrv.wsicorp.com /u/firstchoice firstchoice cat34nip %Y%m%dfct.csv,,t
+TVAHOURLY,Ftp,ftpsrv.wsicorp.com /u/tva tva turkey8snow WSIHourlyForcast_%Y%m%d_%H.csv#TZ=USEasern#,"",t
+MITSUIHRLY,Ftp,ftpsrv.wsicorp.com /u/mitsui mitsui Mexic0 latest_forecast.csv,"",t
+CSFBFCSTOBSHRLY2,Ftp,ftpsrv.wsicorp.com /u/csfb csfb data4UU ,,t
+CNGTABFCT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cng/forecast/icwf/data ftp_fcst vanillabean btext.shtml,,f
+CSFBFCSTOBSHRLY,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 ,,t
+CFANATLECM12_BYDAYTC,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CFAN_ATL_ECMWF_12_bydaytcprob_m3_%Y%m%d.nc,"",f
+MERCASA15DAY,Ftp,ftpsrv.wsicorp.com /u/mercasa mercasa h0th0use WSIDaily15DayForecast_%Y%m%d.csv,"",t
+NRGFCSTINK,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 INK-F-%m%d%y.txt,,t
+NRGFCSTGLS,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 GLS-F-%m%d%y.txt,,t
+CECFCSTCLOUD,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+CNGTABFCT_AM,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cng/forecast/icwf/data ftp_fcst vanillabean btext.html,,f
+CHGGASOBSSWF,Email,"","",t
+NATGASSCADADAILY.SYR,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_SYR.txt,"",t
+SELTABFCT,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+WSITABRER.EWR,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor EWR-%m%d%y.txt,,t
+CHGGASFCT,Direct,48024 5 Central_Hudson_Tabular_Forecast_Gas,,f
+WSITABRER.BDL,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BDL-%m%d%y.txt,,t
+WSITABRER.ONT,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor ONT-%m%d%y.txt,,t
+NC2OBSTXT.ORF,Direct,48029 5 Norfolk_VA,,f
+NC2OBSTXT.AVL,Direct,48028 5 Asheville_NC,,f
+CPLDIRAFD,Direct,57000 5 Carolina_Forecast_Discussion,,f
+WSITABRER.NKX,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor NKX-%m%d%y.txt,,t
+TCPGFCSTNYC,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 NYC-F-%m%d%y.txt,,f
+TCPGFCSTBOS,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BOS-F-%m%d%y.txt,,f
+TCPGFCSTMSP,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 MSP-F-%m%d%y.txt,,f
+TCPGFCSTAZO,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 AZO-F-%m%d%y.txt,,f
+TCPGFCSTSDF,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SDF-F-%m%d%y.txt,,f
+TCPGFCSTDTW,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 DTW-F-%m%d%y.txt,,f
+TCPGFCSTBWI,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BWI-F-%m%d%y.txt,,f
+NATGASSCADA48.RME,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_RME.txt,"",t
+ALYTEMPND.HGR,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TMD%Y%m%d.txt,,t
+NATGASSCADADAILY.BOS,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_BOS.txt,"",t
+WSITABRER.FAT,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor FAT-%m%d%y.txt,,t
+CFANATLGFS12_BYDAYTC,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CFAN_ATL_GFS_12_bydaytcprob_m3_%Y%m%d.nc,"",f
+CFANATLECM00_15DAYTC,Ftp,ftpsrv.wsicorp.com /u/deshaw deshaw bike76stars CFAN_ATL_ECMWF_00_15daytcprob_m3_%Y%m%d.nc,"",t
+SMMPAFCST,Ftp,ftp.smmpa.org /wsi wsi rstwx wsi%m%d%y_%H00fct.csv#TZ=USCenral#,,
+SMMPAOBS,Ftp,ftp.smmpa.org /wsi wsi rstwx wsi%m%d%yobs.csv,,
+FPLOBSFCT,Ftp,goxftp01.fpl.com /home/wsicorp wsicorp dataf1f3 tempture.txt,,t
+ALGYHCSN1,HCSN,3006 fast,,t
+ALYSPDND.CKB,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WWV%Y%m%d.txt,,t
+WSITABRER.SJC,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SJC-%m%d%y.txt,,t
+TESLAHRLY,Sftp,energy.TES WSIHourlyForecast.csv,"",t
+LIMHOURLYOBS,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 promohourlyobs%m%d%y.txt,,t
+CEPORTOBS,Ftp,ftpsrv.wsicorp.com /u/ceport ceport as\!a obs_%m%d%Y.xml,,t
+WSITABRER.SFO,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SFO-%m%d%y.txt,,t
+CEPORTFCST,Ftp,ftpsrv.wsicorp.com /u/ceport ceport as\!a fcst_%m%d%Y.xml,,t
+WSITABRER.SAC,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SAC-%m%d%y.txt,,t
+CHGELEOBS,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/chg/forecast/icwf/data ftp_fcst vanillabean ELEOBS.html,,f
+CFANATLGFS12_15DAYTC,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CFAN_ATL_GFS_12_15daytcprob_m3_%Y%m%d.nc,"",f
+CHGGASFCT,Ftp,ftpsrv.wsicorp.com /u/chg chg toad8snow CHGGASFCT.%Y%m%d,,t
+TRANSCANOBS.TEST,Ftp,ftpsrv.wsicorp.com /u/transcan transcan north98cold 081505obs.csv,,t
+CHGTABFCT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/chg/forecast/icwf/data ftp_fcst vanillabean TABFCT.html,,f
+CHGGASFCT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/chg/forecast/icwf/data ftp_fcst vanillabean GASTABFCT.html,,f
+CALIBTROPFRCST_00,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CalibratedTropicalGuidance_%Y%m%d_00Z.zip,"",f
+AQUILA_WSI,http,http://merchant.aquila.com/servlet/forecastfeeds/index.jsp,,f
+PDMVERIFY,Ftp,ftpsrv.wsicorp.com /u/sel sel grass8bird verif.txt,,t
+CALIBTROPFRCST_12,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CalibratedTropicalGuidance_%Y%m%d_12Z.zip,"",f
+OXYFCST,Ftp,ftpsrv.wsicorp.com /u/oxy oxy fish87land %Y%m%d%Hfcst.csv,,t
+WSITABRER.BOS,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BOS-%m%d%y.txt,,t
+CHGEALERTTEXT,Direct,57013 5 CHGE_Alert,,f
+PRGTABFCT,Ftp,ftpsrv.wsicorp.com /u/pgn pgn dog7star  %m%d%Y.txt#TZ=USEasern#,,t
+CitadelCddData.csv,Ftp,ftpsrv.wsicorp.com /u/rni rni tye1on %m%d%ycdddata.txt,,t
+HTNATPRIDLY,Ftp,ftpsrv.wsicorp.com /u/yesenergy yesenergy B0ulder4Sn0w %Y%m%d%H%M_hourly_trader_daily.csv,"",t
+HTNATFCDLY,Ftp,ftpsrv.wsicorp.com /u/yesenergy yesenergy B0ulder4Sn0w %Y%m%d%H%M_hourly_trader_daily.csv,"",t
+BRUCEPOWERAVG,Ftp,ftpsrv.wsicorp.com /u/brp brp flower4stop %m%d%yavg.csv,,f
+PRT15FCST,Ftp,ftp.prt-inc.com / wsi w1909 prt15.for,,t
+CSUTABFCT3,Ftp,ftpsrv.wsicorp.com /u/csu csu rock4sun CSUTABFCT3,"",t
+RELFCST,Ftp,ftpsrv.wsicorp.com /u/rel rel run9park %Y%m%d%H%M%S.txt#TZ=USCenral#,,t
+ALYRHND.MET,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HOH%Y%m%d.txt,,f
+AGMTABFCT,Ftp,ftpsrv.wsicorp.com /u/agm agm bird2rain,,t
+CHGTABFCT,Direct,48009 5 Central_Hudson_Tabular_Forecast,,f
+CSUTABFCT3,Email,"","",t
+PSEG.PHL,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail PHL-F-%m%d%y.txt,,t
+AQUILA_MRF,http,http://merchant.aquila.com/servlet/forecastfeeds/index.jsp,,t
+ALYTEMPND.MET,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TOH%Y%m%d.txt,,f
+HETCOFCST,Ftp,ftpsrv.wsicorp.com /u/hec hec rain7dog %m%d%Y.txt,,t
+HEARTLANDOBS,Ftp,ftpsrv.wsicorp.com /u/heartland heartland march25sun obs%m%d%Y.csv,,t
+NRGFCSTSTS,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 STS-F-%m%d%y.txt,"",t
+CITYPOWERFCST,Ftp,ftpsrv.wsicorp.com /u/citypower citypower br1ghtl1ghts,,t
+PRTFCSTNOSMOOTH,Ftp,ftp.prt-inc.com / wsi w1909 prtnf.for,,f
+AQUILA_AVN,http,http://merchant.aquila.com/servlet/forecastfeeds/index.jsp,,t
+NC2OBSTXT.CON,Direct,48037 5 Concord_NH,,f
+NC2OBSTXT.NYC,Direct,48032 5 New_York_City_NY,,f
+NC2OBSTXT.RIC,Direct,48034 5 Richmond_VA,,f
+NCEFBGTXT,Direct,53018 5 Fort_Bragg_NC,,f
+CPLDIRAVL,Direct,53009 5 Asheville_NC_Forecast,,f
+CPLDIRCAE,Direct,53015 5 Columbia_SC_Forecast,,f
+CPLDIREWN,Direct,53012 5 New_Bern_NC_Forecast,,f
+CPLDIRFAY,Direct,53011 5 Fayetteville_NC_Forecast,,f
+CPLDIRFLO,Direct,53013 5 Florence_SC_Forecast,,f
+CPLDIRGSB,Direct,53016 5 Greensboro_NC_Forecast,,f
+CPLDIRRDU,Direct,53008 5 Raleigh_Durham_NC_Forecast,,f
+ABCDIRSAC,Direct,48002 5 Sacremento_CA_Forecast,,f
+LCDLAXTXT,Direct,53001 5 Los_Angelas_County,,f
+PEPGRP001,Fax,13014695363 PEPCO_Operations,,f
+ACCORD_08,Ftp,194.9.189.11 /zz_xf106_wsi/MetGas/ zz_xf106_wsi 262995SC 08metgas%d%m%Y.txt,,t
+CHGGASOBS,Direct,48045 5 Central_Hudson_Gas_Obs,,f
+MRNTFCST,Ftp,ftpsrv.wsicorp.com /u/mrt mrt image7muffin,,t
+CONSUMNRGY.GRR,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun GRR-F-%m%d%y.txt,,t
+CONSUMNRGY.FNT,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun FNT-F-%m%d%y.txt,,t
+CHGELEOBS,Direct,48046 5 Central_Hudson_Electric_Obs,,f
+AQUILA_DICAST,http,http://merchant.aquila.com/servlet/forecastfeeds/index.jsp,,t
+NEUBDLTXT,Ftp,ftp.nu.com . weather wsicorp2 Hartford_CT,,t
+NEUBDRTXT,Ftp,ftp.nu.com . weather wsicorp2 Bridgeport_CT,,t
+NEUBMLTXT,Ftp,ftp.nu.com . weather wsicorp2 Berlin_NH,,t
+NEUMHTTXT,Ftp,ftp.nu.com . weather wsicorp2 Manchester_NH,,t
+NEUPSFTXT,Ftp,ftp.nu.com . weather wsicorp2 Pittsfield_MA,,t
+NEUAQWTXT,Ftp,ftp.nu.com . weather wsicorp2 North_Adams_MA,,t
+AQUILA_ETA,http,http://merchant.aquila.com/servlet/forecastfeeds/index.jsp,,t
+AQUILA_INTL_AVN,http,http://merchant.aquila.com/servlet/forecastfeeds/index.jsp,,t
+AQUILA_INTL_DICAST,http,http://merchant.aquila.com/servlet/forecastfeeds/index.jsp,,t
+TCPGFCSTPHL,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 PHL-F-%m%d%y.txt,,f
+TCPGFCSTEWR,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 EWR-F-%m%d%y.txt,,f
+SMMPAFCST,Ftp,ftpsrv.wsicorp.com /u/smmpa smmpa spring54car wsi%m%d%y_%H00fct.csv#TZ=USCenral#,,t
+TCPGFCSTSAC,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SAC-F-%m%d%y.txt,,f
+CSUTABFCT,Ftp,ftpsrv.wsicorp.com /u/csu csu rock4sun,,t
+TCPGFCSTNKX,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 NKX-F-%m%d%y.txt,,f
+NRGHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/nrg05 nrg05 6water9melon %m%d%yhrlyobs.csv,,t
+CECFCSTDEW,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+HEARTLANDFCST,Ftp,ftpsrv.wsicorp.com /u/heartland heartland march25sun %m%d%Y.csv,,t
+CECFCSTRH,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+CECFCSTTEMP,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+ENERGYNE.MMK,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  MMK-%m%d%y.txt,"",t
+AIRTABINT,Ftp,ftpsrv.wsicorp.com /u/air air car4ewe inttable.txt,,t
+IOWACOMMODPRCPAR,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreAR_%Y%m%d.txt,"",t
+CONSUMNRGY.LAN,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun LAN-F-%m%d%y.txt,,t
+AIRWORDINT,Ftp,ftpsrv.wsicorp.com /u/air air car4ewe inttext.txt,,t
+ELEMENTREFCST1,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_F_US_%m_%d_%Y_1.csv,,t
+ELEMENTREFCST2,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_F_US_%m_%d_%Y_2.csv,,t
+ELEMENTREFCST3,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_F_US_%m_%d_%Y_3.csv,,t
+ELEMENTREFCST4,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_F_US_%m_%d_%Y_4.csv,,t
+ELEMENT.INT,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_F_INTL_%m_%d_%Y.csv ,,t
+CNGTABFCT_AM,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cng/forecast/icwf/data ftp_fcst vanillabean gtext.html,,f
+EDFHOURLY,Ftp,ftpsrv.wsicorp.com /u/eagleep eagleep b1rdNest TWCHourlyForecast-%Y%m%d_%H.csv,"",t
+JETHERHRLY,Ftp,ftpsrv.wsicorp.com /u/jether jether 1srael WSIHourlyForecast_%y%m%d.csv,"",t
+cngobstxt,Ftp,energy-ecast /u2/www/html-docs/energy2/cng/forecast/icwf/data ftp_fcst vanillabean ggas.html,,f
+OTTERTAILFCST,Ftp,ftp2.otpco.com / weather wEtHEr01 %m%d%H.for,,t
+OTTERTAILFCST04,Ftp,ftp2.otpco.com / weather wEtHEr01 %m%d04.for,,t
+OTTERTAILFCST09,Ftp,ftp2.otpco.com / weather wEtHEr01 %m%d09.for,,t
+OTTERTAILFCST11,Ftp,ftp2.otpco.com / weather wEtHEr01 %m%d11.for,,t
+OTTERTAILFCST19,Ftp,ftp2.otpco.com / weather wEtHEr01 %m%d19.for,,t
+WSITABRER.CON,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor CON-%m%d%y.txt,,t
+BOUNCEDAILYFCST,Ftp,ftpsrv.wsicorp.com /u/bounce bounce H0uston! WSI_daily_forecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+SELTABFCTU,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,"",t
+IPLRAD,Ftp,ftpsrv.wsicorp.com /u/ipl ipl polar2bear IND-RAD.TXT,,f
+WSITABRER.PVD,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  PVD-%m%d%y.txt,,t
+IPLTEMP,Ftp,ftpsrv.wsicorp.com /u/ipl ipl polar2bear IND-TMP.TXT,,f
+EDFDAILY,Ftp,ftpsrv.wsicorp.com /u/eagleep eagleep b1rdNest TWCDailyForecast-%Y%m%d_%H.csv,"",t
+SIRIUSOBS,Sftp,utilctrl.sirsol.sftp WSIObs_%y%m%d%H.csv,"",t
+BRILLIANTHOURLYOBS,Ftp,ftpsrv.wsicorp.com /u/brilliant brilliant light2power WSI_hourly_obs_%Y%m%d.csv,"",t
+MARIPOSAFCST,Ftp,ftpsrv.wsicorp.com /u/mariposa mariposa Byr0n,"",t
+BRILLIANTDAILYOBS,Ftp,ftpsrv.wsicorp.com /u/brilliant brilliant light2power WSI_daily_obs_%Y%m%d.csv,"",t
+ALLEG.KLBE,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KLBE-F-%m%d%y.txt,,t
+PBIOBSDEW,Ftp,gfs-1.twdl.co.uk /data/gfs/v10/scratch_products gfs gfs PBI6DEW,,
+ALLEG.KAOO,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KAOO-F-%m%d%y.txt,,t
+ALLEG.KMRB,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KMRB-F-%m%d%y.txt,,t
+ALLEG.KHGR,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KHGR-F-%m%d%y.txt,,t
+ALLEG.KHAO,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KHAO-F-%m%d%y.txt,,t
+ALLEG.KUNV,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KUNV-F-%m%d%y.txt,,t
+SIRIUSFCST,Sftp,utilctrl.sirsol.sftp WSIFrcst_%y%m%d%H.csv,"",t
+NATGASDISCNE,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock zone_forecast_NE.txt,"",t
+VAPRHFCST,Sftp,utilctrl.dominion.sftp.key 1hpngstd.txt,"",t
+NATGRIDLIFCSTPGP.pgp,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock ngrid.csv,"",t
+WESTARFCSTCSV.MCI,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS mci-tmp.csv,"",t
+CPLDIRSSC,Direct,53014 5 Sumter_SC_Forecast,,f
+SATCPSFCST,Ftp,ftpsrv.wsicorp.com /u/sat sat mouse4sun SATCPSFCST.%y%b%d.%H#TZ=USCenral#,,f
+DOMENERGYFCST,Ftp,ftpsrv.wsicorp.com /u/dom dom picture2dog  forecast%Y%m%d.txt,,t
+WSIFTPWSI,Ftp,"kosmo /Metops/Documents/Forecasting/WEATHERBRIEFING Weatherbrief wsi %Y%,%d%H.txt",,
+NATGRDLIOB12PPGP.pgp,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock ngrid_ver.csv,"",t
+SHELLZEOBS,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun %Y%m%d%H%M_trader_obs.csv,"",t
+NRGFCSTMWL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 MWL-F-%m%d%y.txt,,t
+WSIFTPWSI,Ftp,kosmo /Metops/Documents/Forecasting/WEATHERBRIEFING Weatherbrief wsi brief.txt,,
+BRILLIANTHOURLYFCST,Ftp,ftpsrv.wsicorp.com /u/brilliant brilliant light2power WSI_hourly_forecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+ELEMENTREOBS,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_O_US_%m_%d_%Y.csv,,t
+SOUTHFCST,Ftp,ftpsrv.wsicorp.com /u/soc soc peach4delta wsi_fcst_%m%d%y_%H.csv,,t
+TCPGFCSTSJC,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SJC-F-%m%d%y.txt,,f
+SOUTHVERIFY,Ftp,ftpsrv.wsicorp.com /u/soc soc peach4delta wsi_actuals_%m%d%y.csv,,t
+IOWACOMMODPRCPIL,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreIL_%Y%m%d.txt,"",t
+SOUTHOBS,Ftp,ftpsrv.wsicorp.com /u/soc soc peach4delta wsi_obs_%m%d%y_%H.csv,,t
+TCPGFCSTCRP,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 CRP-F-%m%d%y.txt,,f
+CECFCSTWIND,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+CECOBSWIND,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+IOWACOMMODPRCPKY,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreKY_%Y%m%d.txt,"",t
+TCPGFCSTDFW,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 DFW-F-%m%d%y.txt,,f
+IOWACOMMODPRCPIA,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreIA_%Y%m%d.txt,"",t
+TCPGFCSTIAH,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 IAH-F-%m%d%y.txt,,f
+TCPGFCSTMAF,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 MAF-F-%m%d%y.txt,,f
+IOWACOMMODPRCPMN,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreMN_%Y%m%d.txt,"",t
+IOWACOMMODPRCPSD,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreSD_%Y%m%d.txt,"",t
+IOWACOMMODPRCPND,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreND_%Y%m%d.txt,"",t
+IOWACOMMODPRCPNE,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreNE_%Y%m%d.txt,"",t
+IOWACOMMODPRCPTN,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreTN_%Y%m%d.txt,"",t
+IOWACOMMODPRCPCHI,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreCHI_%Y%m%d.txt,"",t
+IOWACOMMODPRCPMO,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreMO_%Y%m%d.txt,"",t
+IOWACOMMODPRCPMS,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreMS_%Y%m%d.txt,"",t
+IOWACOMMODTMPMS,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpMS_%Y%m%d.txt,"",t
+IOWACOMMODTMPLA,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpLA_%Y%m%d.txt,"",t
+IOWACOMMODTMPAR,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpAR_%Y%m%d.txt,"",t
+IOWACOMMODTMPTN,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpTN_%Y%m%d.txt,"",t
+IOWACOMMODTMPMI,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpMI_%Y%m%d.txt,"",t
+IOWACOMMODTMPOH,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpOH_%Y%m%d.txt,"",t
+IOWACOMMODTMPIN,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpIN_%Y%m%d.txt,"",t
+IOWACOMMODTMPIL,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpIL_%Y%m%d.txt,"",t
+IOWACOMMODTMPKY,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpKY_%Y%m%d.txt,"",t
+IOWACOMMODTMPIA,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpIA_%Y%m%d.txt,"",t
+IOWACOMMODTMPMN,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpMN_%Y%m%d.txt,"",t
+ALLEG.KPIT,Ftp,ftpsrv.wsicorp.com /u/allegSC allegSC gr33nsburg KPIT-F-%m%d%y.txt,,t
+IOWACOMMODTMPSD,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpSD_%Y%m%d.txt,"",t
+IOWACOMMODTMPND,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpND_%Y%m%d.txt,"",t
+IOWACOMMODTMPNE,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpNE_%Y%m%d.txt,"",t
+IOWACOMMODTMPMO,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpMO_%Y%m%d.txt,"",t
+IOWACOMMODTMPCHI,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpCHI_%Y%m%d.txt,"",t
+BUCKEYEFCST,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb CMH-F-%m%d%y.TXT,,t
+ENERGYNE.BDL,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  BDL-%m%d%y.txt,,t
+BRILLIANTDAILYFCST,Ftp,ftpsrv.wsicorp.com /u/brilliant brilliant light2power WSI_daily_forecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+DESHAWDAILY,Ftp,ftpsrv.wsicorp.com /u/deshaw deshaw bike76stars WSIDailyWestForecast_%Y%m%d,"",t
+IPLSPEED,Ftp,ftpsrv.wsicorp.com /u/ipl ipl polar2bear IND-WSP.TXT,,f
+cvtp.obs,Ftp,ftpsrv.wsicorp.com /u/cvp cvp tree8kite %m%d%y.act,,
+E360DAILY,Ftp,ftpsrv.wsicorp.com /u/e360 e360 A0stin! WSIDailyForecast_%Y%m%d.txt,"",t
+WSITABRER.PHL,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  PHL-%m%d%y.txt,,t
+CitadelHddData.csv,Ftp,ftpsrv.wsicorp.com /u/rni rni tye1on %m%d%yhdddata.txt,,t
+WSITABRER.BWI,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  BWI-%m%d%y.txt,,t
+NATGRDLIOB5APGP.pgp,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock ngrid_ver.csv,"",t
+WSITABRER.LAX,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  LAX-%m%d%y.txt,,t
+RELIANTHRLY,Ftp,ftpsrv.wsicorp.com /u/rel rel run9park WSI_Forecast-%m%d%y.txt,"",t
+FPLKMOB.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-MOB.XLS,"",t
+DTEMAXMIN,Ftp,ftpsrv.wsicorp.com /u/dte dte raisin2galaxy  10day_%m%d%y.csv#TZ=USEasern#,,t
+NEOSDAILYFCST,Ftp,ftpsrv.wsicorp.com /u/neos neos ones2009 %Y%m%d_daily_forecast.csv,"",t
+COMMERCENEWFCST,Ftp,powerftp.electric.com /home/wsi wsi@powerftp.zftp.com f0recasts COMMERCENEWFCST-%y%m%d.txt,,
+CSUFAXFCT,Fax,17196682061 Colorado_Springs_Forecast,,
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_srfcst.csv,"",f
+SIMOBSTRADER,Ftp,energysr1.wsicorp.com /data2/Trader/GFS_simobs op doctor simobstrader.%Y%m%d.%H%M.csv,,t
+BARCLAYSFCST,Ftp,ftpsrv.wsicorp.com /u/barclays barclays newY0rk WSI_Forecast_%Y%m%d%H.txt,"",t
+SCANAOBS,Ftp,charon.scana.com /home/wsi wsi FastBall1 %Y%m%d.txt,,t
+BPMAXMIN,Ftp,ftpsrv.wsicorp.com /u/bpe bpe apple4star %m%d%yfct.csv,,t
+WXEF_MINMAX_HR,Ftp,ftpsrv.wsicorp.com /u/sel sel grass8bird WXFMAXMIN_GFS_HR_%y%m%d,,t
+NGNEFTXT,Direct,57007 5 Natgrid_NE_Forecast,,f
+CPLAFDTXT,Direct,57000 5 Carolina_Forecast_Discussion,,f
+SIMOBSTRADER,Ftp,energysr0.wsicorp.com /data2/Trader/GFS_simobs op doctor simobstrader.%Y%m%d.%H%M.csv,,t
+CONSUMNRGY.ORD,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun ORD-F-%m%d%y.txt,,t
+RMLDFCST,Ftp,ftpsrv.wsicorp.com /u/reml reml ph1ll1es BOS-F-%m%d%y.txt,"",t
+FPLKDTS.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-DTS.XLS,"",t
+LIMALLDAILYP1,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 ,,t
+SWGTABFCT,Ftp,167.207.128.234 /SYS/web/ftpdirs/swvista/weather .wsi1.external.swgas 1snow4u sw%m%d%y.txt,,t
+FPLKPFN.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-PFN.XLS,"",t
+LIMALLDAILYP2,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 ,,t
+CWHOURTEMP.SAN,Ftp,powerftp.electric.com /home/wsi wsi@powerftp.zftp.com f0recasts CWHOURTEMP.SAN.%y%m.txt,,t
+CWHOURTEMP.LAX,Ftp,powerftp.electric.com /home/wsi wsi@powerftp.zftp.com f0recasts CWHOURTEMP.LAX.%y%m.txt,,t
+CWHOURTEMP.FAT,Ftp,powerftp.electric.com /home/wsi wsi@powerftp.zftp.com f0recasts CWHOURTEMP.FAT.%y%m.txt,,t
+SELECTENERGYOBS,Ftp,ftpsrv.wsicorp.com /u/srg srg house4sail actual_%Y%m%d.csv,,t
+WXEF_MINMAX_CLI,Ftp,ftpsrv.wsicorp.com /u/sel sel grass8bird WXFMAXMIN_GFS_CLI_%y%m%d,,t
+TCPGFCSTSAT,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SAT-F-%m%d%y.txt,,f
+EMAILRWE,Ftp,ftpsrv.wsicorp.com /u/rwe rwe polar4lime SELTABEURO.%m%d%y.txt,,t
+SPLITROCKFCST,Ftp,ftpsrv.wsicorp.com /u/sre sre planet1shark weather_f.dat,,t
+CHGTABFCT,Fax,18454865626 CENTRAL_HUDSON FORECAST,,
+MUNICHREFCST,Ftp,ftpsrv.wsicorp.com /u/renre renre boots4star %Y%m%d_USFrcst.csv,"",t
+SPLITROCKOBS,Ftp,ftpsrv.wsicorp.com /u/sre sre planet1shark  weather_a.dat,,t
+NYISOISPFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe ISP-F-%m%d%y.csv,,t
+NYISOALBFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe ALB-F-%m%d%y.csv,,t
+NYISOBGMFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe BGM-F-%m%d%y.csv,,t
+NYISOBUFFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe BUF-F-%m%d%y.csv,,t
+TCPGFCSTYYZ,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 YYZ-F-%m%d%y.txt,,f
+TCPGFCSTBDL,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BDL-F-%m%d%y.txt,"",f
+TCPGFCSTBIS,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BIS-F-%m%d%y.txt,"",f
+NYISOELMFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe ELM-F-%m%d%y.csv,,t
+NYISOJFKFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe JFK-F-%m%d%y.csv,,t
+BGEQPFFCST,Ftp,ftpsrv.wsicorp.com /u/bge/bge1 bge clam9sun %Y%m%d%Hrain.txt,,t
+NYISOLGAFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe LGA-F-%m%d%y.csv,,t
+NYISOPLBFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe PLB-F-%m%d%y.csv,,t
+NYISOPOUFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe POU-F-%m%d%y.csv,,t
+NYISOROCFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe ROC-F-%m%d%y.csv,,t
+NYISOSYRFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe SYR-F-%m%d%y.csv,,t
+NYISOUCAFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe UCA-F-%m%d%y.csv,,t
+NYISOARTFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe ART-F-%m%d%y.csv,,t
+NYISOHPNFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe HPN-F-%m%d%y.csv,,t
+NYISOMSSFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe MSS-F-%m%d%y.csv,,t
+NYISOMSVFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe MSV-F-%m%d%y.csv,,t
+NYISOSWFFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe SWF-F-%m%d%y.csv,,t
+PRGOBS,Ftp,ftpsrv.wsicorp.com /u/pgn pgn dog7star  obs%m%d%Y_%H.txt,,t
+CONSUMNRGY.DTW,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun DTW-F-%m%d%y.txt,,t
+WESTAROBSXML,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS WEATHER_ACTUAL_%Y%m%d%H%M%S.xml#TZ=USCenral#,"",t
+RNIFCST,Ftp,ftpsrv.wsicorp.com /u/rni rni tye1on %m%d%yfcstdata.txt,,t
+DIRECTNRGFCST,Email ,ops@directenergy.com,,t
+FPLKPNS.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-PNS.XLS,"",t
+CitadelHddData.csv,Ftp,ftpsrv.wsicorp.com /u/rni rni tye1on %m%d%yhdddata.txt,,t
+PRGECC1,Fax,19195463466 Progress_Energy_ECC,,f
+STECFCSTHOURLY,Ftp,ftpsrv.wsicorp.com /u/stec stec 7pEanuts,,
+KNYC.xls,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%ynyc.xls,,t
+PRGECC2,Ftp,ftpsrv.wsicorp.com /u/pgn pgn dog7star  %m%d%Yeccfcst.txt#TZ=USEasern#,,t
+SELTABEXT1F,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+PRGECC2,Ftp,ftpsrv.wsicorp.com /u/pgn pgn dog7star weather.dat#TZ=USEasern#,,t
+PBIFCSTDEW,Ftp,gfs-1.twdl.co.uk /data/gfs/v10/scratch_products gfs gfs PBI24DEW,,
+PRGECC1,Fax,19195463467 Progress_Energy_ECC,,f
+INTERGENFCST,Ftp,ftp.intergen.com /wsi  wsi weather %m%d%y.csv,,t
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/vitol vitol elan6signs %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+MISSGE,Ftp,ftpsrv.wsicorp.com /u/mge mge tiger45planet obs-%m%d%y.txt,,t
+CHGGASFCTGSDY,Ftp,ftpsrv.wsicorp.com /u/chg chg toad8snow POU-F-%Y%m%d.csv,"",t
+SOLEAHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/solea solea bring0ntheW1nd %y%m%d%H_Obs.csv#TZ=USCenral#,"",t
+DTEHOURLYOBS,Ftp,ftpsrv.wsicorp.com /u/dte dte raisin2galaxy  New_%m%d%yOBS.csv#TZ=USEasern#,,t
+PSEG.HVN,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail HVN-F-%m%d%y.txt,,t
+COMLIMFCSTHRLY,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 ,,f
+ELEMENT.FE,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_F_FE_%m_%d_%Y.csv,,t
+TODDFCST,Ftp,energysr0 /data2/Trader/NatGas/Forecasts op doctor %y%m%dWSIfcst.txt,,t
+KSPV.xls,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%yspv.xls,,t
+SELTABFCT,Ftp,ftpsrv.wsicorp.com /u/bpe bpe apple4star,,t
+EQUITECHFCST,Ftp,ftpsrv.wsicorp.com /u/eqi eqi horse1round maxminfcst.txt,,t
+MXENERGYOBS,Ftp,ftp.data.mxenergy.com / wsitest jailounge pastwx_%Y-%m-%d.csv,,
+INFORMAAFRICA,Ftp,ftpsrv.wsicorp.com /u/informa informa ec0n0mics afr%Y%m%d.txt,"",t
+PRGECC1,Direct,53026 5 Progress_Energy_Forecast,,f
+BIOURJAHRLY,Ftp,ftpsrv.wsicorp.com /u/biourja biourja safeh0spital WSIHourlyForecast_%Y%m%d.csv,"",t
+BIOURJAMAXMINOBS,Ftp,ftpsrv.wsicorp.com /u/biourja biourja safeh0spital WSIDailyMaxMinObs_%Y%m%d.csv,"",t
+ENERGYNE.BOS,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  BOS-%m%d%y.txt,,t
+PBIFCSTTEMP,Ftp,gfs-1.twdl.co.uk /data/gfs/v10/scratch_products gfs gfs PBI24TEMP,,
+INFORMASA,Ftp,ftpsrv.wsicorp.com /u/informa informa ec0n0mics sam%Y%m%d.txt,"",t
+ENERGYNE.PVD,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  PVD-%m%d%y.txt,,t
+SMMPAOBS,Ftp,ftpsrv.wsicorp.com /u/smmpa smmpa spring54car wsi%m%d%yobs.csv,,t
+EQUITECHFCST,Ftp,ftpsrv.wsicorp.com /u/eqi eqi horse1round maxminfcst%m%d.txt,,t
+ECAST_ZFP,Ftp,energysr1 /data2/ECA/WordedForecasts/ op doctor ECAST_ZFP,"",t
+CONSUMNRGY.ATL,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun ATL-F-%m%d%y.txt,,t
+GREENMTOBSARCH,Ftp,ftpsrv.wsicorp.com /u/greenmt greenmt steppe2verdant archived_obs.txt,,t
+SARACENHRLYFCSTMX,Ftp,ftpsrv.wsicorp.com /u/saracen saracen horse3empire MexicoHourlyForecast_%Y%m%d.csv,"",t
+SARACENHRLYOBSMX,Ftp,ftpsrv.wsicorp.com /u/saracen saracen horse3empire MexicoHourlyObservations_%Y%m%d.csv,"",t
+CPSTXOBS,Ftp,207.200.35.38 /wsi ftpweather wsi@#Cpe9$ CPSTXOBS.%y%b%d%H.xml,,t
+MXENERGYFCST,Ftp,ftp.data.mxenergy.com / wsitest jailounge forecast_%Y-%m-%d.csv,,f
+MACQUARIE_FCST,Ftp,ftpsrv.wsicorp.com /u/macquarie macquarie dustst0rm2019  %Y%m%d%H_fcst.csv,,t
+ALYVERIFSUM,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# VERIF.txt,,t
+GOLDSACMXMN,Ftp,ftpserver.gs.com  /incoming  ftpwsi ftp123wsi maxmin%y%m%d,,t
+OTTERTAILOBS,Ftp,ftpsrv.wsicorp.com /u/ottertail ottertail land0lakes %m%d11.act,,t
+WESTARFCSTXML,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS WEATHER_FORECAST_%Y%m%d%H%M%S.xml#TZ=USCenral#,"",t
+UTAUSTINOBS,Ftp,ftpsrv.wsicorp.com /u/utaustin utaustin Longh0rns WSIHourlyObs.csv,"",t
+PBIOBSTEMP,Ftp,gfs-1.twdl.co.uk /data/gfs/v10/scratch_products gfs gfs PBI6TEMP,,
+PRTFCST,Ftp,ftp.prt-inc.com / wsi w1909 prt.for,,t
+PRTOBS,Ftp,ftp.prt-inc.com / wsi w1909 prt.act,,t
+NATGASSCADA48.FRG,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_FRG.txt,"",t
+BANKUSAFCST,Ftp,ftpsrv.wsicorp.com /u/boa boa mouse9jupiter maxmin%y%m%d,,t
+DIRECTNRGOBS,Email ,ops@directenergy.com,,t
+CONSUMNRGY.MSP,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun MSP-F-%m%d%y.txt,,t
+SWISSREDAILY,Ftp,ftpsrv.wsicorp.com /u/swissre swissre maple56gum TWCDailyForecast_%y%m%d.csv,"",t
+CITIGROUPHRLY,Ftp,ftpsrv.wsicorp.com /u/citigroup citigroup megalopolis %Y%m%d_hourly.csv,"",t
+CHGGASOBSSWF,Ftp,ftpsrv.wsicorp.com /u/chg chg toad8snow CHGGASOBS_SWF.%Y%m%d.%H,"",t
+HEARTLANDOBS,Ftp,ftpsrv.wsicorp.com /u/heartland heartland march25sun observed.csv,"",t
+CHGGASOBSSWF,Attachment,chggasobs_SWF.txt,"",t
+CNGGASDAY,Ftp,ftpsrv.wsicorp.com /u/cng cng Hartf0rd! weather_gas_%Y%m%d.dat,"",t
+WXECONFCST,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXECONFCST.%y%b%d,,t
+CHGELEOBSSWF,Ftp,ftpsrv.wsicorp.com /u/chg chg toad8snow CHGELEOBS_SWF.%Y%m%d.%H,"",t
+WXECONQPFOBS,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXECONQPFOBS.%y%b%d,,t
+SELTABEXT2F,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+NYSEGFCST,Ftp,ftpsrv.wsicorp.com /u/nys nys plum38jupiter %y%m%d.txt,,t
+GASTRADERFCT,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+GBESOLAROBS,Ftp,ftpsrv.wsicorp.com /u/gbe gbe H0tnC0ld %Y%m%d_solar_obs.csv,"",t
+TRADEROBS,Ftp,energy-web3.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor trader_hourly_obs.txt,,t
+CHGELEOBSSWF,Attachment,chgeleobs_SWF.txt,"",t
+AIRTABEUR,Ftp,208.252.198.54 /intellicast enhanced encast eurtable.txt,,f
+AIRTABEUR,Ftp,208.252.198.54 /enhanced enhanced encast eurtable.txt,,f
+AIRWORDEUR,Ftp,208.252.198.54 /enhanced enhanced encast eurtext.txt,,f
+AIRWORDEUR,Ftp,208.252.198.54 /intellicast enhanced encast eurtext.txt,,f
+SOLEAHRLYFCSTPRI,Ftp,ftpsrv.wsicorp.com /u/solea solea bring0ntheW1nd %y%m%d%H_Forecast.csv#TZ=USCenral#,"",t
+CFANDAILYOBS,Sftp,utilctrl.cfan.sftp CFAN_EUROPEAN_DAILY_OBS_%y%m%d.csv,"",t
+TCPGFCSTBOI,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BOI-F-%m%d%y.txt,"",f
+TCPGFCSTCHS,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 CHS-F-%m%d%y.txt,"",f
+TCPGFCSTCMH,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 CMH-F-%m%d%y.txt,"",f
+PIMCOHRLY,Ftp,ftpsrv.wsicorp.com /u/pimco pimco loadweatherdata TWCHourlyForecast_%Y%m%d_%H.csv#TZ=USPacfic#,"",t
+WSITABRER.BOS,Ftp,ftpsrv.wsicorp.com /u/env env tree9star  BOS-F-%m%d%y.txt,,f
+WSITABRER.CON,Ftp,ftpsrv.wsicorp.com /u/env env tree9star CON-F-%m%d%y.txt,,f
+WSITABRER.PVD,Ftp,ftpsrv.wsicorp.com /u/env env tree9star PVD-F-%m%d%y.txt,,f
+PRGTABFCT,Ftp,ftpsrv.wsicorp.com /u/pgn pgn dog7star  %m%d%Y_%H.txt#TZ=USEasern#,,t
+GLACIALHRLY,Ftp,mailvi.glacialenergy.com /wsi wsi glacial ALLN-F-%m%d%y.txt,"",t
+PSEG.BDL,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail BDL-F-%m%d%y.txt,,t
+ECAST_OBS,Ftp,energysr1 /data2/ECA/WeatherData op doctor ECAST_OBS.%y%b%d.%H,"",t
+MORGANSTANOBSW2,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_obs_west2_%Y%m%d%H,,t
+MORGANSTANFCSTW2,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_west2_%Y%m%d%H,,t
+NATGASFCTFTP,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock niag.csv,,t
+FACTRAK_TVA,Ftp,xevious.wsicorp.com TVA/FACTRAK_TVA mam6 mauler3,,t
+HESSELECFCST,Sftp,utilctrl.duke %y%m%d%Hfcst.csv,"",t
+ZEPOWERHRLY,Ftp,ftpsrv.wsicorp.com /u/zepower zepower Vanc0uver WSITraderHourlyForecast_%Y%m%d.csv,"",t
+NATGASSCADA48.LGA,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_LGA.txt,"",t
+CONSXMLOBS,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun weather_%Y%m%d.xml,,t
+ALGMETTXT,Direct,53029 5 Marietta_OH,,f
+TCPGFCSTDAY,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 DAY-F-%m%d%y.txt,"",f
+HTNATEXT,Ftp,ftpsrv.wsicorp.com /u/keystone keystone cops2010 %Y%m%d%H_hourly_trader_lrfcst.csv,"",f
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/exion exion shuttle2movie %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+MAGHRLY,Ftp,ftpsrv.wsicorp.com /u/mag mag M0ntreal WSIHourlyForecast_%Y%m%d.csv,"",t
+DIAMONDFCST,Attachment,DIAMONDFCST.%y%b%d.%H.csv,"",t
+TCPGFCSTDEN,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 DEN-F-%m%d%y.txt,"",f
+MORGANSTANFCSTE3,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_east3_%Y%m%d%H,,t
+MORGANSTANOBSE3,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_obs_east3_%Y%m%d%H,,t
+ELEMENTREGAS,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_F_GD_%m_%d_%Y.csv,,t
+EMAILRWEUPDATE,Ftp,ftpsrv.wsicorp.com /u/rwe rwe polar4lime SELTABEUROU.%m%d%y.txt,,t
+IOWACOMMODPRCPSA,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreSA_%Y%m%d.txt,"",t
+ENTRUSTHRLY,Ftp,ftpsrv.wsicorp.com /u/entrust entrust G0ld7St0ne WSIHourlyForecast_%y%m%d%H.csv,"",t
+IPLCLOUD,Ftp,ftpsrv.wsicorp.com /u/ipl ipl polar2bear IND-CLC.TXT,,f
+IPLRH,Ftp,ftpsrv.wsicorp.com /u/ipl ipl polar2bear IND-HUM.TXT,,f
+NCETABFCT.EWN,Direct,48065 5 New_Bern_NC,"",f
+COMLIMOBSHRLY,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 ,,f
+TCPGFCSTDSM,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 DSM-F-%m%d%y.txt,"",f
+NRGFCSTORD,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ORD-F-%m%d%y.txt,"",t
+NATGASFCTFTP2,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock niag2.csv,,t
+SANTEEFCST,Ftp,ftpsrv.wsicorp.com /u/santeecooper santeecoooper swamp2sun WSIFrcst_%y%m%d%H.csv,"",t
+ZEPOWERHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/zepower zepower Vanc0uver WSITraderHourlyObs_%Y%m%d_%H.csv,"",t
+COPPERWOODOBSEU,Ftp,ftpsrv.wsicorp.com /u/copperwood copperwood B1gR0de0 15dayobsEU.txt,"",t
+PSEG.ALB,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail ALB-F-%m%d%y.txt,"",t
+ALYRHPA,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HPA%Y%m%d.txt,,t
+TCPGFCSTEAU,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 EAU-F-%m%d%y.txt,"",f
+LIMMAXMIN,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 promomaxminfcst%m%d%y.txt,,t
+BERKGASFCST,Ftp,ftpsrv.wsicorp.com /u/brk brk apple8snow fcst%y%m%d.csv,,t
+AIRZFPFCT,Ftp,208.252.198.54 /intellicast enhanced encast ustext.txt,,f
+ALYRHWV,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HWV%Y%m%d.txt,,t
+ALYTMPAP,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TAP%Y%m%d.txt,,t
+ALYTMPMD,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TMD%Y%m%d.txt,,t
+ALYSPDND.MET,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WOH%Y%m%d.txt,,f
+ALYTMPPA,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TPA%Y%m%d.txt,,t
+ALYTMPWV,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TWV%Y%m%d.txt,,t
+ALYSPDWV,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WWV%Y%m%d.txt,,t
+ALYSPDAP,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WAP%Y%m%d.txt,,t
+ALYSPDMD,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WMD%Y%m%d.txt,,t
+ALYSPDPA,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WPA%Y%m%d.txt,,t
+ALYSPDND.GRE,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WPA%Y%m%d.txt,,t
+ALYSPDND.HGR,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WMD%Y%m%d.txt,,t
+IOWACOMMODTMPSA,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonTmpSA_%Y%m%d.txt,"",t
+ALYRHND.CKB,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HWV%Y%m%d.txt,,t
+ALYRHND.GRE,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HPA%Y%m%d.txt,,t
+ALYRHND.HGR,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HMD%Y%m%d.txt,,t
+NRGFCSTSJT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SJT-F-%m%d%y.txt,,t
+ALYTEMPND.CKB,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TWV%Y%m%d.txt,,t
+tdamcities.txt,Email,"",,t
+ALYTEMPND.GRE,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TPA%Y%m%d.txt,,t
+ENERGYNE.TAN,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  TAN-%m%d%y.txt,,t
+ENTERGY2FCST,Ftp,ftpsrv.wsicorp.com /u/ent ent food2cart %m%d%yfct.csv,,t
+ENTERGY2OBS,Ftp,ftpsrv.wsicorp.com /u/ent ent food2cart %m%d%yobs.csv,,t
+AIRTABFCT,Ftp,208.252.198.54 /intellicast enhanced encast ustable.txt,,f
+NGRID_LI,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock li_fcst.txt,,t
+NATGASSYR,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock syr_fcst.txt,,t
+DIRECTNRGOBS,Email ,ops@na.centrica.com,,t
+ELEMENTREGASOBS,Ftp,ftpsrv.wsicorp.com /u/elm elm marble1book WSI_O_GD_%m_%d_%Y.csv,,t
+NATGASWAL,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock wal_fcst.txt,,t
+FIRST_CHOICE_MAXMIN,Ftp,ftpsrv.wsicorp.com /u/firstchoice firstchoice cat34nip %Y%m%dmaxmin.csv,,t
+IPLHEATINDEX,Ftp,ftpsrv.wsicorp.com /u/ipl ipl polar2bear IND-HIX.TXT,,f
+CITIGROUPMXMN,Ftp,ftpsrv.wsicorp.com /u/citigroup citigroup megalopolis %Y%m%d_maxmin.csv,,t
+COPPERWOODFCSTEU,Ftp,ftpsrv.wsicorp.com /u/copperwood copperwood B1gR0de0 15dayfcstEU.txt,"",t
+VAPRHOBS,Sftp,utilctrl.dominion.sftp.key hpngver.txt,"",t
+SOCGENEASTFCST,Ftp,ftpsrv.wsicorp.com /u/socgen socgen dog76bones forecast_east%m%d%y.txt,,t
+SOCGENWESTFCST,Ftp,ftpsrv.wsicorp.com /u/socgen socgen dog76bones forecast_west%m%d%y.txt,,t
+NCETABFCT.GSB,Direct,48066 5 Goldsboro_NC,"",f
+NC2OBSTXT.FBG,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48030.txt,,f
+ALGCKBTXT,Direct,53027 5 Clarksburg_WV,,f
+ALGGRETXT,Direct,53030 4 Greensurg_PA,,f
+ALGOKVTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/alg/forecast/icwf/data ftp_fcst vanillabean ALGOKVTXT,,f
+APALERTTEXT,Direct,57001 5 AP_Alert,,f
+NGNEFTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57007.txt,,f
+NGNHATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57010.txt,,f
+CPLAFDTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57000.txt,,f
+NGBSWATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57009.txt,,f
+NGBSSATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57008.txt,,f
+TCPGFCSTHVN,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 HVN-F-%m%d%y.txt,"",f
+SEMINOLEHOURLYFCST,Ftp,ftpsrv.wsicorp.com /u/seminole seminole H0tFl0rida WSI_hourly_forecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+ISOTABFCT,Ftp,ftpsrv.wsicorp.com /u/isone isone L0adForecast1ng F_%Y%m%d.csv,"",t
+MORVRENRGYFCST,Ftp,ftpsrv.wsicorp.com /u/morvr morvr T1gers! wsi_weather_f.txt,"",t
+AIRTABFCT,Ftp,ftpsrv.wsicorp.com /u/air air car4ewe ustable.txt,,t
+PRTCLOUDFCST,Ftp,ftp.prt-inc.com / wsi w1909 prtc.for,,t
+PRTCLOUDOBS,Ftp,ftp.prt-inc.com / wsi w1909 prtc.act,,t
+PRTDEWFCST,Ftp,ftp.prt-inc.com / wsi w1909 prtd.for,,t
+PRTRHFCST,Ftp,ftp.prt-inc.com / wsi w1909 prth.for,,t
+PRTRHOBS,Ftp,ftp.prt-inc.com / wsi w1909 prth.act,,t
+PRTDEWOBS,Ftp,ftp.prt-inc.com / wsi w1909 prtd.act,,t
+PRTSPDFCST,Ftp,ftp.prt-inc.com / wsi w1909 prtw.for,,t
+BANKUSAOBS,Ftp,ftpsrv.wsicorp.com /u/boa boa mouse9jupiter OBSMAXMIN,,t
+REPUBLICFCST,Ftp,ftpsrv.wsicorp.com /u/rep rep mars4snow  F-%m%d%y.txt,,t
+CSFBFCSTOBSDLY,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 ,,t
+EDFMEXFCST,Ftp,ftpsrv.wsicorp.com /u/eagleep eagleep b1rdNest MexicoObsForecast-%Y%m%d%H.csv,"",t
+CSFBFCSTOBSDLY2,Ftp,ftpsrv.wsicorp.com /u/csfb csfb data4UU ,,t
+NATGASSCADADAILY.ALB,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_ALB.txt,"",t
+SIRIUSFCST,Ftp,elm.sirsol.com Import elmwsi WeatherDrop# WSIFrcst_%y%m%d%H.csv,"",f
+AIRTABINT,Ftp,208.252.198.54 /intellicast enhanced encast inttable.txt,,f
+PSEG.DCA,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail DCA-F-%m%d%y.txt,,t
+CITIZENSDAILY,Ftp,ftp.cgcu.com / wsi wsi4wx CM-WTDUP_%Y%m%d.csv,"",t
+PRTPOPFCST,Ftp,ftp.prt-inc.com / wsi w1909 prtp.for,,t
+SESCOFCST,Ftp,ftpsrv.wsicorp.com /u/ses ses pluto8grass forecast.csv,,t
+BPOBS,Ftp,ftpsrv.wsicorp.com /u/bpe bpe apple4star,,t
+NCEECGTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53033.txt,"",t
+NRGFCSTACT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ACT-F-%m%d%y.txt,,t
+MORGANSTANFCSTE1,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_east1_%Y%m%d%H,,t
+UBSWARBURGMXMN,Ftp,ftpsrv.wsicorp.com /u/ubs ubs jupiter1lion mxmnfcst.csv,,f
+MORGANSTANFCSTE2,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_east2_%Y%m%d%H,,t
+TVAFCST,Ftp,ftpsrv.wsicorp.com /u/tva tva turkey8snow,,t
+TVAFCST,Ftp,ftpsrv.wsicorp.com /u/tva tva turkey8snow CURRENTFCST,,t
+MORGANSTANOBSE1,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_obs_east1_%Y%m%d%H,,t
+MORGANSTANOBSE2,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_obs_east2_%Y%m%d%H,,t
+DUKEDAILYOBS,Ftp,ftpsrv.wsicorp.com /u/duke duke ohio4reds DEGDY%m%d%y.txt#TZ=USHawaii#,"",t
+OTTERTAILFCST04,Ftp,ftpsrv.wsicorp.com /u/ottertail ottertail land0lakes %m%d04.for,,t
+NC2OBSTXT.ECG,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48048.txt,"",t
+OTTERTAILFCST,Ftp,ftpsrv.wsicorp.com /u/ottertail ottertail land0lakes %m%d%H.for,,t
+HEOROTPWRHRLY,Attachment,TWCHourlyForecast_%Y%m%d.csv,"",t
+MORGANSTANOBSW1,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_obs_west1_%Y%m%d%H,,t
+MEXICODAILY,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! WSITraderMexicoDailyForecast_%Y%m%d.csv,"",t
+TCPGFCSTIAD,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 IAD-F-%m%d%y.txt,"",f
+BOUNCEHOURLYFCST,Ftp,ftpsrv.wsicorp.com /u/bounce bounce H0uston! WSI_hourly_forecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+SEQUENTDAILYDD,Attachment,TWCDailyForecast_%y%m%d.csv,"",t
+CWHOURWS,Ftp,powerftp.electric.com /home/wsi wsi@powerftp.zftp.com f0recasts CWHOURWS-%y%m%d.txt,,t
+ENVADOMFCST,Ftp,ftpsrv.wsicorp.com /u/env env tree9star dom.txt,,t
+KLGA.xls,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%ylga.xls,,t
+LDHMXMNFTPFCST,Ftp,ftpsrv.wsicorp.com /u/nrg2 nrg2 haum0nim forecast fcst%m%d%y.csv,,t
+NATGASOBSFTP,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock niagver.csv,,t
+OTTERTAILFCST09,Ftp,ftpsrv.wsicorp.com /u/ottertail ottertail land0lakes %m%d09.for,,t
+OTTERTAILFCST11,Ftp,ftpsrv.wsicorp.com /u/ottertail ottertail land0lakes %m%d11.for,,t
+CITIZENSDAILY,Ftp,ftpsrv.wsicorp.com /u/citizensenergy citizensenergy warmcoldwinter CM-WTDUP_%Y%m%d.csv,"",t
+ALYRHND.AP,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HAP%Y%m%d.txt,,t
+ALYSPDND.AP,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WAP%Y%m%d.txt,,t
+ALYTEMPND.AP,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TAP%Y%m%d.txt,,t
+ACESHRLYNTLFCST,Sftp,utilctrl.aces.sftp WSIForecast.txt,"",t
+TCPGFCSTIND,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 IND-F-%m%d%y.txt,"",f
+LGEKUFCST,Ftp,ftpsrv.wsicorp.com /u/lgeku lgeku B0urb0n %A.txt,"",t
+AIRWORDINT,Ftp,208.252.198.54 /intellicast enhanced encast inttext.txt,,f
+TCPGFCSTJFK,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 JFK-F-%m%d%y.txt,"",f
+NATGASSAMPLEFTP,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock niagversample.csv,,t
+POWERPOOLHI,Ftp,energysr1.wsicorp.com /data2/Trader/forecasts/hourly op doctor heat_index_%Y%m%d.csv,,t
+OBS_FACTRAK_TVA,Ftp,xevious.wsicorp.com TVA/OBS_FACTRAK_TVA mam6 mauler3,,t
+CWHOURRH,Ftp,powerftp.electric.com /home/wsi wsi@powerftp.zftp.com f0recasts CWHOURRH-%y%m%d.txt,,t
+CWHOURTEMP,Ftp,powerftp.electric.com /home/wsi wsi@powerftp.zftp.com f0recasts CWHOURTEMP-%y%m%d.txt,,t
+NCETABFCT.FAY,Direct,48012 5 Fayetteville_NC,,f
+NCEFAYTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53011.txt,,f
+NGNYFTXT,Direct,57003 5 Natgrid_NY_Forecast,,f
+NGNYCATXT,Direct,57005 5 Natgrid_NY_Central_Alert,,f
+NGNYWATXT,Direct,57004 5 Natgrid_NY_West_Alert,,f
+TCPGFCSTLAS,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 LAS-F-%m%d%y.txt,"",f
+SELECTENERGYFCST,Ftp,ftpsrv.wsicorp.com /u/srg srg house4sail forecast_%Y%m%d.csv,,t
+CENTAURUS2DAILY,Ftp,ftpsrv.wsicorp.com /u/centaurus2 centaurus2 horseLeg5 daily-forecast-%Y%m%d.%H.txt,,f
+EKTMAXMIN,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant,,t
+MORGANSTANFCSTW1,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_west1_%Y%m%d%H,,t
+FPLKMIA.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-MIA.XLS,"",t
+ACESHRLYOBS,Sftp,utilctrl.aces.sftp hourlyob.wca,"",t
+ACESHRLYMISSFCST,Sftp,utilctrl.aces.sftp forecastW.wca,"",t
+IPLMAXMIN,Ftp,ftpsrv.wsicorp.com /u/ipl ipl polar2bear IND-DAILY.TXT,,f
+FPLKDTS.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-DTS.XLS,"",t
+FPLKTPA.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-TPA.XLS,"",t
+CARGFCST,Ftp,ftpsrv.wsicorp.com /u/car car oat4car %m%d%YFCT%H.csv,,f
+IIRHDD,Ftp,www.industrialinfo.com /wsi2iir wsi wipclp1 IIRHDD.%Y%m%d%H,,t
+CFANATLECM12_15DAYTC,Ftp,ftpsrv.wsicorp.com /u/deshaw deshaw bike76stars CFAN_ATL_ECMWF_12_15daytcprob_m3_%Y%m%d.nc,"",t
+MILLENIUMHRLYOBS,Ftp,dataportal.wsi.com . millenium L0nd0n hourly.%y%m%d%H.csv,"",t
+TCPGFCSTLAX,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 LAX-F-%m%d%y.txt,"",f
+TCPGFCSTLUK,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 LUK-F-%m%d%y.txt,"",f
+OVOHRLYFCST,Ftp,dataportal.wsi.com . ovo Eur0peEnergy WSIHourlyForecast_%y%m%d%H.csv,"",t
+SESCODAILY,Ftp,ftpsrv.wsicorp.com /u/ses ses pluto8grass DailyForecast.csv,"",t
+AJJAINOBS,Ftp,ftpsrv.wsicorp.com /u/ajjain ajjain Calif0rnia! WSI_daily_obs_%Y%m%d.csv,"",t
+ARETEHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/arete arete Gr33k hourly_obs_%y%m%d.csv,"",t
+SIRIUSOBS,Ftp,elm.sirsol.com Import elmwsi WeatherDrop# WSIObs_%y%m%d%H.csv,"",f
+WEATHERBILLFCST,Ftp,ftpsrv.wsicorp.com /u/weatherbill weatherbill Baseba11 F%m%d%Y.usa.csv#TZ=USEasern#,,t
+CHGELEOBS,Fax,18454865626 CENTRAL_HUDSON ELECTRIC_OBS,,
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/mercuria mercuria hotPlanet7 %Y%m%d%H%M_hourly_trader_srfcst.csv ,"",f
+HTNATEXT,Ftp,ftpsrv.wsicorp.com /u/mercuria mercuria hotPlanet7 %Y%m%d%H%M_hourly_trader_lrfcst.csv ,"",f
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/mercuria mercuria hotPlanet7 %Y%m%d%H%M_hourly_trader_srfcst.csv ,"",f
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/kanEnergy kanEnergy m1s0w1nd %Y%m%d%H09_hourly_trader_srfcst.csv,"",f
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/kanEnergy kanEnergy m1s0w1nd %Y%m%d%H09_hourly_trader_srfcst.csv,"",f
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/keystone keystone cops2010 %Y%m%d%H_hourly_trader_srfcst.csv,"",f
+HTWESTFC,Ftp,ftpsrv.wsicorp.com /u/sempra sempra Stamf0rd %Y%m%d%H%M_hourly_trader_west_srfcst.csv,"",f
+KOCHOBSDAILY,Ftp,ftpsrv.wsicorp.com /u/koch koch notCola %y%m%d.%H.obs_daily.csv,,
+APOLLOHOURLY,Ftp,ftpsrv.wsicorp.com /u/apollo apollo m00nr0ck HOURLY-%m%d%y.txt,"",f
+HTEASTOBS,Ftp,ftpsrv.wsicorp.com /u/dufossat dufossat Rain0rShine %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+EENDEAVORSXML,Ftp,ftpsrv.wsicorp.com /u/eendeavors eendeavors March1506 %Y%m%d.%H.xml,,t
+OXYFCST2,Ftp,ftpsrv.wsicorp.com /u/oxy2 oxy2 fish87land %Y%m%d%Hfcst.csv,,t
+SIMTEMPICAST,Ftp,tile-store01.wsicorp.com /wxtext/simTempIcast/ imapdev L\!3b3r7 simTempIcast+%Y%m%d.%H%M.gml,,t
+SIMTEMPICAST,Ftp,tile-store02.wsicorp.com /wxtext/simTempIcast/ imapdev L\!3b3r7 simTempIcast+%Y%m%d.%H%M.gml,,t
+IIRCDD,Ftp,www.industrialinfo.com /wsi2iir wsi wipclp1 IIRCDD.%Y%m%d%H,,t
+DTEDAILYOBS,Ftp,ftpsrv.wsicorp.com /u/dte dte raisin2galaxy  Daily_New_%m%d%yOBS.csv#TZ=USEasern#,,t
+HBKMXMNFCST,Email,"",,f
+FPLKMCO.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-MCO.XLS,"",t
+PSEG.EWR,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail EWR-F-%m%d%y.txt,,t
+NATGASFCTEMAIL,Fax,13154602349 National_Grid_Gas_Forecast,,f
+ECAST_OBS,Ftp,energysr0 /data2/ECA/WeatherData op doctor ECAST_OBS.%y%b%d.%H,,t
+ODECHOURLY1YR,Ftp,ftpsrv.wsicorp.com /u/odec odec D0m1n10n WSI_1YR_Forecast_%Y%m%d.csv,"",t
+EDFNEHOURLY,Ftp,ftpsrv.wsicorp.com /u/eagleep eagleep b1rdNest TWCNortheastHourlyForecast-%Y%m%d_%H.csv,"",t
+TCPGFCSTMCI,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 MCI-F-%m%d%y.txt,"",f
+TCPGFCSTMKE,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 MKE-F-%m%d%y.txt,"",f
+TCPGFCSTORD,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ORD-F-%m%d%y.txt,"",f
+TCPGFCSTORH,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ORH-F-%m%d%y.txt,"",f
+TCPGFCSTPHX,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 PHX-F-%m%d%y.txt,"",f
+TCPGFCSTPIT,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 PIT-F-%m%d%y.txt,"",f
+TCPGFCSTPWM,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 PWM-F-%m%d%y.txt,"",f
+UGIHRLY,Ftp,ftpsrv.wsicorp.com /u/ugi ugi pennquakers TWCHourlyForecast_%Y%m%d.csv,"",t
+DIRECTDAILY15DAY,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne F-15DAY-%Y%m%d.TXT,"",t
+TCPGFCSTSAN,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SAN-F-%m%d%y.txt,"",f
+NC2OBSTXT.FAY,Direct,48025 5 Fayetteville_NC,,f
+NC2OBSTXT.FAY,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48025.txt,,f
+NCEGSBTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53040.txt,,f
+NCEECGTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53033.txt,,f
+NCEEWNTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53032.txt,,f
+NCEFAYTXT,Direct,53011 5 Fayetteville_NC,,f
+NCERICTXT,Direct,53022 5 Richmond_VA,,f
+ALGHGRTXT,Direct,53028 5 Hagerstown_MD,,f
+ALGOKVTXT,Direct, 53031 5 WInchester_VA,,f
+NGNYWATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57004.txt,,f
+TCPGFCSTSEA,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SEA-F-%m%d%y.txt,"",f
+TCPGFCSTSFO,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SFO-F-%m%d%y.txt,"",f
+TCPGFCSTRIC,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 RIC-F-%m%d%y.txt,"",f
+PSEG.PIT,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail PIT-F-%m%d%y.txt,"",t
+SUSQHRLYAUS,Ftp,ftpsrv.wsicorp.com /u/sus sus river45cats %m%d%Y%H_AusFrcst.txt,"",t
+BGETABFTP,Ftp,ftpsrv.wsicorp.com /u/bge bge clam9sun wsiweather.txt,,t
+MEXICOHOURLY,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! WSITraderMexicoHourlyForecast_%Y%m%d.csv,"",t
+PHOENIXHOURLYOBS,Ftp,energy-dev-ingest1 /data/energyingest/data/ op doctor OBSGFSHOURLY.%Y%m%d%H,,t
+BGEDEWFCST,Ftp,ftpsrv.wsicorp.com /u/bge/bge1 bge clam9sun %Y%m%d%Hdew.txt,,t
+MISSGEFAX,Fax,18163605520 Missouri_Gas_Electric  Greg_Hayes,,t
+BGEOBSBGE,Ftp,ftpsrv.wsicorp.com /u/bge bge clam9sun BGEOBSBGE,,t
+BOFAHRLYFCST12AM,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant twc%Y%m%d,"",t
+SELTABFCT,Ftp,ftpsrv.wsicorp.com /u/pge pge river8money,,f
+TWCDAILY,Attachment,DailyObsFrcst_%y%m%d.csv,"",t
+TODDGDICAST,Attachment,%Y%m%d%HGDIcast_DIGIT.csv,,t
+BOFADLYOBS,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant A%m%d%Y.txt,"",t
+BOFADLYFCST,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant F%m%d%Y.txt,"",t
+PPLIBMHRLY,Ftp,ftpsrv.wsicorp.com /u/ppl ppl key8stone %Y%m%d%H00_TWCHourlyForcast.csv,"",t
+CARGFCST,Ftp,ftpsrv.wsicorp.com /u/macquarie/custom macquarie dustst0rm2019 %Y%m%d%H_fcst.csv,"",t
+WSIOBSHGE,Fax,14135332419 Holyoke_Gas_and_Electric P_Monahan,,t
+CARGILLPOOLSFCST,Ftp,ftpsrv.wsicorp.com /u/macquarie/custom macquarie dustst0rm2019 %m%d%ypoolfcst.csv,"",t
+BOFADLYFCST12DFC,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant 12dfc198.txt,"",t
+KOCHOBSHOURLY,Ftp,ftpsrv.wsicorp.com /u/koch koch notCola %y%m%d.%H.obs_hourly.csv,,
+ALYTMPOBSMD,Ftp,ftp.alleghenyenergy.com /ACT A31721620 J$39po# AMD%Y%m%d.txt,,t
+LIMMAXMINOBS,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 promomaxminobs%m%d%y.txt,,t
+CONSUMNRGY.CVG,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun CVG-F-%m%d%y.txt,,t
+OXYOBS2,Ftp,ftpsrv.wsicorp.com /u/oxy2 oxy2 fish87land %Y%m%dobs.csv#TZ=USCenral#,,t
+OXYFCST0,Ftp,ftpsrv.wsicorp.com /u/oxy2 oxy2 fish87land %Y%m%d%Hfcst.csv#TZ=USCenral#,,t
+CONSUMNRGY.NYC,Ftp,ftpsrv.wsicorp.com /u/cnr cnr radio2sun NYC-F-%m%d%y.txt,,t
+TXRETAIL_FCST1,Ftp,ftpsrv.wsicorp.com /u/texas_retail texas_retail bowl45car wsi%m%d%Y_01.csv#TZ=USCenral#,,t
+CRATEXT,Ftp,ftpsrv.wsicorp.com /u/cra cra siam2australia data.txt,,t
+AJJAINFCST,Ftp,ftpsrv.wsicorp.com /u/ajjain ajjain Calif0rnia! WSIForecast_%Y%m%d%H.csv,"",t
+ALYTMPOBSPA,Ftp,ftp.alleghenyenergy.com /ACT A31721620 J$39po# APA%Y%m%d.txt,,t
+KHPN.xls,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%yhpn.xls,,t
+TODDFCST,Ftp,energysr1 /data2/Trader/NatGas/Forecasts op doctor %y%m%dWSIfcst.txt,,t
+CONOCOFCST,Ftp,ftpsrv.wsicorp.com /u/conoco conoco phi11ips forecast_%Y%m%d_%H%M.csv,,t
+PHOENIXDAILYOBS,Ftp,energy-dev-ingest1 /data/energyingest/data/ op doctor OBSGFSDAILY.%Y%m%d%H,,t
+PHOENIXDAILYFCST,Ftp,energy-dev-ingest1 /data/energyingest/data/ op doctor FCSTGFSDAILY.%Y%m%d%H,,t
+PHOENIXHOURLYFCST,Ftp,energy-dev-ingest1 /data/energyingest/data/ op doctor FCSTGFSHOURLY.%Y%m%d%H,,t
+TXRETAIL_FCST2,Ftp,ftpsrv.wsicorp.com /u/texas_retail texas_retail bowl45car wsi%m%d%Y_02.csv#TZ=USCenral#,,t
+NATGASCSSPGP.pgp,Ftp,ftp.keyspanenergy.com /inbox/Test v0000010@ftp.keyspanenergy.com WSI@1234 NATGASCSS.pgp,"",t
+TXRETAIL_FCST3,Ftp,ftpsrv.wsicorp.com /u/texas_retail texas_retail bowl45car wsi%m%d%Y_03.csv#TZ=USCenral#,,t
+IIRFCST,Ftp,www.industrialinfo.com /wsi2iir wsi wipclp1 IIRFCST.%Y%m%d%H,,t
+TXU30DAYFORECAST,Ftp,ftpsrv.wsicorp.com /u/txue txue RedRiver08 WSI_30Day_Forecast_%Y%m%d.txt,"",t
+ACCENTUREDLY,Ftp,ftpsrv.wsicorp.com /u/accenture accenture h0le1n1 WSIDailyForecast_%m%d%y.csv,"",t
+NCETABFCT.ECG,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48047.txt,"",t
+AIRTABINT,Ftp,208.252.198.54 /enhanced enhanced encast inttable.txt,,f
+TRANSCANFCST,Ftp,ftpsrv.wsicorp.com /u/transcan transcan north98cold %m%d%yfct.csv,,t
+TRANSCANOBS,Ftp,ftpsrv.wsicorp.com /u/transcan transcan north98cold %m%d%yobs.csv,,t
+ECONFCSTHRLY,Ftp,ftpsrv.wsicorp.com /u/econnergy econnergy fuel2burn,,
+NRGMAXMINOBS,Ftp,ftpsrv.wsicorp.com /u/nrg05 nrg05 6water9melon %m%d%yobs.csv,,t
+NRGMAXMIN,Ftp,ftpsrv.wsicorp.com /u/nrg05 nrg05 6water9melon %m%d%yfct.csv,,t
+ALYTMPOBSWV,Ftp,ftp.alleghenyenergy.com /ACT A31721620 J$39po# AWV%Y%m%d.txt,,t
+ALGY_CLIREPORT.CLE,Ftp,ftpsrv.wsicorp.com /u/allegheny allegheny L1ons CLEVELAND_CLIMATIC.txt,"",t
+ENERGYNE.BED,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  BED-%m%d%y.txt,,t
+AIRWORDINT,Ftp,208.252.198.54 /enhanced enhanced encast inttext.txt,,f
+OLDLANEFCST,Ftp,ftpsrv.wsicorp.com /u/oldlane oldlane b0wling maxmin_forecast.csv,,t
+MOTHERROCKFCT,Ftp,ftpsrv.wsicorp.com /u/motherrock motherrock pebbles06 Motherrock_Daily.txt,,t
+KOCHFCSTHOURLY,Ftp,ftpsrv.wsicorp.com /u/koch koch notCola %y%m%d.%H.fcst_hourly.csv,,
+AIRTABFCT,Ftp,208.252.198.54 /enhanced enhanced encast ustable.txt,,f
+KOCHFCSTDAILY,Ftp,ftpsrv.wsicorp.com /u/koch koch notCola %y%m%d.%H.fcst_daily.csv,,
+BUCKEYEFCST.DFI,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb DFI-F-%m%d%y.TXT,,t
+NEUALERTTXT,Direct,57001 5 NU_Alert,,f
+NGNYEATXT,Direct,57006 5 Natgrid_NY_East_Alert,,f
+NGNHATXT,Direct,57010 5 Natgrid_BayState_North_Alert,,f
+NGNSATXT,Direct,57012 5 Natgrid_NSTAR_Alert,,f
+NGBSWATXT,Direct,57009 5 Natgrid_BayState_West_Alert,,f
+NGBSSATXT,Direct,57008 5 Natgrid_BayState_South_Alert,,f
+NGOSATXT,Direct,57011 5 Natgrid_OceanState_Alert,,f
+MITSUIHRLY.MMIO,Ftp,ftpsrv.wsicorp.com /u/mitsui mitsui Mexic0 latest_forecast_MMIO.csv,"",t
+MITSUIHRLY.MMMA,Ftp,ftpsrv.wsicorp.com /u/mitsui mitsui Mexic0 latest_forecast_MMMA.csv,"",t
+MITSUIHRLY.MMTM,Ftp,ftpsrv.wsicorp.com /u/mitsui mitsui Mexic0 latest_forecast_MMTM.csv,"",t
+BCTCFCST,Ftp,dataportal-dmz.wsicorp.com /u/bctc bctc syst3mic WeatherData_%Y%m%d%H05.xml,"",t
+MAYFLOWERFCST,Ftp,ftpsrv.wsicorp.com /u/mayFlower mayFlower april7Shower %m%d%y.csv,,t
+RAINBOWFCST,Ftp,ftpsrv.wsicorp.com /u/rainbow rainbow Fr0g8fly  %m%d%y%h_fcst.csv,,t
+ECONFCSTDAILY,Ftp,ftpsrv.wsicorp.com /u/econnergy econnergy fuel2burn,,t
+CONSUMNRGY.DTW,Attachment,DTW-F-%m%d%y.txt,,f
+AIRZFPFCT,Ftp,208.252.198.54 /enhanced enhanced encast ustext.txt,,f
+NATGASCSSPGP.pgp,Ftp,ftp.nationalgridus.com /ngrid39/Prod/Inbound ngrid39 ngrid39 NATGASCSS.pgp,,f
+BOFADLYOBS,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant A%m%d%Y.txt,"",t
+BOFADLYFCST12DFC,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant 12dfc198.txt,"",t
+CONSUMNRGY.ATL,Attachment,ATL-F-%m%d%y.txt,,f
+CONSUMNRGY.MSP,Attachment,MSP-F-%m%d%y.txt,,f
+BOFAHRLYFCST7AM,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant twc%Y%m%d.7am,"",t
+BOFAHRLYFCST6AM,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant twc%Y%m%d.6am,"",t
+CARGILLPOOLSFCST,Ftp,ftpsrv.wsicorp.com /u/car car oat4car %m%d%ypoolfcst.csv,,f
+XCELDAILY,Ftp,ftpsrv.wsicorp.com /u/xcel xcel ste4mb0at WSIDailyForecast_%Y%m%d.csv,"",t
+CARGILLFCSTPM,Ftp,ftpsrv.wsicorp.com /u/cargill cargill mam6 Cargillfcst%y%m%d.2.csv,,f
+TCENERGYHRLY,Ftp,ftpsrv.wsicorp.com /u/tcenergy tcenergy coldsnowycanada TWCForecast_%Y%m%d.csv,"",t
+CECOBSCLOUD,Ftp,powerftp.electric.com /home/wsi  wsi@powerftp.zftp.com  f0recasts,,
+TXRETAIL_FCST4,Ftp,ftpsrv.wsicorp.com /u/texas_retail texas_retail bowl45car wsi%m%d%Y_04.csv#TZ=USCenral#,,t
+TRANSCANALY,Ftp,ftpsrv.wsicorp.com /u/transcan transcan north98cold %m%d%yalb.csv,,t
+TRANSCANFCSTALB,Ftp,ftpsrv.wsicorp.com /u/transcan transcan north98cold %m%d%yalb.csv,,t
+KWML.xls,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%ywml.xls,,t
+NATGASCSSPGP.pgp,Ftp,ftp.keyspanenergy.com /inbox/Prod v0000010@ftp.keyspanenergy.com WSI@1234 NATGASCSS.pgp,"",t
+PPLIBMDLY,Ftp,ftpsrv.wsicorp.com /u/ppl ppl key8stone %Y%m%d%H00_TWCDailyForcast.csv,"",t
+TCPGFCSTMLU,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 MLU-F-%m%d%y.txt,,f
+TCPGFCSTBTR,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BTR-F-%m%d%y.txt,,f
+TCPGFCSTLFT,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 LFT-F-%m%d%y.txt,,f
+TCPGFCSTCON,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 CON-F-%m%d%y.txt,,f
+TCPGFCSTHFD,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 HFD-F-%m%d%y.txt,,f
+SELTABCCF_PM,Ftp,ftpsrv.wsicorp.com /u/sel sel grass8bird fp4%Y%%m%d.txt,,t
+CONEDFCSTHPN,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%yhpn.csv,,t
+CONEDFCSTLGA,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%ylga.csv,,t
+KMID.xls,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%ymid.xls,,t
+CONEDFCSTNYC,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%ynyc.csv,,t
+CONEDFCSTSPV,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%yspv.csv,,t
+WSITRADERDAILYEAST,Ftp,ftpsrv.wsicorp.com /u/xoom xoom hotandfast WSIDailyForecast_%Y%m%d.csv,"",f
+CONEDFCSTWML,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%ywml.csv,,t
+CONEDFCSTAVG,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%yce1.csv,,t
+SIMOBS,Ftp,tile-store01.wsicorp.com /wxtext/simTemp/ imapdev L\!3b3r7 simTemp+%Y%m%d.%H%M.gml,,t
+CONEDFCSTMID,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%ymid.csv,,t
+SWGTABFCT2,Ftp,167.207.128.234 /SYS/web/ftpdirs/swvista/weather .wsi1.external.swgas 1snow4u sw2-%m%d%y.txt,,t
+OXYOBS,Ftp,ftpsrv.wsicorp.com /u/oxy oxy fish87land %Y%m%dobs.csv,,t
+OXYFCST02,Ftp,ftpsrv.wsicorp.com /u/oxy2 oxy2 fish87land %Y%m%d%Hfcst.csv#TZ=USCenral#,,t
+WESTAROBSMTX,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS wsctwrih.mtx,"",t
+RAINBOWOBS,Ftp,ftpsrv.wsicorp.com /u/rainbow rainbow Fr0g8fly  %m%d%y%h_obs.csv,,t
+AVG.xls,Ftp,ftpsrv.wsicorp.com /u/coned coned bulb45pine %m%d%yavg.xls,,t
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/vitol vitol elan6signs %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+WESTARFCSTCSV.PVJ,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS pvj-tmp.csv,"",t
+WESTARFCSTCSV.CIR,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS cir-tmp.csv,"",t
+HEARTLANDFCST,Ftp,ftpsrv.wsicorp.com /u/heartland heartland march25sun forecast.csv,"",t
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/zepower zepower Vanc0uver %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTWESTFC,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_srfcst_West.csv,"",f
+DIAMONDHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/diamond diamond precious4ewe,"",t
+UBSWARBURGNEW1,Ftp,ftpsrv.wsicorp.com /u/ubs ubs jupiter1lion mxmnfcst_new_%m%d%y_1,,f
+SOURCEPWRHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/sourcepg sourcepg p0werandgas WSIHourlyForecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+NISCHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/nisc nisc 1nd1ana WSIHourlyForecast_%y%m%d.csv,"",t
+NC2OBSTXT.NYC,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48032.txt,,f
+NCEPOBTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53039.txt,,f
+ALGCKBTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/alg/forecast/icwf/data ftp_fcst vanillabean ALGCKBTXT,,f
+ALGHGRTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/alg/forecast/icwf/data ftp_fcst vanillabean ALGHGRTXT,,f
+ALGMETTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/alg/forecast/icwf/data ftp_fcst vanillabean ALGMETTXT,,f
+ALGGRETXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/alg/forecast/icwf/data ftp_fcst vanillabean ALGGRETXT,,f
+UNITILFCSTTXT,Direct,57015 5 Unitil_Forecast,,f
+NGNYEATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57006.txt,,f
+NGNYFTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57003.txt,,f
+CPLDIRILM,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53010.txt,,f
+PEPGRP001,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48011.txt,,f
+SOURCEPWRHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/sourcepg sourcepg p0werandgas WSIHourlyObs_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+TRANSALTAFCST,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %d%b%Y.%H%M.frcst.csv,,t
+TRADER_1-5DAY,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 WSI_1-5Day_Forecast.gif,"",t
+SUSQTEMPSONLY,Ftp,ftpsrv.wsicorp.com /u/sus sus river45cats %m%d%Y_%h_temps.txt,,t
+TCPGFCSTPVD,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 PVD-F-%m%d%y.txt,,f
+ACCORD_12,Ftp,194.9.189.11 /zz_xf106_wsi/MetGas/ zz_xf106_wsi 262995SC 12metgas%d%m%Y.txt,,t
+ACCORD_15,Ftp,194.9.189.11 /zz_xf106_wsi/MetGas/ zz_xf106_wsi 262995SC 15metgas%d%m%Y.txt,,t
+ACCORD_23,Ftp,194.9.189.11 /zz_xf106_wsi/MetGas/ zz_xf106_wsi 262995SC 23metgas%d%m%Y.txt,,t
+TCPGFCSTALB,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ALB-F-%m%d%y.txt,,f
+NRGFCSTBOS,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BOS-F-%m%d%y.txt,,t
+SIRIUSFCST,Ftp,ftpsrv.wsicorp.com /u/siriussol siriussol energy4sun WSIFrcst_%y%m%d%H.csv,"",t
+ENERGYNE.LWM,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  LWM-%m%d%y.txt,,t
+NRGFCSTMLU,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 MLU-F-%m%d%y.txt,,t
+NRGFCSTBTR,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BTR-F-%m%d%y.txt,,t
+NRGFCSTLFT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LFT-F-%m%d%y.txt,,t
+NRGFCSTCON,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 CON-F-%m%d%y.txt,,t
+NRGFCSTHFD,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 HFD-F-%m%d%y.txt,,t
+NRGFCSTPVD,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 PVD-F-%m%d%y.txt,,t
+NRGFCSTALB,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ALB-F-%m%d%y.txt,,t
+NRGFCSTBGM,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BGM-F-%m%d%y.txt,,t
+NRGFCSTBUF,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BUF-F-%m%d%y.txt,,t
+NRGFCSTISP,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ISP-F-%m%d%y.txt,,t
+NRGFCSTLGA,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LGA-F-%m%d%y.txt,,t
+NRGFCSTSWF,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SWF-F-%m%d%y.txt,,t
+NRGFCSTPLB,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 PLB-F-%m%d%y.txt,,t
+NRGFCSTSYR,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SYR-F-%m%d%y.txt,,t
+NRGFCSTSTL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 STL-F-%m%d%y.txt,,t
+NRGFCSTBAK,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BAK-F-%m%d%y.txt,,t
+NRGFCSTMSP,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 MSP-F-%m%d%y.txt,,t
+DOMENERGYFCST,Sftp,utilctrl.dominion.sftp.key forecast%Y%m%d.txt,"",t
+VAPOBS,Sftp,utilctrl.dominion.sftp.key wsidata.txt,"",t
+NRGFCSTBWI,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BWI-F-%m%d%y.txt,,t
+NRGFCSTPHL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 PHL-F-%m%d%y.txt,,t
+NRGFCSTEWR,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 EWR-F-%m%d%y.txt,,t
+NRGFCSTFAT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 FAT-F-%m%d%y.txt,,t
+NRGFCSTLAX,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LAX-F-%m%d%y.txt,,t
+NRGFCSTONT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ONT-F-%m%d%y.txt,,t
+NRGFCSTSAC,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SAC-F-%m%d%y.txt,,t
+NRGFCSTNKX,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 NKX-F-%m%d%y.txt,,t
+NRGFCSTSJC,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SJC-F-%m%d%y.txt,,t
+NRGFCSTCRP,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 CRP-F-%m%d%y.txt,,t
+NRGFCSTDFW,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 DFW-F-%m%d%y.txt,,t
+NRGFCSTIAH,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 IAH-F-%m%d%y.txt,,t
+TCPGFCSTBGM,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BGM-F-%m%d%y.txt,,f
+NRGFCSTSAT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SAT-F-%m%d%y.txt,,t
+VAPRDFCST,Ftp,ftpsrv.wsicorp.com /u/dom2 dom2 land9castle dpngstd.txt,,f
+EPICHTPRI,Ftp,ftpsrv.wsicorp.com /u/epic epic windst0rm %Y%m%d%H%M_hourly_trader_srfcst.csv,"",t
+INTERGENFCST,Ftp,wsi.saavienergia.com /home/wsi wsi 7A2dZ3PXvJb8jTClfHAo %m%d%y.csv,"",t
+DTEDAILYFCST,Ftp,ftpsrv.wsicorp.com /u/dte dte raisin2galaxy  Daily_new_%m%d%y%H%p.csv#TZ=USEasern#,,t
+GALILEOFCST,Ftp,ftpsrv.wsicorp.com /u/galileo galileo Jup1ter  %m%d%y.txt,,t
+HTWESTFC,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne %Y%m%d%H%M_hourly_trader_west_srfcst.csv,"",f
+MERCASADLY,Ftp,ftpsrv.wsicorp.com /u/mercasa mercasa h0th0use WSIDailyForecast_%Y%m%d.csv,"",t
+INNOWATTSHRLY,Ftp,ftpsrv.wsicorp.com /u/innowatts innowatts l0addata WSIHourlyForecast_%y%m%d.csv,"",t
+PRT15FCST,Ftp,energysr1.wsicorp.com /data4/PRT op doctor PRTForecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+VAPRDFCST,Sftp,utilctrl.dominion.sftp.key dpngstd.txt,"",t
+UNITILALERTTXT,Direct,57016 5 Unitil_Forecast,,f
+TCPGFCSTBUF,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 BUF-F-%m%d%y.txt,,f
+MERCURIAGEN1FCST,Ftp,dataportal-dmz.wsicorp.com . mercuria mercEU7 daily_fct_us_%Y%m%d.%H.csv,"",t
+AXPOHRLYOBS,Ftp,dataportal.wsi.com . axpo L0nd0n HRLYOBS_%y%m%d%H.csv,"",t
+CFANWPECM12_15DYNCTC,Ftp,ftpsrv.wsicorp.com /u/deshaw deshaw bike76stars CFAN_WPAC_ECMWF_12_15daytcprob_noncalib_m3_%Y%m%d.nc,"",t
+CFANWPECM00_15DYNCTC,Ftp,ftpsrv.wsicorp.com /u/deshaw deshaw bike76stars CFAN_WPAC_ECMWF_00_15daytcprob_noncalib_m3_%Y%m%d.nc,"",t
+SELTABEUROU,Ftp,dataportal.wsi.com . rwe Rh1neR1ver SELTABEUROU.%m%d%y.txt,"",t
+CONSUMNRGY.NYC,Attachment,NYC-F-%m%d%y.txt,,f
+MERCURIAGEN2FCST,Ftp,dataportal-dmz.wsicorp.com . mercuria mercEU7 daily_fct_int_%Y%m%d.%H.csv,"",t
+MERCURIAGEN1OBS,Ftp,dataportal-dmz.wsicorp.com . mercuria mercEU7 daily_obs_us_%Y%m%d.%H.csv,"",t
+MERCURIAGEN2OBS,Ftp,dataportal-dmz.wsicorp.com . mercuria mercEU7 daily_obs_int_%Y%m%d.%H.csv,"",t
+PCEUSA,Ftp,dataportal-dmz.wsicorp.com CME_US pce heathr0w F%m%d%Y.csv,"",t
+GWDAILY,Ftp,dataportal-dmz.wsicorp.com . guaranteed t0rnad0 WSIDailyNAForecast_%Y%m%d.csv,"",t
+SCANAOBS,Ftp,fire.scana.com /home/wsi wsi FastBall1 scanaver.csv,,
+MACQ_INNOTAP_HRLY,Ftp,ftpsrv.wsicorp.com /u/macquarie macquarie dustst0rm2019  %Y%m%d_hourly_innotap.csv,"",t
+SPLITROCK2FCST0814,Ftp,ftpsrv.wsicorp.com /u/sre sre planet1shark split_rock_hourly_2,,t
+SPLITROCK2FCST07,Ftp,ftpsrv.wsicorp.com /u/sre sre planet1shark split_rock_hourly_1,,t
+HOPKINS_TEST,Ftp,ftpsrv.wsicorp.com /u/hopkins hopkins Scrap1er daily_snowice_forecast_test.txt,,t
+CONSXMLOBS,Attachment,weather_%Y%m%d.xml,,f
+WESTFIELDHRLY,Attachment,WSIForecast_%Y%m%d.csv,"",t
+CARGILLFCSTAM,Ftp,ftpsrv.wsicorp.com /u/macquarie/custom macquarie dustst0rm2019 Cargillfcst%y%m%d.1.csv,"",t
+CARGILLFCSTPM,Ftp,ftpsrv.wsicorp.com /u/macquarie/custom macquarie dustst0rm2019 Cargillfcst%y%m%d.2.csv,"",t
+CARGILLFCST,Ftp,ftpsrv.wsicorp.com /u/macquarie/custom macquarie dustst0rm2019 forecast.csv,"",t
+CARGILLOBS,Ftp,ftpsrv.wsicorp.com /u/macquarie/custom macquarie dustst0rm2019 Cargillobs%y%m%d.csv,"",t
+CARGILLMAXMIN,Ftp,ftpsrv.wsicorp.com /u/macquarie/custom macquarie dustst0rm2019 %y%m%d%H.csv,"",t
+CARGILLFCSTAM,Ftp,ftpsrv.wsicorp.com /u/cargill cargill mam6 Cargillfcst%y%m%d.1.csv,,f
+VAPRDOBS,Ftp,ftpsrv.wsicorp.com /u/dom2 dom2 land9castle dpngver.txt,,f
+HTWESTFC,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %Y%m%d%H%M_hourly_trader_west_srfcst.csv,"",f
+HOPKINS,Ftp,ftpsrv.wsicorp.com /u/hopkins hopkins Scrap1er daily_snowice_forecast.txt,,t
+VITOLMAXMINFCST,Ftp,ftpsrv.wsicorp.com /u/vitol vitol elan6signs VITOL_MaxMin_Forecast_%Y%m%d.csv,"",t
+CGCUOBSBGI,Ftp,ftp.cgcu.com / wsi wsi4wx cgcuobs.bgi,,t
+TAKARAFCST,Ftp,ftpsrv.wsicorp.com /u/takara takara TSKatrina %Y%m%d_wsio.csv,,f
+SELECTENERGYOBS,Ftp,ftpsrv.wsicorp.com /u/nees nees P8101900 actual_%Y%m%d.csv,,t
+SELECTENERGYFCST,Ftp,ftpsrv.wsicorp.com /u/nees nees P8101900 forecast_%Y%m%d.csv,,t
+VAPOBS,Ftp,ftpsrv.wsicorp.com /u/dom2 dom2 land9castle wsidata.txt,,f
+VAPRHOBS,Ftp,ftpsrv.wsicorp.com /u/dom2 dom2 land9castle hpngver.txt,,f
+HTEASTEXT,Ftp,ftpsrv.wsicorp.com /u/vitol vitol elan6signs %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",f
+HTEASTOBS,Ftp,ftpsrv.wsicorp.com /u/vitol vitol elan6signs %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+TCPGFCSTFAT,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 FAT-F-%m%d%y.txt,,f
+TCPGFCSTLAX,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 LAX-F-%m%d%y.txt,,f
+CARGILLFCST,Ftp,ftpsrv.wsicorp.com /u/cargill cargill mam6 forecast.csv,,f
+NATGASWALCOVER,Fax,15084217581 National_Grid Kevin_Hines,,f
+CARGILLOBS,Ftp,ftpsrv.wsicorp.com /u/cargill cargill mam6 Cargillobs%y%m%d.csv,,f
+ENERGYNE.AUG,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  AUG-%m%d%y.txt,,t
+MERRILLMXMNGAS,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant  %Y%m%d%H%M_maxmin_gas.csv,"",t
+DTEHOURLYFCST,Ftp,ftpsrv.wsicorp.com /u/dte dte raisin2galaxy  New_%m%d%y%H%p.csv#TZ=USEasern#,,t
+TCPGFCSTONT,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ONT-F-%m%d%y.txt,,f
+SIRIUSOBS,Ftp,ftpsrv.wsicorp.com /u/siriussol siriussol energy4sun WSIObs_%y%m%d%H.csv,"",t
+BUCKEYEFCST.CMH,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb CMH-F-%m%d%y.TXT,,t
+NCEGSBTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53040.txt,"",t
+BLACKOUTFCST,Ftp,ftpsrv.wsicorp.com /u/blackout blackout p0wer TWCHourlyForeast_%Y%m%d_%H.csv#TZ=USEasern#,"",t
+FIRSTENERGYTRIAL,Ftp,ftp.firstenergycorp.com . WSI WSIWeather WSI_Weather.csv,"",t
+IOWACOMMODPRCPLA,Ftp,ftpsrv.wsicorp.com /u/iowa iowa C0rn MonPreLA_%Y%m%d.txt,"",t
+RAGOZIN,Ftp,ftpsrv.wsicorp.com /u/ragozin ragozin car4track WSIForecastObs_%Y%m%d.csv,"",t
+BOUNCEHOURLYOBS,Ftp,ftpsrv.wsicorp.com /u/bounce bounce H0uston! WSI_hourly_obs_%Y%m%d.csv,"",t
+GLACIALHRLY,Ftp,ftpsrv.wsicorp.com /u/glacial glacial V1rgin ALLN-F-%m%d%y.txt,"",t
+WPSWETBULBFCST,Ftp,ftp.integrysgroup.com / wsiuser dJ2by63Q %m%d%Y_wetbulb_fcst.txt,,
+WPSTABFCT,Ftp,ftp.integrysgroup.com / wsiuser dJ2by63Q %m%d%Yfct.txt,,t
+ENERGYNE.BUF,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  BUF-%m%d%y.txt,,
+HGETABFCT,Fax,14135332419 Holyoke_Gas_and_Electric Dan_Smith,,t
+HGEHLYTXT,Fax,14135332419 Holyoke_Gas_and_Electric Dan_Smith,,t
+NRGFCSTDCA,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 DCA-F-%m%d%y.txt,"",t
+SUSQOBS,Ftp,ftpsrv.wsicorp.com /u/sus sus river45cats %m%d%Y_%H_obs.txt,,t
+SUSQHOURLY,Ftp,ftpsrv.wsicorp.com /u/sus sus river45cats %m%d%Y%H.txt,,t
+NRGFCSTMDT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 MDT-F-%m%d%y.txt,"",t
+ENERGYNE.DCA,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  DCA-%m%d%y.txt,,
+CENTAURUSFCST,Ftp,ftpsrv.wsicorp.com /u/centaurus centaurus nickel1penny currentfcst.txt,,f
+CENTAURUSOBS,Ftp,ftpsrv.wsicorp.com /u/centaurus centaurus nickel1penny currentobs.txt,,f
+ENERGYNE.NYC,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  NYC-%m%d%y.txt,,
+NCEAVLTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53009.txt,,f
+NCEGSBTXT,Direct,53040 5 Goldsboro_NC,"",f
+ABCDIRDCA,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48000.txt,,f
+NATGASSYR,Fax,13154602349 National_Grid_Gas_Forecast,"",f
+CENT15OBS,Ftp,ftpsrv.wsicorp.com /u/centaurus centaurus nickel1penny 15dayobs.txt,,t
+ENERGYNE.PIT,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  PIT-%m%d%y.txt,,
+CENT15FCST,Ftp,ftpsrv.wsicorp.com /u/centaurus centaurus nickel1penny 15dayfcst.txt,,t
+ENERGYNE.SYR,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  SYR-%m%d%y.txt,,
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/exion exion shuttle2movie %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+MXEFCST,Ftp,ftpsrv.wsicorp.com /u/mxe mxe Ra1nfl00ds %y%m%dfcst.csv,,t
+SIMOBS,Ftp,tile-store02.wsicorp.com /wxtext/simTemp/ imapdev L\!3b3r7 simTemp+%Y%m%d.%H%M.gml,,t
+NRGFCSTPIT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 PIT-F-%m%d%y.txt,"",t
+NEUFCST,Ftp,ftpsrv.wsicorp.com /u/neu neu carrot8horse forecast_%a.dat,,t
+SIMOBS,Ftp,tile-store01.wsicorp.com /wxtext/simDewpoint/ imapdev L\!3b3r7 simDewpoint+%Y%m%d.%H%M.gml,,t
+SIMOBS,Ftp,tile-store02.wsicorp.com /wxtext/simDewpoint/ imapdev L\!3b3r7 simDewpoint+%Y%m%d.%H%M.gml,,t
+SIMOBS,Ftp,tile-store01.wsicorp.com /wxtext/simAppTemp/ imapdev L\!3b3r7 simAppTemp+%Y%m%d.%H%M.gml,,t
+SIMOBS,Ftp,tile-store02.wsicorp.com /wxtext/simAppTemp/ imapdev L\!3b3r7 simAppTemp+%Y%m%d.%H%M.gml,,t
+NEUOBS,Ftp,ftpsrv.wsicorp.com /u/neu neu carrot8horse actuals_%a.dat,,t
+CDSFCST,Ftp,ftpsrv.wsicorp.com /u/cds cds rabbit4fox fcst%m%d%y.csv,,t
+HTNATEXT,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_lrfcst_National.csv#TZ=USEasern#,"",f
+CENT15OBS,Ftp,ftpsrv.wsicorp.com /u/corenergy corenergy d1me$ 15dayobs.txt,,t
+CENT15FCST,Ftp,ftpsrv.wsicorp.com /u/corenergy corenergy d1me$ 15dayfcst.txt,,t
+CARGILLMAXMIN,Ftp,ftpsrv.wsicorp.com /u/cargill cargill mam6 %y%m%d%H.csv,,f
+DUKEFCST,Ftp,ftpsrv.wsicorp.com /u/duke duke ohio4reds wsi%m%d%y.csv,,t
+DUKEOBS,Ftp,ftpsrv.wsicorp.com /u/duke duke ohio4reds obs%m%d%y.csv,,t
+TUDORFCST,Ftp,ftpsrv.wsicorp.com /u/tudor tudor ruler2apple %m%d%Y.csv,,t
+BUCKEYEFCST.CRW,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb CRW-F-%m%d%y.TXT,"",t
+NRGFCSTTYR,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 TYR-F-%m%d%y.txt,,t
+BUCKEYEFCST.ORD,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb ORD-F-%m%d%y.TXT,"",t
+ENERGYNE.PHL,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  PHL-%m%d%y.txt,,t
+IPPMFCST,Ftp,ftpsrv.wsicorp.com /u/verso verso m00se %Y%m%dpm.fcst,,t
+IPAMFCST,Ftp,ftpsrv.wsicorp.com /u/verso verso m00se %Y%m%dam.fcst,,t
+IPAMOBS,Ftp,ftpsrv.wsicorp.com /u/verso verso m00se %Y%m%dam.obs,,t
+BUCKEYEFCST.CLE,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb CLE-F-%m%d%y.TXT,"",t
+NRGFCSTJCT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 JCT-F-%m%d%y.txt,,t
+ALYRHAP,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# HAP%Y%m%d.txt,,t
+ALYRHMD,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# HMD%Y%m%d.txt,,t
+ALYRHPA,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# HPA%Y%m%d.txt,,t
+ALYRHWV,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# HWV%Y%m%d.txt,,t
+ALYTMPAP,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# TAP%Y%m%d.txt,,t
+ALYTMPMD,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# TMD%Y%m%d.txt,,t
+OXYFCST315,Ftp,ftpsrv.wsicorp.com /u/oxy2 oxy2 fish87land %Y%m%d%Hfcst.csv#TZ=USCenral#,,t
+ALYTMPPA,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# TPA%Y%m%d.txt,,t
+ALYTMPWV,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# TWV%Y%m%d.txt,,t
+ALYSPDWV,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# WWV%Y%m%d.txt,,t
+ALYSPDAP,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# WAP%Y%m%d.txt,,t
+ALYSPDMD,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# WMD%Y%m%d.txt,,t
+MORGSTANMINMAX,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_minmax_%Y%m%d,,t
+CPSMAXMIN,Email,"",,t
+MANITOBAFCST,Ftp,ftpsrv.wsicorp.com /u/manitoba manitoba hedberg2moose forecast.txt,,f
+SARACENOBS,Ftp,ftpsrv.wsicorp.com /u/saracen saracen horse3empire obs%m%d%Y.csv,,t
+ALYSPDPA,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# WPA%Y%m%d.txt,,t
+LDHMXMNFTPFCST,Ftp,ftpsrv.wsicorp.com /u/ldh ldh oulsu2018 forecast fcst%m%d%y.csv,,t
+LDHOBS,Ftp,ftpsrv.wsicorp.com /u/ldh ldh oulsu2018 obs_europe_%y%m%d.%H.csv,,t
+SIMOBS,Ftp,tile-stage04.wsicorp.com /wxtext/simobs/ imapdev L\!3b3r7 simobs+%Y%m%d.%H%M.gml,,t
+BRUCEPOWERFCST,Ftp,ftpsrv.wsicorp.com /u/brp brp flower4stop mmddyyfct.csv,,f
+AMERENFCST,Ftp,ftpsrv.wsicorp.com /u/ameren ameren mice3blind %m%d%Y.txt,,t
+SPLITROCK3FCST07,Ftp,ftpsrv.wsicorp.com /u/sre sre planet1shark split_rock_hourly_3,,t
+SPLITROCK3FCST0814,Ftp,ftpsrv.wsicorp.com /u/sre sre planet1shark split_rock_hourly_4,,t
+MANITRADERFCST,Ftp,ftpsrv.wsicorp.com /u/manitrader manitrader iced0meese forecast.txt,,t
+NRGFCSTABI,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ABI-F-%m%d%y.txt,,t
+PRT15RH,Ftp,ftp.prt-inc.com / wsi w1909 prth15.for,,t
+NRGFCSTLBB,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LBB-F-%m%d%y.txt,,t
+MANITRADEROBS,Ftp,ftpsrv.wsicorp.com /u/manitrader manitrader iced0meese observations.txt,,t
+JPMCFCST,Ftp,ftpsrv.wsicorp.com /u/jpmc jpmc fair5tag fcst%m%d%Y.csv,,t
+WOLCOTT,Ftp,ftpsrv.wsicorp.com /u/wolcott wolcott sch00l wolcott_hourly_obs.txt,"",t
+KOCHFCST2HOURLY,Ftp,ftpsrv.wsicorp.com /u/koch koch notCola %y%m%d.%H.fcst_2_hourly.csv,,t
+KOCHOBS2HOURLY,Ftp,ftpsrv.wsicorp.com /u/koch koch notCola %y%m%d.%H.obs_2_hourly.csv,,t
+PRAXAIRFTP,Ftp,ftpsrv.wsicorp.com /u/praxair praxair practical0app %m%d%Y.csv#TZ=USEasern#,,t
+DCEHOURLY,Ftp,ftpsrv.wsicorp.com /u/dce dce pens0ncaps %m%d%Y_%H_hourly.csv,,t
+DCEDAILY,Ftp,ftpsrv.wsicorp.com /u/dce dce pens0ncaps %m%d%Y_daily.csv,,t
+BRUCEPOWEROBS,Ftp,ftpsrv.wsicorp.com /u/brp brp flower4stop mmddyyobs.csv,,f
+NAEA,Ftp,ftpsrv.wsicorp.com /u/NAEA NAEA jerseySh0re NAEA_hourly_obs_%Y%m%d.txt,"",t
+SELTABFCTU,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+WXEF_MINMAX,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXFMAXMIN_GFS_%y%m%d,,t
+LANTXTLAN,Ftp,ftpsrv.wsicorp.com /u/lbwl lbwl sunnyday %y%b%d.txt,"",t
+LANTABLAN,Ftp,ftpsrv.wsicorp.com /u/lbwl lbwl sunnyday %y%b%d.dat,"",t
+SELTABFCT,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+WSITABRER.EWR,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor EWR-%m%d%y.txt,,t
+WSITABRER.BDL,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BDL-%m%d%y.txt,,t
+WSITABRER.ONT,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor ONT-%m%d%y.txt,,t
+WSITABRER.NKX,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor NKX-%m%d%y.txt,,t
+WSITABRER.FAT,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor FAT-%m%d%y.txt,,t
+WSITABRER.SJC,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SJC-%m%d%y.txt,,t
+ALYTMPOH,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# TOH%Y%m%d.txt,,f
+WSITABRER.SFO,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SFO-%m%d%y.txt,,t
+WSITABRER.SAC,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SAC-%m%d%y.txt,,t
+WSITABRER.BOS,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BOS-%m%d%y.txt,,t
+WSITABRER.CON,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor CON-%m%d%y.txt,,t
+WSITABRER.PVD,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  PVD-%m%d%y.txt,,t
+WSITABRER.PHL,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  PHL-%m%d%y.txt,,t
+WSITABRER.BWI,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  BWI-%m%d%y.txt,,t
+WSITABRER.LAX,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  LAX-%m%d%y.txt,,t
+SELTABEXT1F,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+DAILYOBS,Ftp,energy-web1.wsicorp.com /data3/htdocs/forecasts/weather/ftp_dump op doctor DailyNAObs_%m%d%y.csv,"",t
+WXECONFCST,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXECONFCST.%y%b%d,,t
+ACESFCST,Ftp,ftpsrv.wsicorp.com /u/acespower acespower jacks4queens WSIDailyForecast_%y%m%d%H.csv,"",t
+WXECONQPFOBS,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXECONQPFOBS.%y%b%d,,t
+SELTABEXT2F,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+GASTRADERFCT,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+TRADEROBS,Ftp,energy-web1.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor trader_hourly_obs.txt,,t
+SELTABFCTU,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+NRGFCSTSHV,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SHV-F-%m%d%y.txt,"",t
+NRGFCSTOKC,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 OKC-F-%m%d%y.txt,"",t
+NRGFCSTDAL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 DAL-F-%m%d%y.txt,"",t
+NRGFCSTELP,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ELP-F-%m%d%y.txt,"",t
+ALYOBSZONE3,Ftp,ftp.alleghenyenergy.com /dispatch A31721620 J$39po# OBSZ3%Y%m%d.txt,,t
+WXEF_MINMAX,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXFMAXMIN_GFS_%y%m%d,,t
+SELTABFCT,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+NRGOBS,Email,"",,t
+WSITABRER.EWR,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor EWR-%m%d%y.txt,,t
+ICETECFCST,Ftp,ftpsrv.wsicorp.com /u/icetec icetec c0ldandsn0wy WSIForecast_%Y%m%d.csv,"",t
+WSITABRER.BDL,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BDL-%m%d%y.txt,,t
+WSITABRER.ONT,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor ONT-%m%d%y.txt,,t
+TRANSALTAOBS,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %d%b%Y.%H%M.obs.csv,,t
+WSITABRER.NKX,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor NKX-%m%d%y.txt,,t
+WSITABRER.FAT,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor FAT-%m%d%y.txt,,t
+WSITABRER.SJC,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SJC-%m%d%y.txt,,t
+WSITABRER.SFO,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SFO-%m%d%y.txt,,t
+WSITABRER.SAC,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SAC-%m%d%y.txt,,t
+WSITABRER.BOS,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BOS-%m%d%y.txt,,t
+WSITABRER.CON,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor CON-%m%d%y.txt,,t
+WSITABRER.PVD,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  PVD-%m%d%y.txt,,t
+WSITABRER.PHL,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  PHL-%m%d%y.txt,,t
+WSITABRER.BWI,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  BWI-%m%d%y.txt,,t
+WSITABRER.LAX,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor  LAX-%m%d%y.txt,,t
+SELTABEXT1F,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+WXECONFCST,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXECONFCST.%y%b%d,,t
+WXECONQPFOBS,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXECONQPFOBS.%y%b%d,,t
+SELTABEXT2F,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+GASTRADERFCT,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,,t
+TRADEROBS,Ftp,energy-web2.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor trader_hourly_obs.txt,,t
+NRGFCSTILG,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ILG-F-%m%d%y.txt,,t
+MACQUARIE_OBS,Ftp,ftpsrv.wsicorp.com /u/macquarie macquarie dustst0rm2019 %Y%m%d%H_obs.csv,,t
+SCANAMAXMINACT,Ftp,charon.scana.com /home/wsi wsi FastBall1 cityact.csv,,t
+CONSUMNRGY.GRR,Attachment,GRR-F-%m%d%y.txt,,f
+NUENERGENFCST,Ftp,ftpsrv.wsicorp.com /u/nuenergen nuenergen wind9energy wsi_forecast_%Y%m%d,"",t
+ALYSPDOH,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# WOH%Y%m%d.txt,,f
+ALYRHOH,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# HOH%Y%m%d.txt,,f
+ALYTMPOH,Ftp,ftp.alleghenyenergy.com /B1 A31721620 J$39po# TOH%Y%m%d.txt,,f
+ALYSPDOH,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# WOH%Y%m%d.txt,,f
+ALYRHOH,Ftp,ftp.alleghenyenergy.com /test A31721620 J$39po# HOH%Y%m%d.txt,,f
+GREENMTFCST,Ftp,ftpsrv.wsicorp.com /u/greenmt greenmt steppe2verdant fcst_%Y%m%d%H.txt,,t
+GREENMTOBS,Ftp,ftpsrv.wsicorp.com /u/greenmt greenmt steppe2verdant obs_%Y%m%d%H.txt,,t
+NRGFCSTSPS,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SPS-F-%m%d%y.txt,,t
+NRGFCSTLFK,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LFK-F-%m%d%y.txt,,t
+NRGFCSTAUS,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 AUS-F-%m%d%y.txt,,t
+NRGFCSTBRO,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BRO-F-%m%d%y.txt,,t
+NRGFCSTLRD,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LRD-F-%m%d%y.txt,,t
+NRGFCSTLIT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LIT-F-%m%d%y.txt,,t
+GOLDSAC09,Ftp,ftpserver.gs.com /incoming ftpwsi ftp123wsi GOLDSACSFCST.%y%b%d.09,,t
+GOLDSAC11,Ftp,ftpserver.gs.com /incoming ftpwsi ftp123wsi GOLDSACSFCST.%y%b%d.11,,t
+GOLDSAC21,Ftp,ftpserver.gs.com /incoming ftpwsi ftp123wsi GOLDSACSFCST.%y%b%d.21,,t
+OTTERTAILFCST19,Ftp,ftpsrv.wsicorp.com /u/ottertail ottertail land0lakes %m%d19.for,,t
+EPICHTFC,Ftp,ftpsrv.wsicorp.com /u/epic epic windst0rm %Y%m%d%H%M_hourly_trader_srfcst.csv,"",t
+ALYOBSZONE1,Ftp,ftp.alleghenyenergy.com /dispatch A31721620 J$39po# OBSZ1%Y%m%d.txt,,t
+ALYOBSZONE2,Ftp,ftp.alleghenyenergy.com /dispatch A31721620 J$39po# OBSZ2%Y%m%d.txt,,t
+ALYOBSZONE4,Ftp,ftp.alleghenyenergy.com /dispatch A31721620 J$39po# OBSZ4%Y%m%d.txt,,t
+ALYOBSZONE5,Ftp,ftp.alleghenyenergy.com /dispatch A31721620 J$39po# OBSZ5%Y%m%d.txt,,t
+ALYOBSZONE6,Ftp,ftp.alleghenyenergy.com /dispatch A31721620 J$39po# OBSZ6%Y%m%d.txt,,t
+ALYOBSZONE7,Ftp,ftp.alleghenyenergy.com /dispatch A31721620 J$39po# OBSZ7%Y%m%d.txt,,t
+ALYOBSZONE8,Ftp,ftp.alleghenyenergy.com /dispatch A31721620 J$39po# OBSZ8%Y%m%d.txt,,t
+BUCKEYEFCST.CVG,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb CVG-F-%m%d%y.TXT,,t
+TRANSALTAHTFC,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %d%b%Y_%H%M_st_fcst.csv,"",t
+TRANSALTAHTEXT1,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %d%b%Y_%H%M_lt_fcst.csv,"",t
+TRANSALTAHTOBS,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %d%b%Y_%H%M_st_obs.csv,"",t
+HTWESTPRI,Ftp,ftpsrv.wsicorp.com /u/sempra sempra Stamf0rd %Y%m%d%H%M_hourly_trader_west_srfcst.csv,"",f
+HTWESTEXT,Ftp,ftpsrv.wsicorp.com /u/sempra sempra Stamf0rd %Y%m%d%H%M_hourly_trader_west_lrfcst.csv,"",f
+STATARBFCST1,Ftp,ftpsrv.wsicorp.com /u/statarb statarb g0l0ng %m%d%Y_build_1.csv,,t
+ENERGYNE.BTV,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant  BTV-%m%d%y.txt,,t
+OTTERTAILOBS,Ftp,ftp2.otpco.com / weather wEtHEr01 %m%d11.act,,t
+STATARBFCST2,Ftp,ftpsrv.wsicorp.com /u/statarb statarb g0l0ng %m%d%Y_build_2.csv,,t
+STATARBFCST3,Ftp,ftpsrv.wsicorp.com /u/statarb statarb g0l0ng %m%d%Y_build_3.csv,,t
+STATARBFCST4,Ftp,ftpsrv.wsicorp.com /u/statarb statarb g0l0ng %m%d%Y_build_4.csv,,t
+CITADELSELECT2,Ftp,ftpsrv.wsicorp.com /u/Wxcitadel cigwx stratus %m%d%y_%H_fcst_hourly.txt,,t
+PRT15POP,Ftp,ftp.prt-inc.com / wsi w1909 prtp15.for,,t
+CITADELOBSHRLY,Ftp,ftpsrv.wsicorp.com /u/Wxcitadel cigwx stratus %m%d%y_%H_obs_hourly.txt,,t
+NYISOPBGFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe PBG-F-%m%d%y.csv,,t
+NYISORMEFCST,Ftp,ftpsrv.wsicorp.com /u/nyi nyi suit4ewe RME-F-%m%d%y.csv,,t
+TXUDAILYOBS,Ftp,ftpsrv.wsicorp.com /u/txue txue RedRiver08 %m%d%Y%H_daily_observations.csv#TZ=USCenral#,,t
+TXUHOURLYOBS,Ftp,ftpsrv.wsicorp.com /u/txue txue RedRiver08 %m%d%Y%H_hourly_observations.csv#TZ=USCenral#,,t
+ALGY_CLIREPORT.CRW,Ftp,ftpsrv.wsicorp.com /u/allegheny allegheny L1ons CHARLESTON_CLIMATIC.txt,"",t
+TXUDAILYFCST,Ftp,ftpsrv.wsicorp.com /u/txue txue RedRiver08 %m%d%Y%H_daily_forecast.csv#TZ=USCenral#,,t
+CITADELLRFCST,Ftp,ftpsrv.wsicorp.com /u/Wxcitadel cigwx stratus %m%d%yext.txt,,t
+CTDLFCT,Ftp,ftpsrv.wsicorp.com /u/Wxcitadel cigwx stratus %m%d%yfct.txt,,t
+PRT15DEW,Ftp,ftp.prt-inc.com / wsi w1909 prtd15.for,,t
+PRT15CLOUD,Ftp,ftp.prt-inc.com / wsi w1909 prtc15.for,,t
+PRT15SPD,Ftp,ftp.prt-inc.com / wsi w1909 prtw15.for,,t
+SCANAMAXMIN,Ftp,charon.scana.com /home/wsi wsi FastBall1 cityfcst.csv,,t
+BUCKEYEFCST.DAY,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb DAY-F-%m%d%y.TXT,,t
+BUCKEYEFCST.FDY,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb FDY-F-%m%d%y.TXT,,t
+BUCKEYEFCST.HTS,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb HTS-F-%m%d%y.TXT,,t
+BUCKEYEFCST.MFD,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb MFD-F-%m%d%y.TXT,,t
+CONSUMNRGY.CVG,Attachment,CVG-F-%m%d%y.txt,,f
+CONSUMNRGY.FNT,Attachment,FNT-F-%m%d%y.txt,,f
+TXUHOURLYFCST,Ftp,ftpsrv.wsicorp.com /u/txue txue RedRiver08 %m%d%Y%H_hourly_forecast.csv#TZ=USCenral#,"",t
+ACESHRLYNTLFCST,Ftp,de.acespower.com / wsi-wsi AEJnGM3Y WSIForecast.txt,"",f
+BUCKEYEFCST.PHD,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb PHD-F-%m%d%y.TXT,,t
+BUCKEYEFCST.PKB,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb PKB-F-%m%d%y.TXT,,t
+BUCKEYEFCST.ZZV,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb ZZV-F-%m%d%y.TXT,,t
+PSEG.BWI,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail BWI-F-%m%d%y.txt,"",t
+LINDEHOURLY,Ftp,ftpsrv.wsicorp.com /u/linde linde iceSt0rm7  hourly_fcst_obs_%Y%m%d.%H.csv,,t
+PRTSPDFCST_DAL,Ftp,ftp.prt-inc.com / wsi w1909 prtw15.for,,f
+PRTRHFCST_DAL,Ftp,ftp.prt-inc.com / wsi w1909 prth15.for,,f
+HTWESTEXT,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %Y%m%d%H%M_hourly_trader_west_lrfcst.csv,"",f
+JPMORGANDLYOBS,Ftp,ftpsrv.wsicorp.com /u/bigbear bigbear smokey8yogi %m%d%yobs.txt,"",t
+BOUNCEDAILYOBS,Ftp,ftpsrv.wsicorp.com /u/bounce bounce H0uston! WSI_daily_obs_%Y%m%d.csv,"",t
+HESSELECFCST,Sftp,utilctrl.duke forecast.csv,"",t
+MAGDLY,Ftp,ftpsrv.wsicorp.com /u/mag mag M0ntreal WSIDailyForecast_%Y%m%d.csv,"",t
+TWCENERGYVERIF,Ftp,dvtdicast01.atl.weather.com /edicast/wsi_energy_verif edicast d1cast WSI_Energy_Forecast_%Y%m%d.csv,"",t
+SELTABFCT,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,"",t
+NCETABFCT.ILM,Direct,48013 5 Wilmington_NC,,f
+NC2OBSTXT.RDU,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48033.txt,,f
+NC2OBSTXT.GSP,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48031.txt,,f
+NC2OBSTXT.DCA,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48035.txt,,f
+NC2OBSTXT.CLT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48036.txt,,f
+WSITABRER.EWR,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor EWR-%m%d%y.txt,"",t
+WPSTABFCT,Ftp,ftpsrv.wsicorp.com /u/integrys integrys duplic8 %m%d%Yfct.txt,,t
+PRTSPDOBS,Ftp,ftp.prt-inc.com / wsi w1909 prtw.act,,t
+WPSOBS,Ftp,ftpsrv.wsicorp.com /u/integrys integrys duplic8 %m%d%Yobs.txt,,t
+EAGLEFCST,Ftp,ftpsrv.wsicorp.com /u/eagleep eagleep b1rdNest forecast-%Y%m%d%H.csv,,t
+EAGLEOBS,Ftp,ftpsrv.wsicorp.com /u/eagleep eagleep b1rdNest observations-%Y%m%d%H.csv,,t
+NCETABFCT.AVL,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48015.txt,,t
+PRTSPDOBS_DAL,Ftp,ftp.prt-inc.com / wsi w1909 prtw.act,,f
+NC2OBSTXT.AVL,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48028.txt,,t
+NCEAVLTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53009.txt,,t
+NCETABFCT.CLT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48020.txt,,t
+NC2OBSTXT.CLT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48036.txt,,t
+NCECLTTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53020.txt,,t
+NCETABFCT.FAY,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48012.txt,,t
+NCEFAYTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53011.txt,,t
+NCETABFCT.GSO,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48014.txt,,t
+NC2OBSTXT.GSO,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48027.txt,,t
+NCEGSOTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53007.txt,,t
+NCETABFCT.GSP,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48021.txt,,t
+NC2OBSTXT.GSP,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48031.txt,,t
+NCEGSPTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53021.txt,,t
+NCETABFCT.RDU,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48008.txt,,t
+TODDPDICAST_RAW,Attachment,%Y%m%d%HPDIcast_DIGIT.csv,"",t
+NC2OBSTXT.RDU,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48033.txt,,t
+NCERDUTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53008.txt,,t
+NCETABFCT.ILM,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48013.txt,,t
+NC2OBSTXT.ILM,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48026.txt,,t
+NCEILMTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53010.txt,,t
+NCETABFCT.CON,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48023.txt,,t
+NC2OBSTXT.CON,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48037.txt,,t
+NCECONTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53023.txt,,t
+NCETABFCT.NYC,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48019.txt,,t
+NC2OBSTXT.NYC,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48032.txt,,t
+NCENYCTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53019.txt,,t
+NCETABFCT.ORF,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48016.txt,,t
+NC2OBSTXT.ORF,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48029.txt,,t
+NCEORFTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53017.txt,,t
+NCETABFCT.RIC,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48022.txt,,t
+NC2OBSTXT.RIC,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48034.txt,,t
+NCERICTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53022.txt,,t
+NCETABFCT.DCA,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48017.txt,,t
+NC2OBSTXT.DCA,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48035.txt,,t
+NCEDCATXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53000.txt,,t
+FPLKPGD.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-PGD.XLS,"",t
+BUCKSPORTFCST,Ftp,ftpsrv.wsicorp.com /u/bucksport/data bucksport eat1ngsn0w forecast-%Y%m%d.%H.csv,,t
+NATGASSCADAVERIF48,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock hourly_obs.txt,"",t
+NATGASSCADAVERIFDY,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_verification.txt,"",t
+FPLKPBI.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-PBI.XLS,"",t
+CIGFTPFCT,Ftp,ftpsrv.wsicorp.com /u/cigelp b4ackup wsiweather.fcst,"",t
+CIGFTPFCTNEW,Ftp,ftpsrv.wsicorp.com /u/cigelp b4ackup newwsiweather.fcst,"",t
+CIGTABFCTNEW,Ftp,ftpsrv.wsicorp.com /u/cigelp b4ackup newwsiweathertab.fcst,"",t
+PROGRESSRFP,Ftp,ftpsrv.wsicorp.com /u/progress progress prog0509 %m%d%Y.txt,"",t
+NATGASSCADADAILY.PVD,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_PVD.txt,"",t
+NATGASSCADADAILY.NYC,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_NYC.txt,"",t
+ALGY_CLIREPORT.PIT,Ftp,ftpsrv.wsicorp.com /u/allegheny allegheny L1ons PITTSBURGH_CLIMATIC.txt,"",t
+ALGY_CLIREPORT.DCA,Ftp,ftpsrv.wsicorp.com /u/allegheny allegheny L1ons WASHINGTON_CLIMATIC.txt,"",t
+ALGY_CLIREPORT.MDT,Ftp,ftpsrv.wsicorp.com /u/allegheny allegheny L1ons STATE_COLLEGE_CLIMATIC.txt,"",t
+LDHFCST,Ftp,ftpsrv.wsicorp.com /u/ldh ldh oulsu2018 forecast_europe_%y%m%d.%H.csv,,t
+NATGASSCADADAILY.FMH,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_FMH.txt,"",t
+CIGFTPFCT_TEST,Ftp,ftpsrv.wsicorp.com /u/cigelp b4ackup wsiweather_v.fcst,"",t
+STARKFCST,Ftp,ftpsrv.wsicorp.com /u/stark stark pack %y%m%d.csv,,t
+NELHOURLY,Ftp,ftpsrv.wsicorp.com /u/nelenergy nelenergy MtWash2009 hourly_forecast.%Y%m%d.csv,,
+ALGY_WV_MAX_MIN,Ftp,ftpsrv.wsicorp.com /u/allegheny allegheny L1ons WV_MAX_MIN_TABLE.txt,"",t
+ALGY_PA_HYDRO_TABLE,Ftp,ftpsrv.wsicorp.com /u/allegheny allegheny L1ons PITTSBURGH_RIVER_SUMMARY.txt,"",t
+ALGY_HOURLY_ROUNDUP,Ftp,ftpsrv.wsicorp.com /u/allegheny allegheny L1ons HOURLY_WEATHER_ROUNDUP.txt,"",t
+DIRECTDAILY,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne D-%m%d%y.TXT,,t
+DIRECTHOURLYUS1,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne F-%m%d%y.TXT,,t
+DIRECTHOURLYCAN2,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne F-CELCIUS-%m%d%y.TXT,,t
+DIRECTHOURLYCAN2,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne F-CELCIUS-%Y%m%d.TXT,,t
+DIRECTOBS,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne OBS-%m%d%y.TXT,,t
+TCPGFCSTYOW,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 YOW-F-%m%d%y.txt,"",f
+FPLKSRQ.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-SRQ.XLS,"",t
+FPLKSGJ.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-SGJ.XLS,"",t
+FPLKDAB.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-DAB.XLS,"",t
+ACCENTUREHLY,Ftp,ftpsrv.wsicorp.com /u/accenture accenture h0le1n1 WSIHourlyForecast_%m%d%y.csv,"",t
+STARKFCTHOURLY,Ftp,ftpsrv.wsicorp.com /u/stark stark pack hourly_forecast_%y%m%d%H.csv,"",t
+STARKOBSHOURLY,Ftp,ftpsrv.wsicorp.com /u/stark stark pack hourly_observations_%y%m%d%H.csv,"",t
+FPLKFMY.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-FMY.XLS,"",t
+FPLKFPR.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-FPR.XLS,"",t
+NC2OBSTXT.FAY,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48025.txt,"",t
+APSHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/aps aps Ph0enix WSIForecast_%y%m%d%H.csv,"",t
+FPLHOURLY,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 hourly.%Y%m%d.%H.csv,"",t
+FPLDAILY,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 daily.%Y%m%d.%H.csv,"",t
+FPLKFLL.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-FLL.XLS,"",t
+FPLKJAX.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-JAX.XLS,"",t
+FPLKHST.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-HST.XLS,"",t
+FPLKMLB.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-MLB.XLS,"",t
+FPLKTMB.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-TMB.XLS,"",t
+FPLKAPF.xls,Ftp,ftpsrv.wsicorp.com /u/fpl fpl 0range5 %Y%m%d%H-F-APF.XLS,"",t
+FIRST_CHOICE_D_OBS,Ftp,ftpsrv.wsicorp.com /u/firstchoice2 firstchoice2 lotteryP1ck %m%d%Y%H_daily_observations.csv#TZ=USCenral#,,t
+FIRST_CHOICE_H_OBS,Ftp,ftpsrv.wsicorp.com /u/firstchoice2 firstchoice2 lotteryP1ck %m%d%Y%H_hourly_observations.csv#TZ=USCenral#,,t
+EAGLEFCST2,Ftp,ftpsrv.wsicorp.com /u/eagleep eagleep b1rdNest forecast-%Y%m%d%H.2.csv,"",t
+APSHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/aps aps Ph0enix WSIObs_%y%m%d%H.csv,"",t
+EAGLEOBS2,Ftp,ftpsrv.wsicorp.com /u/eagleep eagleep b1rdNest observations-%Y%m%d%H.2.csv,"",t
+EAGLEFCST2,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 eagle-forecast-%Y%m%d%H.2.csv,"",t
+EAGLEOBS2,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 eagle-observations-%Y%m%d%H.2.csv,"",t
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/JPTC JPTC windst0rm %Y%m%d%H%M_hourly_trader_srfcst.csv,,f
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/JPTC JPTC windst0rm %Y%m%d%H%M_hourly_trader_srfcst.csv,,f
+HTEASTEXT,Ftp,ftpsrv.wsicorp.com /u/JPTC JPTC windst0rm %Y%m%d%H%M_hourly_trader_lrfcst.csv,,f
+HTEASTOBS,Ftp,ftpsrv.wsicorp.com /u/JPTC JPTC windst0rm %Y%m%d%H%M_hourly_trader_obs.csv,,f
+FIRST_CHOICE_H_FCT,Ftp,ftpsrv.wsicorp.com /u/firstchoice2 firstchoice2 lotteryP1ck %m%d%Y%H_hourly_forecast.csv#TZ=USCenral#,,t
+FIRST_CHOICE_D_FCT,Ftp,ftpsrv.wsicorp.com /u/firstchoice2 firstchoice2 lotteryP1ck %m%d%Y%H_daily_forecast.csv#TZ=USCenral#,,t
+WESTARNORMMAX,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS normhi.txt,"",t
+NATGASSCADADAILY.MRV,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_MRV.txt,"",t
+CAITHNESSXLS,Ftp,ftpsrv.wsicorp.com /u/caithness caithness L0ngIsland CAITHNESS_%Y%m%d.xls,"",t
+CENTAURUS2HOURLY.1,Ftp, ftpsrv.wsicorp.com /u/centaurus2 centaurus2 horseLeg5 hourly-forecast-%Y%m%d.FCT1.txt,"",t
+CENTAURUS2HOURLY.2,Ftp, ftpsrv.wsicorp.com /u/centaurus2 centaurus2 horseLeg5 hourly-forecast-%Y%m%d.FCT2.txt,"",t
+CENTAURUS2HOURLY.3,Ftp, ftpsrv.wsicorp.com /u/centaurus2 centaurus2 horseLeg5 hourly-forecast-%Y%m%d.FCT3.txt,"",t
+CENTAURUS2HOURLY.4,Ftp, ftpsrv.wsicorp.com /u/centaurus2 centaurus2 horseLeg5 hourly-forecast-%Y%m%d.FCT4.txt,"",t
+CENTAURUS2HOURLY.5,Ftp, ftpsrv.wsicorp.com /u/centaurus2 centaurus2 horseLeg5 hourly-forecast-%Y%m%d.FCT5.txt,"",t
+CENTAURUS2DAILY.1,Ftp,ftpsrv.wsicorp.com /u/centaurus2 centaurus2 horseLeg5 daily-forecast-%Y%m%d.txt,"",t
+EPICHTOBS,Ftp,ftpsrv.wsicorp.com /u/epic epic windst0rm %Y%m%d%H%M_hourly_trader_obs.csv,"",t
+DAILYTRADER,Ftp,energysr0.wsicorp.com /data2/Trader/GFS_daily op doctor dailytrader.%Y%m%d.%H%M.csv,,t
+NRGFCSTMAF,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 MAF-F-%m%d%y.txt,"",t
+DAILYTRADERFC,Ftp,energysr0.wsicorp.com /data2/Trader/GFS_daily op doctor dailytraderfc.%Y%m%d.%H%M.csv,,t
+NATGASSCADA48.BOS,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_BOS.txt,"",t
+DAILYTRADER,Ftp,energysr1.wsicorp.com /data2/Trader/GFS_daily op doctor dailytrader.%Y%m%d.%H%M.csv,,t
+DAILYTRADERFC,Ftp,energysr1.wsicorp.com /data2/Trader/GFS_daily op doctor dailytraderfc.%Y%m%d.%H%M.csv,,t
+NC2OBSTXT.ECG,Direct,48048 5 Elizabeth_City_NC,,f
+NCEECGTXT,Direct,53033 5 Elizabeth_City_NC,,f
+OBSTRADER,Ftp,energysr1.wsicorp.com /data2/Trader/GFS_obs op doctor obstrader.%Y%m%d.%H%M.csv,,t
+OBSTRADER,Ftp,energysr0.wsicorp.com /data2/Trader/GFS_obs op doctor obstrader.%Y%m%d.%H%M.csv,,t
+NATGASSCADA48.PVD,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_PVD.txt,"",t
+NATGASSCADA48.FMH,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_FMH.txt,"",t
+NATGASSCADA48.NYC,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_NYC.txt,"",t
+NATGASSCADA48.MHT,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_MHT.txt,"",t
+NATGASSCADA48.MRV,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_MRV.txt,"",t
+NATGASSCADADAILY.MHT,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_MHT.txt,"",t
+CENTAURUS2HOURLY,Ftp,ftpsrv.wsicorp.com /u/centaurus2 centaurus2 horseLeg5 hourly-forecast-%Y%m%d.%H.txt,,f
+LIMDAILYS075,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 daily_0-75.%Y%m%d%H.csv,"",t
+LIMDAILYS76150,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 daily_76-150.%Y%m%d%H.csv,"",t
+NGRID_OBS_LI,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock li_obs.txt,,t
+LIMDAILYS151225,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 daily_151-225.%Y%m%d%H.csv,"",t
+LIMDAILYS226300,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 daily_226-300.%Y%m%d%H.csv,"",t
+TCPGFCSTYUL,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 YUL-F-%m%d%y.txt,"",f
+TCPGFCSTYYC,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 YYC-F-%m%d%y.txt,"",f
+OBSTRADERPLUS1,Ftp,energysr1.wsicorp.com /data2/Trader/GFS_obs op doctor obstrader.%Y%m%d.%H%M.csv,,t
+OBSTRADERPLUS1,Ftp,energysr0.wsicorp.com /data2/Trader/GFS_obs op doctor obstrader.%Y%m%d.%H%M.csv,,t
+CINERGYOBS,Ftp,ftpsrv.wsicorp.com /u/fortis fortis texans obs%m%d%y.csv,"",t
+CINERGYFCST2,Ftp,ftpsrv.wsicorp.com /u/fortis fortis texans wsi%m%d%y_2.csv,"",t
+CINERGYMAXMIN,Ftp,ftpsrv.wsicorp.com /u/fortis fortis texans wsi%m%d%ymaxmin.csv,"",t
+LDHFCSTUS,Ftp,ftpsrv.wsicorp.com /u/ldh ldh oulsu2018 forecast_us_%y%m%d.%H.csv,"",t
+LDHOBSUS,Ftp,ftpsrv.wsicorp.com /u/ldh ldh oulsu2018 obs_us_%y%m%d.%H.csv,"",t
+TCPGFCSTACY,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ACY-F-%m%d%y.txt,"",f
+PRTDIROBS,Ftp,ftp.prt-inc.com / wsi w1909 prtwd.act,,t
+PRAXAIR100DAYFRCST,Ftp,ftpsrv.wsicorp.com /u/praxair praxair practical0app WSI_100Day_Forecast_%Y%m%d.txt,"",t
+PRAXAIR30DAYFORECAST,Ftp,ftpsrv.wsicorp.com /u/praxair praxair practical0app WSI_30Day_Forecast_%Y%m%d.txt,"",t
+PRAXAIRDAILY,Ftp,ftpsrv.wsicorp.com /u/praxair praxair practical0app WSI_0-15Day_Forecast_%Y%m%d.csv,"",t
+CINERGYMAXMIN,Ftp,ftpsrv.wsicorp.com /u/cin cin blizzard wsi%m%d%ymaxmin.csv,,f
+CINERGYFCST2,Ftp,ftpsrv.wsicorp.com /u/cin cin blizzard wsi%m%d%y_2.csv,,f
+CINERGYOBS,Ftp,ftpsrv.wsicorp.com /u/cin cin blizzard obs%m%d%y.csv,,f
+SIMOBS,Ftp,tile-store02.wsicorp.com /wxtext/simobs/ imapdev L\!3b3r7 simobs+%Y%m%d.%H%M.gml,,t
+TCPGFCSTATL,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ATL-F-%m%d%y.txt,"",f
+SIMOBS,Ftp,tile-store01.wsicorp.com /wxtext/simobs/ imapdev L\!3b3r7 simobs+%Y%m%d.%H%M.gml,,t
+RAINBOWFCSTVX,Ftp,ftpsrv.wsicorp.com /u/rainbow rainbow Fr0g8fly fcst.csv,"",t
+CIGFTPFCT,Ftp,ftp.elpaso.com /Company/wsiweather/inbound wsiweather wsiftpN161  wsiweather.fcst,"",t
+CIGFTPFCT,Ftp,ftp.elpaso.com /Company/wsiweather/inbounddr wsiweather wsiftpN161  wsiweather.fcst,"",t
+RAINBOWOBSVX,Ftp,ftpsrv.wsicorp.com /u/rainbow rainbow Fr0g8fly obs.csv,"",t
+CIGFTPFCTNEW,Ftp,ftp.elpaso.com /Company/wsiweather/inbounddr wsiweather wsiftpN161  newwsiweather.fcst,,t
+CIGFTPFCTNEW,Ftp,ftp.elpaso.com /Company/wsiweather/inbound wsiweather wsiftpN161  newwsiweather.fcst,,t
+CIGTABFCTNEW,Ftp,ftp.elpaso.com /Company/wsiweather/inbounddr wsiweather wsiftpN161 newwsiweathertab.fcst,,t
+CIGTABFCTNEW,Ftp,ftp.elpaso.com /Company/wsiweather/inbound wsiweather wsiftpN161 newwsiweathertab.fcst,,t
+VITOLMAXMINOBS,Ftp,ftpsrv.wsicorp.com /u/vitol vitol elan6signs VITOL_MaxMin_Obs_%Y%m%d.csv,"",t
+WESTOAKSFCST,Ftp,ftpsrv.wsicorp.com /u/westoaks westoaks H0uston0aks WSI_hourly_forecast_%y%m%d%H.csv,"",t
+CIGTABFCT,Ftp,ftp.elpaso.com /Company/wsiweather/inbound wsiweather wsiftpN161 wsiweathertab.fcst,"",t
+CIGTABFCT,Ftp,ftp.elpaso.com /Company/wsiweather/inbounddr wsiweather wsiftpN161 wsiweathertab.fcst,"",t
+WESTOAKSOBS,Ftp,ftpsrv.wsicorp.com /u/westoaks westoaks H0uston0aks WSI_hourly_obs_%y%m%d%H.csv,"",t
+SIMOBS,Ftp,tile-stage04.wsicorp.com /wxtext/simTemp/ imapdev L\!3b3r7 simTemp+%Y%m%d.%H%M.gml,,t
+SIMOBS,Ftp,tile-stage04.wsicorp.com /wxtext/simAppTemp/ imapdev L\!3b3r7 simAppTemp+%Y%m%d.%H%M.gml,,t
+SIMOBS,Ftp,tile-stage04.wsicorp.com /wxtext/simDewpoint/ imapdev L\!3b3r7 simDewpoint+%Y%m%d.%H%M.gml,,t
+SIMTEMPICAST,Ftp,tile-stage04.wsicorp.com /wxtext/simTempIcast/ imapdev L\!3b3r7 simTempIcast+%Y%m%d.%H%M.gml,,t
+PSEG.ABE,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail ABE-F-%m%d%y.txt,"",t
+SIMDELTAS,Ftp,tile-stage04.wsicorp.com /wxtext/SimChange1Hr/ imapdev L\!3b3r7  simChange1Hr+%Y%m%d.%H%M.gml,,t
+SIMDELTAS,Ftp,tile-stage04.wsicorp.com /wxtext/SimChange24Hr/ imapdev L\!3b3r7  simChange24Hr+%Y%m%d.%H%M.gml,,t
+UBSWARBURGNEW2,Ftp,ftpsrv.wsicorp.com /u/ubs ubs jupiter1lion mxmnfcst_new_%m%d%y_2,,f
+SIMDELTAS,Ftp,tile-store01.wsicorp.com /wxtext/simChange1Hr/ imapdev L\!3b3r7 simChange1Hr+%Y%m%d.%H%M.gml,,t
+LIMHOURLYS075,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 hourly_0-75.%Y%m%d%H.csv,"",t
+SIMDELTAS,Ftp,tile-store01.wsicorp.com /wxtext/simChange24Hr/ imapdev L\!3b3r7 simChange24Hr+%Y%m%d.%H%M.gml,,t
+LIMHOURLYS76150,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 hourly_76-150.%Y%m%d%H.csv,"",t
+LIMHOURLYS151225,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 hourly_151-225.%Y%m%d%H.csv,"",t
+LIMHOURLYS226300,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 hourly_226-300.%Y%m%d%H.csv,"",t
+UBSWARBURGNEW3,Ftp,ftpsrv.wsicorp.com /u/ubs ubs jupiter1lion mxmnfcst_new_%m%d%y_3,,f
+SIMDELTAS,Ftp,tile-store02.wsicorp.com /wxtext/simChange1Hr/ imapdev L\!3b3r7 simChange1Hr+%Y%m%d.%H%M.gml,,t
+SIMDELTAS,Ftp,tile-store02.wsicorp.com /wxtext/simChange24Hr/ imapdev L\!3b3r7 simChange24Hr+%Y%m%d.%H%M.gml,,t
+AMERENFCSTIDX,Ftp,ftpsrv.wsicorp.com /u/ameren/Metrix ameren mice3blind %m%d%Y.txt,"",t
+BUCKEYEFCST.EWR,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb EWR-F-%m%d%y.TXT,"",t
+BUCKEYEFCST.PHL,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb PHL-F-%m%d%y.TXT,"",t
+BUCKEYEFCST.PIT,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb PIT-F-%m%d%y.TXT,"",t
+BUCKEYEFCST.RIC,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb RIC-F-%m%d%y.TXT,"",t
+PSEG.MDT,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail MDT-F-%m%d%y.txt,"",t
+NRGFCSTSSF,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SSF-F-%m%d%y.txt,"",t
+NRGFCSTLVJ,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LVJ-F-%m%d%y.txt,"",t
+NRGFCSTATT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ATT-F-%m%d%y.txt,"",t
+NRGFCSTNGP,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 NGP-F-%m%d%y.txt,"",t
+NRGFCSTAMA,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 AMA-F-%m%d%y.txt,"",t
+NRGFCSTBPT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BPT-F-%m%d%y.txt,"",t
+NRGFCSTTRL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 TRL-F-%m%d%y.txt,"",t
+NRGFCSTTKI,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 TKI-F-%m%d%y.txt,"",t
+NRGFCSTCLL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 CLL-F-%m%d%y.txt,"",t
+BUCKEYEFCST.IAD,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb IAD-F-%m%d%y.TXT,"",t
+BUCKEYEFCST.AVP,Ftp,ftpsrv.wsicorp.com /u/buckeye buckeye quarterthumb AVP-F-%m%d%y.TXT,"",t
+MERCURIAFCST,Ftp,ftpsrv.wsicorp.com /u/mercuria mercuria hotPlanet7 daily_forecast_%Y%m%d.csv,"",t
+MERCURIAOBS,Ftp,ftpsrv.wsicorp.com /u/mercuria mercuria hotPlanet7 daily_obs_%Y%m%d.csv,"",t
+UBSWARBURGNEW4,Ftp,ftpsrv.wsicorp.com /u/ubs ubs jupiter1lion mxmnfcst_new_%m%d%y_4,,f
+SIMDELTAFCST,Ftp,tile-stage04.wsicorp.com /wxtext/SimChangeFcst/ imapdev L\!3b3r7  simChangeFcst+%Y%m%d.%H%M.gml,,t
+SIMDELTAFCST,Ftp,tile-store01.wsicorp.com /wxtext/simChangeFcst/ imapdev L\!3b3r7 simChangeFcst+%Y%m%d.%H%M.gml,,t
+SIMDELTAFCST,Ftp,tile-store02.wsicorp.com /wxtext/simChangeFcst/ imapdev L\!3b3r7 simChangeFcst+%Y%m%d.%H%M.gml,,t
+UBSWARBURGNEW,Ftp,ftpsrv.wsicorp.com /u/ubs ubs jupiter1lion mxmnfcst_%Y%m%d.csv,,f
+CIGTABFCT,Ftp,ftpsrv.wsicorp.com /u/cigelp b4ackup wsiweathertab.fcst,"",t
+NATGASDISCNY,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock zone_forecast_NY.txt,"",t
+NATGASSCADA48.SYR,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_SYR.txt,"",t
+MACQUARIEMAXMIN,Ftp,ftpsrv.wsicorp.com /u/macquarie macquarie dustst0rm2019 %Y%m%d%H_maxmin.csv,"",t
+TCPGFCSTILG,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ILG-F-%m%d%y.txt,"",f
+NCEEWNTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53032.txt,"",t
+HOURLYTRADERFC,Ftp,energysr1.wsicorp.com /data2/Trader/GFS_forecast op doctor hourlytraderfc.%Y%m%d.%H%M.csv,,t
+HOURLYTRADERFC,Ftp,energysr0.wsicorp.com /data2/Trader/GFS_forecast op doctor hourlytraderfc.%Y%m%d.%H%M.csv,,t
+CIGFTPFCT,Ftp,ftp.elpaso.com /Company/wsiweather/InboundTest wsiweather wsiftpN161 wsiweather.fcst,"",t
+NC2OBSTXT.EWN,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48049.txt,"",t
+NC2OBSTXT.GSB,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48050.txt,"",t
+NC2OBSTXT.HKY,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48051.txt,"",t
+NC2OBSTXT.HSE,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48052.txt,"",t
+NC2OBSTXT.JQF,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48053.txt,"",t
+NC2OBSTXT.NCA,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48054.txt,"",t
+ENT30DAYFCSTBOS,Ftp,ftpsrv.wsicorp.com /u/enexus enexus energyCell7 %Y%m%d_0-30day_forecast_BOS.csv,,t
+ENT30DAYFCSTLGA,Ftp,ftpsrv.wsicorp.com /u/enexus enexus energyCell7 %Y%m%d_0-30day_forecast_LGA.csv,,t
+ENT30DAYFCSTBUF,Ftp,ftpsrv.wsicorp.com /u/enexus enexus energyCell7 %Y%m%d_0-30day_forecast_BUF.csv,,t
+ENT30DAYFCSTBOS,Ftp,ftpsrv.wsicorp.com /u/entergyTX entergyTX blackg0ld8 %Y%m%d_0-30day_forecast_BOS.csv,,f
+ENT30DAYFCSTBUF,Ftp,ftpsrv.wsicorp.com /u/entergyTX entergyTX blackg0ld8 %Y%m%d_0-30day_forecast_BUF.csv,,f
+ENT30DAYFCSTLGA,Ftp,ftpsrv.wsicorp.com /u/entergyTX entergyTX blackg0ld8 %Y%m%d_0-30day_forecast_LGA.csv,,f
+NC2OBSTXT.NKT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48055.txt,"",t
+NC2OBSTXT.POB,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48056.txt,"",t
+MERCURIAMAXMINCAN,Ftp,ftpsrv.wsicorp.com /u/mercan mercan hockeySt1ck daily_maxmin_%Y%m%d.%H.csv,"",f
+NCETABFCT.EWN,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48065.txt,"",t
+NCETABFCT.GSB,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48066.txt,"",t
+NCETABFCT.HKY,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48067.txt,"",t
+NCETABFCT.HSE,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48068.txt,"",t
+NCETABFCT.NCA,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48070.txt,"",t
+NCETABFCT.JQF,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48069.txt,"",t
+NCETABFCT.NKT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48071.txt,"",t
+NCETABFCT.POB,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48072.txt,"",t
+NCETABFCT.FBG,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48018.txt,"",t
+NC2OBSTXT.FBG,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 48030.txt,"",t
+DIRECT10DAY,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne F-10DAY-%Y%m%d.TXT,,t
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun %Y%m%d%H09_hourly_trader_srfcst.csv,"",f
+BGEHIOBS,Ftp,ftpsrv.wsicorp.com /u/bge/bge2 bge clam9sun %Y%m%d_HIObs.txt,"",t
+NGLIATXT,Direct,57018 5 Natgrid_LI_Alert,,f
+NC2OBSTXT.EWN,Direct,48049 5 New_Bern_NC,"",f
+NCERDUTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53008.txt,,f
+NCECLTTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53020.txt,,f
+NCEGSPTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53021.txt,,f
+NCEEWNTXT,Direct,53032 5 New_Bern_NC,"",f
+NEUPSFTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/neu/forecast/icwf/data ftp_fcst vanillabean PSFTXT.html,,f
+NEUMHTTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/neu/forecast/icwf/data ftp_fcst vanillabean MHTTXT.html,,f
+NEUBMLTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/neu/forecast/icwf/data ftp_fcst vanillabean BMLTXT.html,,f
+NCEHKYTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53034.txt,"",t
+TCPGFCSTDOV,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 DOV-F-%m%d%y.txt,"",f
+RELIANTNEHRLY,Ftp,ftpsrv.wsicorp.com /u/reliantne reliantne B0st0n forecast.csv,"",t
+NCEHSETXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53035.txt,"",t
+TCPGFCSTARR,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ARR-F-%m%d%y.txt,"",f
+TCPGFCSTRFD,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 RFD-F-%m%d%y.txt,"",f
+HTEASTOBS,Ftp,ftpsrv.wsicorp.com /u/exion exion shuttle2movie %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+TCPGFCSTERI,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ERI-F-%m%d%y.txt,"",f
+NCEJQFTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53036.txt,"",t
+TCPGFCSTORF,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ORF-F-%m%d%y.txt,"",f
+NCENCATXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53037.txt,"",t
+TCPGFCSTDCA,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 DCA-F-%m%d%y.txt,"",f
+NCENKTTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53038.txt,"",t
+CONSUMNRGY.LAN,Attachment,LAN-F-%m%d%y.txt,,f
+NCEPOBTXT,Ftp,ftpsrv.wsicorp.com /u/ncemc ncemc tarheelst8 53039.txt,"",t
+CONSUMNRGY.ORD,Attachment,ORD-F-%m%d%y.txt,,f
+NRGFCSTCMH,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 CMH-F-%m%d%y.txt,"",t
+ATCOHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/atco atco Really4cold WSIHourlyForecast_%y%m%d%H.csv,"",t
+BOUNCEFRCST,Ftp,ftpsrv.wsicorp.com /u/bounce bounce H0uston! hourly_forecast_%y%m%d%H.csv,"",t
+HOURLYTRADER,Ftp,energysr0.wsicorp.com /data2/Trader/GFS_forecast op doctor hourlytrader.%Y%m%d.%H%M.csv,,t
+HOURLYTRADER,Ftp,energysr1.wsicorp.com /data2/Trader/GFS_forecast op doctor hourlytrader.%Y%m%d.%H%M.csv,,t
+HESSGASFCST,Sftp,utilctrl.duke GAS-forecast.csv,"",t
+PSEG.TAN,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail TAN-F-%m%d%y.txt,"",t
+HOURLYTRADERUTC,Ftp,energy-showtxt.wsicorp.com /data/gfs/v10/text_products/ gfs gfs1 HOURLYTRADERUTC,,t
+MERRILLHTPRI,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant %Y%m%d%H%M_hourly_trader_srfcst.csv,"",t
+MERRILLHTOBS,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant %Y%m%d%H%M_hourly_trader_obs.csv,"",t
+MERRILLHTFC,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant %Y%m%d%H%M_hourly_trader_srfcst.csv,"",t
+MERRILLHTEXT1,Ftp,ftpsrv.wsicorp.com /u/ekt ekt pumpkin8ant %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",t
+NEUBDRTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/neu/forecast/icwf/data ftp_fcst vanillabean BDRTXT.html,,f
+NEUBDLTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/neu/forecast/icwf/data ftp_fcst vanillabean BDLTXT.html,,f
+ABCDENTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/abc/forecast/icwf/data ftp_fcst vanillabean DENTXT.html,,f
+LCDLAXTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/lacpw/forecast/icwf/data ftp_fcst vanillabean LAXTXT.html,,f
+PEPGRP001,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/pepco/forecast/icwf/data ftp_fcst vanillabean GRP001.html,,f
+NATGASWAL,Fax,17812905090 NATIONAL_GRID_GAS_ FORECAST,,f
+GOLDSAC01,Ftp,ftpserver.gs.com /incoming ftpwsi ftp123wsi GOLDSACSFCST.%y%b%d.01,,t
+PRGECC1,Attachment,PRGECC1_%m%d%Y_%H.txt#TZ=USEasern#,,t
+MORVRENRGYOBS,Attachment,wsi_weather_o.txt,"",t
+WESTARFCSTCSV.CNU,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS cnu-tmp.csv,"",t
+WESTARFCSTCSV.COU,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS cou-tmp.csv,"",t
+WESTARFCSTCSV.GBD,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS gbd-tmp.csv,"",t
+WESTARFCSTCSV.HUT,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS hut-tmp.csv,"",t
+WESTARFCSTCSV.HYS,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS hys-tmp.csv,"",t
+ENDUREFCST,Ftp,ftpsrv.wsicorp.com /u/endure endure bear2brook fcst_%Y%m%d%H.xml,,t
+ENDUREOBS,Ftp,ftpsrv.wsicorp.com /u/endure endure bear2brook obs_%Y%m%d%H.xml,,t
+WESTARFCSTCSV.ICT,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS ict-tmp.csv,"",t
+WESTARFCSTCSV.IRK,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS irk-tmp.csv,"",t
+WESTARFCSTCSV.SGF,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS sgf-tmp.csv,"",t
+WESTARFCSTCSV.SLN,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS sln-tmp.csv,"",t
+WESTARFCSTCSV.STJ,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS stj-tmp.csv,"",t
+WESTARFCSTCSV.TOP,Ftp,ftpsrv.wsicorp.com /u/westar westar 96epUneS top-tmp.csv,"",t
+NATGASSCADA48.ALB,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock 48hr_forecast_ALB.txt,"",t
+YankeeGasfcst,Ftp,ftpsrv.wsicorp.com /u/ykg ykg apple4park YAN001.WSI,,t
+NATGRIDCLIMAT,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock CLINYC_%Y%m%d.txt,"",t
+CNGTABFCT_AM,Ftp,ftpsrv.wsicorp.com /u/cng cng Hartf0rd! WSI_WeatherForecast_%Y%m%d.dat,"",t
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTNATEXT,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_lrfcst_National.csv,"",f
+NORTHLANDFCST,Ftp,ftpsrv.wsicorp.com /u/northlandP northlandP DrEHatH5 WSI_hourly_forecast_%Y%m%d.%H.csv,"",t
+TCPGFCSTSBN,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 SBN-F-%m%d%y.txt,"",f
+PRT15DIR,Ftp,ftp.prt-inc.com / wsi w1909 prtwd15.for,,t
+SIMOBS,Ftp,trn-mamxp.ad.wsicorp.com /simobs anonymous mam@wsi.com simobs+%Y%m%d.%H%M.gml,,f
+TCPGFCSTFWA,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 FWA-F-%m%d%y.txt,"",f
+RELIANTHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/rel rel run9park WSI_Forecast-%m%d%y%H.csv,"",t
+cngobstxt,Ftp,ftpsrv.wsicorp.com /u/cng cng Hartf0rd! WSI_WeatherVerification_%Y%m%d.dat,"",t
+TCPGFCSTJST,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 JST-F-%m%d%y.txt,"",f
+PERILS,Ftp,ftpsrv.wsicorp.com /u/genre genre rpi4troy LocalStormReports_%Y%m%d%H.xml,,t
+TCPGFCSTHGR,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 HGR-F-%m%d%y.txt,"",f
+TCPGFCSTABE,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 ABE-F-%m%d%y.txt,"",f
+WSIOBSCSU2.new,Ftp,ftpsrv.wsicorp.com /u/csu csu rock4sun WSIOBSCSU2.new,"",t
+CONOCOOBS,Ftp,ftpsrv.wsicorp.com /u/conoco conoco phi11ips observations_%Y%m%d.csv,,t
+CHGGASOBS,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/chg/forecast/icwf/data ftp_fcst vanillabean GASOBS.html,,f
+HQFCST,Ftp,ftpsrv.wsicorp.com /u/hq hq m0ntreal! HQFrcst_%Y%m%d_%H.csv,"",t
+WPSTABFCT,Sftp,utilctrl.constellation2.sftp %m%d%Yfct.txt,"",t
+ABCSACTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/abc/forecast/icwf/data ftp_fcst vanillabean SACTXT.html,,f
+ABCDCATAB,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/abc/forecast/icwf/data ftp_fcst vanillabean DCATAB.html,,f
+ABCDENTAB,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/abc/forecast/icwf/data ftp_fcst vanillabean DENTAB.html,,f
+TCPGFCSTTTN,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 TTN-F-%m%d%y.txt,"",f
+TCPGHOURLYOBS,Ftp,ftpsrv.wsicorp.com /u/tcpg tcpg 7tcpg13 HOURLYOBS-%m%d%y.txt,"",f
+HTEASTEXT,Ftp,ftpsrv.wsicorp.com /u/exion exion shuttle2movie %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",f
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/deutsche deutsche w1ndst0rm %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTNATEXT,Ftp,ftpsrv.wsicorp.com /u/deutsche deutsche w1ndst0rm %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",f
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/deutsche deutsche w1ndst0rm %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+NRGFCSTMEM,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 MEM-F-%m%d%y.txt,"",t
+NRGFCSTACY,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ACY-F-%m%d%y.txt,"",t
+VECKEVVDEW,Ftp,ftpsrv.wsicorp.com /u/vectren vectren scramble8bit KEVV-DEW.TXT,,t
+VECKEVVPRECIP,Ftp,ftpsrv.wsicorp.com /u/vectren vectren scramble8bit KEVV-PCP.TXT,,t
+VECKEVVTEMP,Ftp,ftpsrv.wsicorp.com /u/vectren vectren scramble8bit KEVV-TMP.TXT,,t
+VECKEVVDIR,Ftp,ftpsrv.wsicorp.com /u/vectren vectren scramble8bit KEVV-DIR.TXT,,t
+VECKEVVHI,Ftp,ftpsrv.wsicorp.com /u/vectren vectren scramble8bit KEVV-HIX.TXT,,t
+VECKEVVCLOUD,Ftp,ftpsrv.wsicorp.com /u/vectren vectren scramble8bit KEVV-CLD.TXT,,t
+VECKEVVRH,Ftp,ftpsrv.wsicorp.com /u/vectren vectren scramble8bit KEVV-HUM.TXT,,t
+VECKEVVSPD,Ftp,ftpsrv.wsicorp.com /u/vectren vectren scramble8bit KEVV-SPD.TXT,,t
+NGRIDSBH,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock sbh_obs.txt,,t
+VITOLHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/vitol vitol elan6signs VITOL_Forecast_%Y%m%d.csv,"",t
+ENERNOCFCST,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 enernoc-forecast-%Y%m%d%H.csv,,t
+ENERNOCOBS,Ftp,ftp.lim.com /U7127 U7127 0r7a8T98 enernoc-observations-%Y%m%d.csv,,t
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/nairns nairns krauser %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+WELLHEADHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/wellhead wellhead plenty0sun WSIHourlyForecast_%Y%m%d.txt,"",t
+WELLHEADHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/wellhead wellhead plenty0sun WSIHourlyObs_%Y%m%d.txt,"",t
+BOUNCEOBS,Ftp,ftpsrv.wsicorp.com /u/bounce bounce H0uston! hourly_obs_%y%m%d.csv,"",t
+HTNATOBS,Ftp,ftpsrv.wsicorp.com /u/mercuria mercuria hotPlanet7 %Y%m%d%H%M_hourly_trader_obs.csv ,"",f
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/keystone keystone cops2010 %Y%m%d%H_hourly_trader_srfcst.csv,"",f
+HTEASTOBS,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_obs.csv,"",f
+GREATBAYFCST,Ftp,ftpsrv.wsicorp.com /u/GreatBay GreatBay Windy0cean WSI_hourly_forecast_%y%m%d.csv,"",t
+LGEKUFCST,Ftp,ftpsrv.wsicorp.com /u/lgeku lgeku B0urb0n lgefct.txt,"",t
+RELIANTHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/rel rel run9park WSI_Hourly_Obs-%m%d%y.csv,"",t
+RELIANTDAILYOBS,Ftp,ftpsrv.wsicorp.com /u/rel rel run9park WSI_Daily_Obs-%m%d%y.csv,"",t
+HTEASTEXT,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_lrfcst.csv,"",f
+WSIOBSCSU.new,Ftp,ftpsrv.wsicorp.com /u/csu csu rock4sun WSIOBSCSU.new.%Y%m%d%H#TZ=USMouain#,"",t
+WSITABRER.BDL,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BDL-%m%d%y.txt,"",t
+WSITABRER.ONT,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor ONT-%m%d%y.txt,"",t
+WSITABRER.NKX,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor NKX-%m%d%y.txt,"",t
+WSITABRER.FAT,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor FAT-%m%d%y.txt,"",t
+WSITABRER.SJC,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SJC-%m%d%y.txt,"",t
+WSITABRER.SFO,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SFO-%m%d%y.txt,"",t
+WSITABRER.SAC,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor SAC-%m%d%y.txt,"",t
+WSITABRER.BOS,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BOS-%m%d%y.txt,"",t
+NRGFCSTSDF,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SDF-F-%m%d%y.txt,"",t
+WSITABRER.CON,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor CON-%m%d%y.txt,"",t
+WSITABRER.PVD,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor PVD-%m%d%y.txt,"",t
+WSITABRER.PHL,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor PHL-%m%d%y.txt,"",t
+WSITABRER.BWI,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor BWI-%m%d%y.txt,"",t
+WSITABRER.LAX,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor LAX-%m%d%y.txt,"",t
+SELTABEXT1F,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,"",t
+WXECONFCST,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXECONFCST.%y%b%d,"",t
+WXECONQPFOBS,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXECONQPFOBS.%y%b%d,"",t
+SELTABEXT2F,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,"",t
+GASTRADERFCT,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor,"",t
+NGNSATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57012.txt,,f
+NGNYCATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57005.txt,,f
+CPLDIRAVL,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53009.txt,,f
+LCDLAXTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53001.txt,,f
+TRADEROBS,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor trader_hourly_obs.txt,"",t
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/GreatBay GreatBay Windy0cean %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/GreatBay GreatBay Windy0cean %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+WXEF_MINMAX,Ftp,energy-web4.wsicorp.com /usr/local/apache/htdocs/forecasts/weather/ftp_dump op doctor WXFMAXMIN_GFS_%y%m%d,"",t
+BLENHEIMDLYFCST,Ftp,ftpsrv.wsicorp.com /u/blenheim blenheim bcmwx2 WSIForecast_%y%m%d.csv,"",t
+GREATBAYOBS,Ftp,ftpsrv.wsicorp.com /u/GreatBay GreatBay Windy0cean WSI_hourly_obs_%y%m%d.csv,"",t
+SPARKHOURLY2YR,Ftp,ftpsrv.wsicorp.com /u/spark spark texas4energy WSI_2YR_Forecast_%Y%m%d.csv,"",t
+SPARKHOURLY,Ftp,ftpsrv.wsicorp.com /u/spark spark texas4energy WSI_30Day_Forecast_%Y%m%d.csv,"",t
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/yesenergy yesenergy B0ulder4Sn0w %Y%m%d%H%M_hourly_trader_srfcst.csv,"",t
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/yesenergy yesenergy B0ulder4Sn0w %Y%m%d%H%M_hourly_trader_srfcst.csv,"",t
+PSEG.FOK,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail FOK-F-%m%d%y.txt,"",t
+RELIANTNEOBS,Ftp,ftpsrv.wsicorp.com /u/reliantne reliantne B0st0n cleanedobs.csv,"",t
+NRGFCSTFWA,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 FWA-F-%m%d%y.txt,"",t
+DIRECTNRGFCSTCSV,Ftp,ftpsrv.wsicorp.com /u/dng dng golf23sun forecast%m%d%y.txt,,f
+NRGFCSTROA,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ROA-F-%m%d%y.txt,"",t
+NRGFCSTDAY,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 DAY-F-%m%d%y.txt,"",t
+NRGFCSTCVG,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 CVG-F-%m%d%y.txt,"",t
+NRGFCSTCAK,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 CAK-F-%m%d%y.txt,"",t
+NRGFCSTTOL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 TOL-F-%m%d%y.txt,"",t
+NRGFCSTORF,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ORF-F-%m%d%y.txt,"",t
+NRGFCSTRIC,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 RIC-F-%m%d%y.txt,"",t
+NRGFCSTABE,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ABE-F-%m%d%y.txt,"",t
+NRGFCSTERI,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ERI-F-%m%d%y.txt,"",t
+ACESHRLYOBS,Ftp,de.acespower.com / wsi-wsi AEJnGM3Y hourlyob.wca,"",f
+PSEG.AVP,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail AVP-F-%m%d%y.txt,"",t
+NRGFCSTIPT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 IPT-F-%m%d%y.txt,"",t
+PSEG.IPT,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail IPT-F-%m%d%y.txt,"",t
+PSEG.TTN,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail TTN-F-%m%d%y.txt,"",t
+PSEG.PVD,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail PVD-F-%m%d%y.txt,"",t
+NRGFCSTAZO,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 AZO-F-%m%d%y.txt,,t
+PSEG.UUU,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail UUU-F-%m%d%y.txt,"",t
+HTWESTPRI,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_srfcst_West.csv,"",f
+NRGFCSTCLE,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 CLE-F-%m%d%y.txt,"",t
+NRGFCSTDTW,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 DTW-F-%m%d%y.txt,"",t
+HARRISFCST,Ftp,ftpsrv.wsicorp.com /u/harris harris C0mputer WSIDailyForecast_%y%m%d.csv,"",t
+HTWESTEXT,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_lrfcst_West.csv,"",f
+NATGASWALCOVER,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock walcover_fcst.txt,"",t
+DSIHRLY,Ftp,dsipower.com /wsi wsi3475sec %Y%m%d.csv,"",t
+NATGASCSSPGP.pgp,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock NATGASCSS.pgp,"",t
+ISOTABFCT,Ftp,ftp.iso-ne.com /home1/forecast forecast Grab4baG F_%Y%m%d.csv,,f
+NC2OBSTXT.RIC,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48034.txt,,f
+NCERICTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean RICTXT.html,,f
+NCERDUTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean RDUTXT.html,,f
+CPLFLOTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean FLOTXT.html,,f
+CPLFAYTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean FAYTXT.html,,f
+CPLEWNTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean EWNTXT.html,,f
+CPLCAETXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean CAETXT.html,,f
+CPLAVLTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean AVLTXT.html,,f
+CPLAFDTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean AFDTXT.html,,f
+ABCDCATXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/abc/forecast/icwf/data ftp_fcst vanillabean DCATXT.html,,f
+BROOKFIELDHLY,Ftp,ftpsrv.wsicorp.com /u/brookfield brookfield C0ldandSn0wy WSIHourly_%Y%m%d_%H.csv,"",t
+INERTIAFCST,Ftp,ftpsrv.wsicorp.com /u/inertia inertia cold4feet WSI_hourly_forecast_%y%m%d%H.csv,"",t
+INERTIAOBS,Ftp,ftpsrv.wsicorp.com /u/inertia inertia cold4feet WSI_hourly_obs_%y%m%d%H.csv,"",t
+ITRONHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/itron itron SanD1eg0 WSIHourlyForecast_%Y%m%d%H.txt,"",t
+VIWAPAHRLY_TISX,Ftp,ftpsrv.wsicorp.com /u/viwapa viwapa SunnyandHot WSIHourlyForecast_StCroix_%Y%m%d.csv,"",t
+VIWAPAHRLY_TIST,Ftp,ftpsrv.wsicorp.com /u/viwapa viwapa SunnyandHot WSIHourlyForecast_StThomas_%Y%m%d.csv,"",t
+PANDAHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/pandapower pandapower Ch1na WSIHourlyForecast_%y%m%d.csv,"",t
+NRGFCSTHOU,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 HOU-F-%m%d%y.txt,"",t
+CNGOBSCSV,Ftp,ftpsrv.wsicorp.com /u/cng cng Hartf0rd! WSI_WeatherVerification_%Y%m%d.csv,"",t
+SGENERGYFCST,Ftp,ftpsrv.wsicorp.com /u/sgenergy sgenergy Oil4H0uston WSIForecast_%m%d%y_%H.csv,"",f
+SGENERGYOBS,Ftp,ftpsrv.wsicorp.com /u/sgenergy sgenergy Oil4H0uston WSIObs_%m%d%y.csv,"",f
+UTAUSTINFCST,Ftp,ftpsrv.wsicorp.com /u/utaustin utaustin Longh0rns WSIHourlyForecast.csv,"",t
+NRGFCSTRBD,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 RBD-F-%m%d%y.txt,"",t
+NRGFCSTPBG,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 PBG-F-%m%d%y.txt,"",t
+NATGASCSS.NEW,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock CN.PROD.WEATHER.CSS.DATA.NEW,"",f
+NATGASCSS,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock CN.PROD.WEATHER.CSS.DATA,,f
+KGCAPITAL,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 WSI_hourly_%Y%m%d%H.csv,"",t
+NRGFCSTDWH,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 DWH-F-%m%d%y.txt,"",t
+POWEREXFCSTPRI,Ftp,ftpsrv.wsicorp.com /u/powerex powerex Vanc0uver WSIForecast_%Y%m%d.%H.csv,"",t
+POWEREXFCSTUPDATE,Ftp,ftpsrv.wsicorp.com /u/powerex powerex Vanc0uver WSIForecast_%Y%m%d.%H.csv,"",t
+JPMORGANFCST,Ftp,ftpsrv.wsicorp.com /u/bigbear bigbear smokey8yogi %m%d%yext.txt,,t
+ENERGYNE.BVY,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant BVY-%m%d%y.txt,"",t
+ENERGYNE.BED,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant BED-%m%d%y.txt,"",t
+ENERGYNE.LWM,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant LWM-%m%d%y.txt,"",t
+ENERGYNE.OWD,Ftp,ftpsrv.wsicorp.com /u/ene ene moon3plant OWD-%m%d%y.txt,"",t
+TRADER_1-5DAY,Ftp,ftpsrv.wsicorp.com /u/powerex powerex Vanc0uver WSI_1-5Day_Forecast.gif,"",t
+TRADER_6-10DAY,Ftp,ftpsrv.wsicorp.com /u/powerex powerex Vanc0uver WSI_6-10Day_Forecast.gif,"",t
+TRADER_11-15DAY,Ftp,ftpsrv.wsicorp.com /u/powerex powerex Vanc0uver WSI_11-15Day_Forecast.gif,"",t
+TRADER_1-5DAY,Ftp,ftpsrv.wsicorp.com /u/ajjain ajjain Calif0rnia! WSI_1-5Day_Forecast.gif,"",f
+TRADER_6-10DAY,Ftp,ftpsrv.wsicorp.com /u/ajjain ajjain Calif0rnia! WSI_6-10Day_Forecast.gif,"",f
+PRTOBSPDM,Attachment,obs.txt,,
+TRADER_11-15DAY,Ftp,ftpsrv.wsicorp.com /u/ajjain ajjain Calif0rnia! WSI_11-15Day_Forecast.gif,"",f
+DAILYOBS,Ftp,energy-web2.wsicorp.com /data3/htdocs/forecasts/weather/ftp_dump op doctor DailyNAObs_%m%d%y.csv,"",t
+DAILYOBS,Ftp,energy-web3.wsicorp.com /data3/htdocs/forecasts/weather/ftp_dump op doctor DailyNAObs_%m%d%y.csv,"",t
+DAILYOBS,Ftp,energy-web4.wsicorp.com /data3/htdocs/forecasts/weather/ftp_dump op doctor DailyNAObs_%m%d%y.csv,"",t
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun %Y%m%d%H%M_hourly_trader_prim_srfcst.csv,"",f
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/zepower zepower Vanc0uver %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+VELOCITYHRLY,Ftp,ftpsrv.wsicorp.com /u/velocity velocity fast4ward WSIHourlyFrcst_%y%m%d.csv,"",t
+HTEASTEXT,Ftp,ftpsrv.wsicorp.com /u/zepower zepower Vanc0uver %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",f
+PNMHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/pnm pnm NewMexic0 WSIHourlyForecast_%Y%m%d_%H.csv,"",t
+PNMDLYFCST,Ftp,ftpsrv.wsicorp.com /u/pnm pnm NewMexic0 WSIDailyForecast_%Y%m%d_%H.csv,"",t
+PNMDLYOBS,Ftp,ftpsrv.wsicorp.com /u/pnm pnm NewMexic0 WSIDailyObs_%Y%m%d.csv,"",t
+PNMHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/pnm pnm NewMexic0 WSIHourlyObs_%Y%m%d.csv,"",t
+KOCHFCST2DAILY,Ftp,ftpsrv.wsicorp.com /u/koch koch WindSt0rm %y%m%d.int.fc_daily.csv,,t
+JAMISONDLYFCST,Ftp,ftpsrv.wsicorp.com /u/jamison jamison NewY0rk WSIDailyForecast_%Y%m%d.csv,"",t
+DTEHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/detroitedison detroitedison tigers6claw wxfcst.sal,"",t
+PSEG.MMK,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail MMK-F-%m%d%y.txt,"",t
+KGDAILYFCST,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 WSIDailyForecast_%Y%m%d.csv,"",t
+BRUCEPOWERDLY,Ftp,ftpsrv.wsicorp.com /u/bruce bruce T0r0nt0 WSIDailyForecast_%Y%m%d.csv,"",t
+DYNEGYFCST,Ftp,ftpsrv.wsicorp.com /u/dynegy dynegy star6nine %m%d%Y.txt,,t
+VELOCITYDLY,Ftp,ftpsrv.wsicorp.com /u/velocity velocity fast4ward WSIFrcst_%y%m%d.csv,"",t
+BRUCEPOWERHRLY,Ftp,ftpsrv.wsicorp.com /u/bruce bruce T0r0nt0 WSIHourlyForecast_%Y%m%d.csv,"",t
+TRUELIGHTFCT,Ftp,ftpsrv.wsicorp.com /u/truelight truelight B0st0n! WSIForecast_%Y%m%d_%H.csv,"",t
+PSEG.HWV,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail HWV-F-%m%d%y.txt,"",t
+TRADER_6-10DAY,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 WSI_6-10Day_Forecast.gif,"",t
+TRADER_11-15DAY,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 WSI_11-15Day_Forecast.gif,"",t
+TRUELIGHTOBS,Ftp,ftpsrv.wsicorp.com /u/truelight truelight B0st0n! WSIObs_%Y%m%d.csv,"",t
+HTEASTOBS,Ftp,ftpsrv.wsicorp.com /u/zepower zepower Vanc0uver %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+DENTONHRLY,Ftp,ftpsrv.wsicorp.com /u/denton denton texasisbig WSIHourlyForecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+NRGSTREAMHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! WSITraderHourlyForecast_%Y%m%d.csv,"",t
+SEMINOLEHOURLYOBS2,Ftp,ftpsrv.wsicorp.com /u/seminole seminole H0tFl0rida WSI_hourly_obs_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+NRGSTREAMDLYOBS,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! WSITraderDailyObs_%Y%m%d.csv,"",t
+NRGSTREAMDLYFCST,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! WSITraderDailyForecast_%Y%m%d.csv,"",t
+MUDNEBRDAILY,Ftp,ftpsrv.wsicorp.com /u/mudnebr mudnebr 0maha! WSIDailyForecast_%Y%m%d.csv,"",t
+MUDNEBRHOURLY,Ftp,ftpsrv.wsicorp.com /u/mudnebr mudnebr 0maha! WSIHourlyForecast_%Y%m%d.csv,"",t
+MUNICHREGASDAY,Ftp,ftpsrv.wsicorp.com /u/renre renre boots4star %Y%m%d_GasDayFrcst.csv,"",t
+NRGFCST1H2,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 1H2-F-%m%d%y.txt,"",t
+PIEDMONTHOURLY,Ftp,ftpsrv.wsicorp.com /u/piedmont piedmont Car0lina! WSIHourly_%Y%m%d.csv,"",f
+NRGFCSTBDL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BDL-F-%m%d%y.txt,"",t
+NRGFCSTBUR,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 BUR-F-%m%d%y.txt,"",t
+NRGFCSTEVV,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 EVV-F-%m%d%y.txt,"",t
+NRGFCSTFWN,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 FWN-F-%m%d%y.txt,"",t
+NRGFCSTIND,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 IND-F-%m%d%y.txt,"",t
+NRGFCSTJAN,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 JAN-F-%m%d%y.txt,"",t
+NRGFCSTJFK,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 JFK-F-%m%d%y.txt,"",t
+NRGFCSTLNS,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 LNS-F-%m%d%y.txt,"",t
+NRGFCSTMSY,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 MSY-F-%m%d%y.txt,"",t
+NRGFCSTPAH,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 PAH-F-%m%d%y.txt,"",t
+NRGFCSTPOU,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 POU-F-%m%d%y.txt,"",t
+NRGFCSTRDD,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 RDD-F-%m%d%y.txt,"",t
+NRGFCSTRIV,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 RIV-F-%m%d%y.txt,"",t
+NRGFCSTROC,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 ROC-F-%m%d%y.txt,"",t
+NRGFCSTSAN,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SAN-F-%m%d%y.txt,"",t
+NRGFCSTSFO,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SFO-F-%m%d%y.txt,"",t
+NRGFCSTSPI,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 SPI-F-%m%d%y.txt,"",t
+ACESHRLYMISSFCST,Ftp,de.acespower.com / wsi-wsi AEJnGM3Y forecastW.wca,"",f
+PSEG.ISP,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail ISP-F-%m%d%y.txt,"",t
+PSEG.FRG,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail FRG-F-%m%d%y.txt,"",t
+PSEG.JFK,Ftp,ftpsrv.wsicorp.com /u/psg psg water1trail JFK-F-%m%d%y.txt,"",t
+NRGFCSTVCT,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 VCT-F-%m%d%y.txt,"",t
+NRGFCSTWAL,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 WAL-F-%m%d%y.txt,"",t
+NRGFCSTFDK,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 FDK-F-%m%d%y.txt,"",t
+NRGFCSTCXY,Ftp,ftpsrv.wsicorp.com /u/nrg2006 nrg2006 lakes07 CXY-F-%m%d%y.txt,"",t
+DAILYTRADER,Ftp,energy-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_daily op doctor dailytrader.%Y%m%d.%H%M.csv,"",t
+DUFOSSATFCST,Ftp,ftpsrv.wsicorp.com /u/dufossat dufossat Rain0rShine WSI_hourly_forecast_%y%m%d%H.csv,"",t
+DUFOSSATOBS,Ftp,ftpsrv.wsicorp.com /u/dufossat dufossat Rain0rShine WSI_hourly_obs_%y%m%d%H.csv,"",t
+GBEOBS,Ftp,ftpsrv.wsicorp.com /u/gbe gbe H0tnC0ld %Y%m%d%H%M_hourly_trader_obs.csv,"",t
+GBEFCSTPRI,Ftp,ftpsrv.wsicorp.com /u/gbe gbe H0tnC0ld %Y%m%d%H%M_hourly_trader_srfcst.csv,"",t
+GBEFCSTFC,Ftp,ftpsrv.wsicorp.com /u/gbe gbe H0tnC0ld %Y%m%d%H%M_hourly_trader_srfcst.csv,"",t
+MPOWERHRLY,Ftp,ftpsrv.wsicorp.com /u/mpower mpower M0delData WSIHourlyForecast_%Y%m%d.csv,"",t
+MPOWERDLY,Ftp,ftpsrv.wsicorp.com /u/mpower mpower M0delData WSIDailyForecast_%Y%m%d.csv,"",t
+ZEPOWERDAILY,Ftp,ftpsrv.wsicorp.com /u/zepower zepower Vanc0uver WSITraderDailyForecast_%Y%m%d%H%M.csv,"",t
+GBEEXT,Ftp,ftpsrv.wsicorp.com /u/gbe gbe H0tnC0ld %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",t
+NCETABFCT.AVL,Direct,48015 5 Asheville_NC,,f
+NCETABFCT.GSO,Direct,48014 5 Greensboro_NC,,f
+NCETABFCT.ORF,Direct,48016 5 Norfolk_VA,,f
+NCETABFCT.HKY,Direct,48067 5 Hickory_NC,"",f
+NCETABFCT.HSE,Direct,48068 5 Hatteras_NC,"",f
+NCETABFCT.JQF,Direct,48069 5 Concord_NC,"",f
+NCETABFCT.CON,Direct,48023 5 Concord_NH,,f
+NCETABFCT.NYC,Direct,48019 5 New_York_City_NY,,f
+SEMINOLEDAILYFCST,Ftp,ftpsrv.wsicorp.com /u/seminole seminole H0tFl0rida WSI_daily_forecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+SEMINOLEDAILYOBS,Ftp,ftpsrv.wsicorp.com /u/seminole seminole H0tFl0rida WSI_daily_obs_%Y%m%d.csv,"",t
+SEMINOLEHOURLYOBS,Ftp,ftpsrv.wsicorp.com /u/seminole seminole H0tFl0rida WSI_hourly_obs_%Y%m%d.csv,"",t
+NRGSTREAMHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! WSITraderHourlyObs_%Y%m%d.csv#TZ=USEasern#,"",t
+UTAUSTINDLYOBS,Ftp,ftpsrv.wsicorp.com /u/utaustin utaustin Longh0rns WSIDailyObs.csv,"",t
+TRUMPETHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/trumpet trumpet L0udS0ng WSIHourlyForecast_%Y%m%d%H.csv,"",t
+TRUMPETHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/trumpet trumpet L0udS0ng WSIHourlyObs_%Y%m%d%H.csv,"",t
+HTNATOBS,Ftp,ftpsrv.wsicorp.com /u/kanEnergy kanEnergy m1s0w1nd %Y%m%d%H16_hourly_trader_obs.csv,"",f
+HTNATOBS,Ftp,ftpsrv.wsicorp.com /u/nairns nairns krauser %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+HTNATOBS,Ftp,ftpsrv.wsicorp.com /u/keystone keystone cops2010 %Y%m%d%H_hourly_trader_obs.csv,"",f
+CIRROHOURLY2YR,Ftp,ftpsrv.wsicorp.com /u/cirro cirro wxhorse WSIForecast2yr.csv,"",t
+CIRROFCST,Ftp,ftpsrv.wsicorp.com /u/cirro cirro wxhorse WSIForecast.csv,"",t
+VAPRDOBS,Sftp,utilctrl.dominion.sftp.key dpngver.txt,"",t
+DOMENERGYFCST14,Ftp,ftpsrv.wsicorp.com /u/dom dom picture2dog  extended%Y%m%d.txt,,t
+NATGASCSSPGP,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock NATGASCSSPGP,"",t
+HESSELECOBS,Sftp,utilctrl.duke observed.csv,"",t
+HESSELECOBS,Sftp,utilctrl.duke %y%m%dobs.csv,"",t
+HESSELECTRIC,Sftp,utilctrl.duke ROWeather_%y.%m.%d_%H.%M.%S.csv,"",t
+HESSGASOBS,Sftp,utilctrl.duke GAS-observed.csv,"",t
+CPSTXFCT,Sftp,utilctrl.constellation.sftp,,t
+WSIOBSCPS,Sftp,utilctrl.constellation.sftp,,t
+CPSTABFCT,Sftp,utilctrl.constellation.sftp,,t
+DOMENERGYFCST14,Sftp,utilctrl.dominion.sftp.key extended%Y%m%d.txt,"",t
+NATGASCSSPGP.pgp,Ftp,ftp.nationalgridus.com /ngrid39/Test/Inbound ngrid39 ngrid39 NATGASCSS.pgp,,f
+NATGASCSSPGP.NEW.pgp,Ftp,ftp.nationalgridus.com /ngrid39/Test/Inbound ngrid39 ngrid39 NATGASCSS.NEW.pgp,"",f
+HTNATOBS,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+HTNATOBS,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_obs_National.csv#TZ=USEasern#,"",f
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_srfcst_National.csv#TZ=USEasern#,"",f
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_srfcst_National.csv#TZ=USEasern#,"",f
+KGCAPITAL,Ftp,ftpsrv.wsicorp.com /u/kgcapital kgcapital Celtics17 WSI_hourly_%Y%m%d%H.csv ,,f
+KGDAILYFCSTU,Ftp,ftpsrv.wsicorp.com /u/kgcapital kgcapital Celtics17 WSIDailyForecastUpdate_%Y%m%d.csv,"",f
+KGDAILYFCST,Ftp,ftpsrv.wsicorp.com /u/kgcapital kgcapital Celtics17 WSIDailyForecast_%Y%m%d.csv,"",f
+HESSELECFCST,Ftp,moveit.hess.com /Home/wsidata WSIuser zyL6LZAN forecast.csv,"",f
+HESSELECOBS,Ftp,moveit.hess.com /Home/wsidata WSIuser zyL6LZAN observed.csv,"",f
+HESSELECOBS,Ftp,moveit.hess.com /Home/wsidata WSIuser zyL6LZAN %y%m%dobs.csv,"",f
+HESSELECFCST,Ftp,moveit.hess.com /Home/wsidata WSIuser zyL6LZAN %y%m%d%Hfcst.csv,,f
+HESSELECTRIC,Ftp,moveit.hess.com /Home/wsidata WSIuser zyL6LZAN ROWeather_%y.%m.%d_%H.%M.%S.csv,"",f
+HESSGASFCST,Ftp,moveit.hess.com /Home/wsidata WSIuser zyL6LZAN GAS-forecast.csv,"",f
+HESSGASOBS,Ftp,moveit.hess.com /Home/wsidata WSIuser zyL6LZAN GAS-observed.csv,"",f
+AMERADA_CONED,Ftp,moveit.hess.com /Home/wsidata WSIuser zyL6LZAN Central_Park.csv,,t
+NOVECHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/novec novec V1rgin1a WSIHourlyForecast_%y%m%d%H.csv,"",t
+CFAN_TMAX00,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_TMAX_%Y%m%d_00Z.csv#TZ=USCenral#,"",t
+CFAN_TMIN12,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_TMIN_%Y%m%d_12Z.csv#TZ=USCenral#,"",t
+CFAN_TMAX12,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_TMAX_%Y%m%d_12Z.csv#TZ=USCenral#,"",t
+CFAN_PCTL_TMAX12,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_TMAX_PCTL_%Y%m%d_12Z.csv#TZ=USCenral#,"",t
+CFAN_PCTL_TMIN12,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_TMIN_PCTL_%Y%m%d_12Z.csv#TZ=USCenral#,"",t
+CFAN_TMIN00,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_TMIN_%Y%m%d_00Z.csv#TZ=USCenral#,"",t
+CFAN_PCTL_TMAX00,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_TMAX_PCTL_%Y%m%d_00Z.csv#TZ=USCenral#,"",t
+CFAN_PCTL_TMIN00,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_TMIN_PCTL_%Y%m%d_00Z.csv#TZ=USCenral#,"",t
+BRUCEPOWERAVG,Email,"",,f
+NATGRIDLIFCST,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock ngrid.csv,"",f
+YESDLY,Ftp,ftpsrv.wsicorp.com /u/yesenergy yesenergy B0ulder4Sn0w WSITraderDailyForecast_%Y%m%d.csv,"",t
+NCETABFCT.RIC,Direct,48022 5 Richmond_VA,,f
+VFORECASTHRLY,Ftp,ftpsrv.wsicorp.com /u/vforecast vforecast velocity4speed WSIHourlyForecast_%Y%m%d_%I%p.csv#TZ=USEasern#,"",t
+ISOTABFCT,Sftp,utilctrl.isone.sftp F_%Y%m%d.csv,"",f
+NCETABFCT.NCA,Direct,48070 5 New_River_MCAS_NC,"",f
+NCETABFCT.RDU,Direct,48008 5 Raliegh_Durham_NC,,f
+HTNATOBS,Ftp,ftpsrv.wsicorp.com /u/deutsche deutsche w1ndst0rm %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/dufossat dufossat Rain0rShine %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/dufossat dufossat Rain0rShine %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/geosol geosol L0adF0recast %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+DECAHRLY,Ftp,ftpsrv.wsicorp.com /u/deca deca OceanBlue WSIHourlyForecast_%Y%m%d.csv,"",t
+YESHRLY,Ftp,ftpsrv.wsicorp.com /u/yesenergy yesenergy B0ulder4Sn0w WSITraderHourlyForecast_%Y%m%d.csv,"",t
+WSITRADERDAILY,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square WSIDailyForecast_%Y%m%d.csv,"",t
+AMERICANGPHRLY,Ftp,ftpsrv.wsicorp.com /u/apg apg Fl0rida WSIHourlyForecast_%Y%m%d.csv,"",t
+SCIENCETEAMOBS,Ftp,energy-research1.wsicorp.com /archive/verification/obs op doctor DailyObs_%Y%m%d.csv,"",t
+GOLDFINCHDLY,Ftp,ftpsrv.wsicorp.com /u/goldfinch goldfinch dummy WSIDailyForecast_%Y%m%d.csv,"",t
+TWCENERGYVERIF,Ftp,energy-research1.wsicorp.com /archive/verification/forecast op doctor WSI_Energy_Forecast_%Y%m%d.csv,"",t
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/geosol geosol L0adF0recast %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTEASTEXT,Ftp,ftpsrv.wsicorp.com /u/geosol geosol L0adF0recast %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",f
+FREEPTHOURLYOBS,Ftp,ftpsrv.wsicorp.com /u/freepoint freepoint Stamf0rd! HourlyObs_%Y%m%d.csv,"",t
+HTEASTOBS,Ftp,ftpsrv.wsicorp.com /u/geosol geosol L0adF0recast %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+CLOUDENERGYHRLY,Ftp,ftpsrv.wsicorp.com /u/cloudenergy cloudenergy cloudsinthesky,"",t
+ESCOHOURLY,Ftp,ftpsrv.wsicorp.com /u/esco esco escoweather! WSIHourlyForecast_%Y%m%d.csv#TZ=USEasern#,"",t
+CFAN_TMAX00,Ftp,ftpsrv.wsicorp.com /u/calpine calpine R0ckets ECM_ENSMOS_TMAX_00Z.csv,"",t
+CFAN_TMAX12,Ftp,ftpsrv.wsicorp.com /u/calpine calpine R0ckets ECM_ENSMOS_TMAX_12Z.csv,"",t
+CFAN_TMIN12,Ftp,ftpsrv.wsicorp.com /u/calpine calpine R0ckets ECM_ENSMOS_TMIN_12Z.csv,"",t
+CFAN_TMIN00,Ftp,ftpsrv.wsicorp.com /u/calpine calpine R0ckets ECM_ENSMOS_TMIN_00Z.csv,"",t
+CLOUDENERGYDLY,Ftp,ftpsrv.wsicorp.com /u/cloudenergy cloudenergy cloudsinthesky,"",t
+TODDFCST,Ftp,energy-research1.wsicorp.com /archive/real_time/wsi_fcst op doctor %y%m%dWSIfcst.txt,"",t
+NATGRIDLIOBS5AM,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock ngrid_ver.csv,"",f
+NATGRIDLIOBS12PM,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock ngrid_ver.csv,"",f
+NATGASSCADADAILY.FRG,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_FRG.txt,"",t
+NATGASSCADADAILY.LGA,Ftp,ftpsrv.wsicorp.com /u/nat nat ball5clock daily_forecast_LGA.txt,"",t
+HTWESTPRI,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %Y%m%d%H%M_hourly_trader_west_srfcst.csv,"",f
+HTWESTOBS,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_obs_West.csv,"",f
+RPMNA4KMFF,Ftp,ftpsrv.wsicorp.com /u/aspire aspire H0tH0uston WSIRPMForecast_%Y%m%d_%H.csv#TZ=USEasern#,"",f
+SIMOBSTRADER,Ftp,energy-dev-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_simobs op doctor simobstrader.%Y%m%d.%H%M.csv,"",t
+SIMOBSTRADER,Ftp,energy-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_simobs op doctor simobstrader.%Y%m%d.%H%M.csv,"",t
+DAILYTRADER,Ftp,energy-dev-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_daily op doctor dailytrader.%Y%m%d.%H%M.csv.%Y%m%d.%H%M.csv,"",t
+RPMNA4KM,Ftp,ftpsrv.wsicorp.com /u/aspire aspire H0tH0uston WSIRPM72hrForecast_%Y%m%d_%H.csv#TZ=USEasern#,"",f
+NCETABFCT.GSP,Direct,48021 5 Greenville_Spartan_SC,,f
+TRANSALTAHTPRI,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %d%b%Y_%H%M_st_fcst.csv,"",t
+KWANTERAHRLY,Ftp,ftpsrv.wsicorp.com /u/kwantera kwantera shower2cloudy WSIHourlyForecast_%Y%m%d.csv,"",t
+BROOKFIELDDLY,Ftp,ftpsrv.wsicorp.com /u/brookfield brookfield C0ldandSn0wy WSIDailyForecast_%Y%m%d.csv,"",t
+DAILYTRADERFC,Ftp,energy-dev-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_daily op doctor dailytraderfc.%Y%m%d.%H%M.csv,"",t
+DAILYTRADERFC,Ftp,energy-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_daily op doctor dailytraderfc.%Y%m%d.%H%M.csv,"",t
+OBSTRADER,Ftp,energy-dev-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_obs op doctor obstrader.%Y%m%d.%H%M.csv,"",t
+OBSTRADER,Ftp,energy-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_obs op doctor obstrader.%Y%m%d.%H%M.csv,"",t
+OBSTRADERPLUS1,Ftp,energy-dev-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_obs op doctor obstrader.%Y%m%d.%H%M.csv,"",t
+KOCHOBS2DAILY,Ftp,ftpsrv.wsicorp.com /u/koch koch WindSt0rm %y%m%d.int.obs_daily.csv,"",t
+CLDENERGYHRLY,Ftp,ftpsrv.wsicorp.com /u/cloudenergy cloudenergy cloudsinthesky WSIHourly_%Y%m%d.csv,"",t
+OBSTRADERPLUS1,Ftp,energy-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_obs op doctor obstrader.%Y%m%d.%H%M.csv,"",t
+HOURLYTRADERFC,Ftp,energy-dev-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_forecast op doctor hourlytraderfc.%Y%m%d.%H%M.csv,"",t
+HOURLYTRADERFC,Ftp,energy-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_forecast op doctor hourlytraderfc.%Y%m%d.%H%M.csv,"",t
+HOURLYTRADER,Ftp,energy-dev-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_forecast op doctor hourlytrader.%Y%m%d.%H%M.csv,"",t
+HOURLYTRADER,Ftp,energy-generic1.wsicorp.com /data/legacy_ingestion/HourlyTrader/GFS_forecast op doctor hourlytrader.%Y%m%d.%H%M.csv,"",t
+MAGHRLYU,Ftp,ftpsrv.wsicorp.com /u/mag/HourlyUpdates mag M0ntreal WSIHourlyForecast_%Y%m%d.%H.csv#TZ=USEasern#,"",t
+MAGDLYU,Ftp,ftpsrv.wsicorp.com /u/mag/HourlyUpdates mag M0ntreal WSIDailyForecast_%Y%m%d.%H.csv#TZ=USEasern#,"",t
+BLENHEIMSKYBASEOBS,Ftp,ftpsrv.wsicorp.com /u/blenheim blenheim bcmwx2 blenheim_obs.%y%m%d.csv,"",t
+WPSOBS,Sftp,utilctrl.constellation2.sftp %m%d%Yobs.txt,"",t
+SHELLHTEXT,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun %Y%m%d%H%M_hourly_trader_lrfcst.csv,"",t
+VELITEMAXMIN,Ftp,ftpsrv.wsicorp.com /u/velite velite 4capMan %Y%m%d_maxmin.csv,"",t
+CFAN_00,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_%Y%m%d_00Z.csv#TZ=USCenral#,"",t
+CFAN_12,Ftp,ftpsrv.wsicorp.com /u/windybay windybay Celtics17 ECM_ENSMOS_%Y%m%d_12Z.csv#TZ=USCenral#,"",t
+CLDENERGYDLY,Ftp,ftpsrv.wsicorp.com /u/cloudenergy cloudenergy cloudsinthesky WSIDaily_%Y%m%d.csv,"",t
+CITYFINANHRLYOBS,Ftp,ftpsrv.wsicorp.com /u/cfic cfic m0delData WSITraderHourlyObs_%Y%m%d_%H.csv#TZ=USEasern#,"",t
+ZEPOWERDAILY,Ftp,ftpsrv.wsicorp.com /u/cor cor hat4sun WSITraderDailyForecast_%Y%m%d%H%M.csv,"",t
+MEXICODAILY,Ftp,ftpsrv.wsicorp.com /u/rainbow rainbow Fr0g8fly WSITraderMexicoDailyForecast_%Y%m%d.csv,"",t
+MEXICOHOURLY,Ftp,ftpsrv.wsicorp.com /u/rainbow rainbow Fr0g8fly WSITraderMexicoHourlyForecast_%Y%m%d.csv,"",t
+HTWESTOBS,Ftp,ftpsrv.wsicorp.com /u/sempra sempra Stamf0rd %Y%m%d%H%M_hourly_trader_west_obs.csv,"",f
+HTWESTPRI,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne %Y%m%d%H%M_hourly_trader_west_srfcst.csv,"",f
+HTWESTOBS,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne %Y%m%d%H%M_hourly_trader_west_obs.csv,"",f
+HTEASTFC,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTEASTPRI,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne %Y%m%d%H%M_hourly_trader_srfcst.csv,"",f
+HTEASTOBS,Ftp,ftpsrv.wsicorp.com /u/direct2 direct2 str8L1ne %Y%m%d%H%M_hourly_trader_obs.csv,"",f
+GOLDSAC09,Ftp,ftpsrv.wsicorp.com /u/goldman goldman ftp123wsi GOLDSACSFCST.%y%b%d.09,"",t
+GOLDSAC11,Ftp,ftpsrv.wsicorp.com /u/goldman goldman ftp123wsi GOLDSACSFCST.%y%b%d.11,"",t
+GOLDSAC21,Ftp,ftpsrv.wsicorp.com /u/goldman goldman ftp123wsi GOLDSACSFCST.%y%b%d.21,"",t
+GOLDSAC01,Ftp,ftpsrv.wsicorp.com /u/goldman goldman ftp123wsi GOLDSACSFCST.%y%b%d.01,"",t
+MORGANSTANOBSERCT,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_obs_ercot_%Y%m%d%H,"",t
+MORGANSTANFCSTERCT,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square wsi_ercot_%Y%m%d%H,"",t
+NCETABFCT.DCA,Direct,48017 5 Washington_DC,,f
+NCETABFCT.CLT,Direct,48020 5 Charlotte_NC,,f
+HTWESTOBS,Ftp,ftpsrv.wsicorp.com /u/transalta transalta TAweather3 %Y%m%d%H%M_hourly_trader_west_obs.csv,"",f
+HTNATOBS,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_obs_National.csv,"",f
+HTNATPRI,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_srfcst_National.csv,"",f
+HTNATFC,Ftp,ftpsrv.wsicorp.com /u/nrgstream nrgstream A1berta! %Y%m%d_hourly_trader_srfcst_National.csv,"",f
+NCETABFCT.FBG,Direct,48018 5 Fort_Bragg_NC,,f
+NCETABFCT.NKT,Direct,48071 5 Cherry_Point_NC,"",f
+NCETABFCT.POB,Direct,48072 5 Fayetteville_NC,"",f
+NCETABFCT.ECG,Direct,48047 5 Elizabeth_City_NC,,f
+NCETABFCT.POB,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48072.txt,,f
+NCETABFCT.FBG,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48018.txt,,f
+NGLIFTXT,Direct,57017 5 Natgrid_LI_Forecast,,f
+IGSHRLYFCST,Ftp,ftpsrv.wsicorp.com /u/igs igs HotSummerWind WSIHourlyForecast_%Y%m%d.csv,"",t
+RPMNA4KMFF,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square WSIRPMForecast_%Y%m%d_%H.csv#TZ=USEasern#,,t
+RPMNA4KM,Ftp,ftpsrv.wsicorp.com /u/mrg mrg car9square WSIRPM72hrForecast_%Y%m%d_%H.csv#TZ=USEasern#,,t
+CFANATLGFS00_15DAYTC,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CFAN_ATL_GFS_00_15daytcprob_m3_%Y%m%d.nc,"",f
+NCETABFCT.FAY,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48012.txt,,f
+NCETABFCT.ECG,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48047.txt,,f
+NCETABFCT.HKY,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48067.txt,,f
+CFANATLECM00_15DAYTC,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CFAN_ATL_ECMWF_00_15daytcprob_m3_%Y%m%d.nc,"",f
+CFANATLECM00_BYDAYTC,Ftp,ftpsrv.wsicorp.com /u/nephila nephila Tr0pical CFAN_ATL_ECMWF_00_bydaytcprob_m3_%Y%m%d.nc,"",f
+NCETABFCT.HSE,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48068.txt,,f
+EKPCFCSTSDF,Ftp,ftpsrv.wsicorp.com /u/ekpc ekpc snow95tree SDF-F-%m%d%y%H.txt#TZ=USEasern#,"",f
+EKPCFCSTLEX,Ftp,ftpsrv.wsicorp.com /u/ekpc ekpc snow95tree LEX-F-%m%d%y%H.txt#TZ=USEasern#,"",f
+EKPCFCSTHTS,Ftp,ftpsrv.wsicorp.com /u/ekpc ekpc snow95tree HTS-F-%m%d%y%H.txt#TZ=USEasern#,"",f
+EKPCFCSTBWG,Ftp,ftpsrv.wsicorp.com /u/ekpc ekpc snow95tree BWG-F-%m%d%y%H.txt#TZ=USEasern#,"",f
+EKPCFCSTCVG,Ftp,ftpsrv.wsicorp.com /u/ekpc ekpc snow95tree CVG-F-%m%d%y%H.txt#TZ=USEasern#,"",f
+EKPCFCSTJKL,Ftp,ftpsrv.wsicorp.com /u/ekpc ekpc snow95tree JKL-F-%m%d%y%H.txt#TZ=USEasern#,"",f
+EKPCFCSTSME,Ftp,ftpsrv.wsicorp.com /u/ekpc ekpc snow95tree SME-F-%m%d%y%H.txt#TZ=USEasern#,"",f
+NCETABFCT.JQF,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48069.txt,,f
+NCETABFCT.NCA,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48070.txt,,f
+NCETABFCT.NKT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48071.txt,,f
+NCETABFCT.ILM,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48013.txt,,f
+NCETABFCT.AVL,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48015.txt,,f
+NCETABFCT.GSO,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48014.txt,,f
+NCETABFCT.ORF,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48016.txt,,f
+NCETABFCT.CON,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48023.txt,,f
+NCETABFCT.NYC,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48019.txt,,f
+NCETABFCT.RIC,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48022.txt,,f
+NCETABFCT.RDU,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48008.txt,,f
+NCETABFCT.GSP,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48021.txt,,f
+NCETABFCT.DCA,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48017.txt,,f
+NCETABFCT.CLT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48020.txt,,f
+NCETABFCT.EWN,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48065.txt,,f
+NCETABFCT.GSB,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48066.txt,,f
+NC2OBSTXT.GSO,Direct,48027 5 Greensboro_NC,,f
+NC2OBSTXT.ILM,Direct,48026 5 Wilmington_NC,,f
+NC2OBSTXT.RDU,Direct,48033 5 Raliegh_Durham_NC,,f
+NC2OBSTXT.GSP,Direct,48031 5 Greenville_Spartan_SC,,f
+NC2OBSTXT.DCA,Direct,48035 5 Washington_DC,,f
+NC2OBSTXT.CLT,Direct,48036 5 Charlotte_NC,,f
+NC2OBSTXT.FBG,Direct,48030 5 Fort_Bragg_NC,,f
+NC2OBSTXT.NKT,Direct,48055 5 Cherry_Point_NC,"",f
+NC2OBSTXT.GSB,Direct,48050 5 Goldsboro_NC,"",f
+NC2OBSTXT.HKY,Direct,48051 5 Hickory_NC,"",f
+NC2OBSTXT.HSE,Direct,48052 5 Hatteras_NC,"",f
+NC2OBSTXT.JQF,Direct,48053 5 Concord_NC,"",f
+NC2OBSTXT.NCA,Direct,48054 5 New_River_MCAS_NC,"",f
+NC2OBSTXT.POB,Direct,48056 5 Fayetteville_NC,"",f
+NC2OBSTXT.ECG,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48048.txt,,f
+NC2OBSTXT.EWN,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48049.txt,,f
+NC2OBSTXT.GSB,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48050.txt,,f
+NC2OBSTXT.HKY,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48051.txt,,f
+NC2OBSTXT.HSE,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48052.txt,,f
+NC2OBSTXT.JQF,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48053.txt,,f
+NC2OBSTXT.NCA,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48054.txt,,f
+NC2OBSTXT.NKT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48055.txt,,f
+NC2OBSTXT.POB,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48056.txt,,f
+NC2OBSTXT.ORF,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48029.txt,,f
+NC2OBSTXT.AVL,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48028.txt,,f
+NC2OBSTXT.GSO,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48027.txt,,f
+NC2OBSTXT.ILM,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48026.txt,,f
+NCERICTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53022.txt,,f
+NCECONTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53023.txt,,f
+NCEDCATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53000.txt,,f
+NCEFAYTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean FAYTXT.html,,f
+NCEFBGTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53018.txt,,f
+NCEEWNTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCEEWNTXT,,f
+NCEGSBTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCEGSBTXT,,f
+NCEHKYTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53034.txt,,f
+NCEHKYTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCEHKYTXT,,f
+NCEHSETXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53035.txt,,f
+NCEHSETXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCEHSETXT,,f
+NCEJQFTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53036.txt,,f
+NCEJQFTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCEJQFTXT,,f
+NCENCATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53037.txt,,f
+NCENCATXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCENCATXT,,f
+NCENKTTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53038.txt,,f
+NCENKTTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCENKTTXT,,f
+NCEORFTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53017.txt,,f
+NCEILMTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53010.txt,,f
+NCEGSOTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53007.txt,,f
+NCELGATXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53019.txt,,f
+NCECONTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean CONTXT.html,,f
+NCECLTTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean CLTTXT.html,,f
+NCEAVLTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean AVLTXT.html,,f
+LBWLHRLYFCST,Attachment,WSIForecast.csv,"",t
+ENTTABFCT,Email,"",,t
+NCEFBGTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean FBGTXT.html,,f
+NCEGSPTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean GSPTXT.html,,f
+NCEORFTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean ORFTXT.html,,f
+NCELGATXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean LGATXT.html,,f
+NCEILMTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean ILMTXT.html,,f
+NCEGSOTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCEGSOTXT,,f
+NCEDCATXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/nco/forecast/icwf/data ftp_fcst vanillabean NCEDCATXT,,f
+NCERDUTXT,Direct,53008 5 Raleigh_Durham_NC,,f
+NCECLTTXT,Direct,53020 5 Charlotte_NC,,f
+NCEGSPTXT,Direct,53021 5 Greenville_Spartan_SC,,f
+NCELGATXT,Direct,53019 5 New_York_City_NY,,f
+NCECONTXT,Direct,53023 5 Concord_NH,,f
+NCEDCATXT,Direct,53000 5 Washington_DC_Forecast,,f
+NCEHKYTXT,Direct,53034 5 Hickory_NC,"",f
+NCEHSETXT,Direct,53035 5 Hatteras_NC,"",f
+NCEJQFTXT,Direct,53036 5 Concord_NC,"",f
+NCENCATXT,Direct,53037 5 New_River_MCAS_NC,"",f
+NCENKTTXT,Direct,53038 5 Cherry_Point_NC,"",f
+NCEPOBTXT,Direct,53039 5 Fayetteville_NC,"",f
+ALGCKBTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/alg/forecast/icwf/data ftp_fcst vanillabean 53027.txt,,f
+NEUAQWTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/neu/forecast/icwf/data ftp_fcst vanillabean AQWTXT.html,,f
+NEUAFDTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/neu/forecast/icwf/data ftp_fcst vanillabean AFDTXT.html,,f
+NEUAFDTXT,Direct,57002 5 New_England_Forecast_Discussion,,f
+NEUAQWTXT,Direct,53002 5 North_Adams_MA,,f
+NEUBDLTXT,Direct,53004 5 Hartford_CT,,f
+NEUBDRTXT,Direct,53005 5 Bridgeport_CT,,f
+NEUBMLTXT,Direct,53006 5 Berlin_NH,,f
+NEUMHTTXT,Direct,53024 5 Manchester_NH,,f
+NEUPSFTXT,Direct,53025 5 Pittsfield_MA,,f
+CPLDIRCAE,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53015.txt,,f
+CPLDIREWN,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53012.txt,,f
+CPLDIRFAY,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53011.txt,,f
+CPLDIRFLO,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53013.txt,,f
+CPLDIRGSB,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53016.txt,,f
+CPLDIRRDU,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53008.txt,,f
+CPLDIRSSC,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 53014.txt,,f
+CPLSSCTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean SSCTXT.html,,f
+CPLRDUTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean RDUTXT.html,,f
+CPLILMTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean ILMTXT.html,,f
+CPLGSBTXT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cpl/forecast/icwf/data ftp_fcst vanillabean GSBTXT.html,,f
+ABCDIRDEN,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48001.txt,,f
+ABCDIRSAC,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 48002.txt,,f
+ABCSACTAB,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/abc/forecast/icwf/data ftp_fcst vanillabean SACTAB.html,,f
+SATSATFCST,Direct,48039 5 San_Antonio_Forecast,,f
+SATCRPFCST,Direct,48041 5 Corpus_Christi_Forecast,,f
+SATDALFCST,Direct,48043 5 Dallas_Forecast,,f
+SATHOUFCST,Direct,48040 5 Houston_Forecast,,f
+SATSJTFCST,Direct,48044 5 San_Angelo_Forecast,,f
+SATAUSFCST,Direct,48042 5 Austin_Forecast,,f
+PRGECC1,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/ece/forecast/icwf/data ftp_fcst vanillabean prgece1.html,,f
+NGOSAFTXT,Ftp,energy-ecast.wsicorp.com /u/www/html-docs/energy2/wxtext ftp_fcst vanillabean 57011.txt,,f
+CIGTABFCT,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/cig/forecast/icwf/data ftp_fcst vanillabean TABFCT.html,,f
+SPGMOBTAB,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/southern/forecast/icwf/data ftp_fcst vanillabean MOBTAB.html,,f
+SPGMGMTAB,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/southern/forecast/icwf/data ftp_fcst vanillabean MGMTAB.html,,f
+SPGMCNTAB,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy/southern/forecast/icwf/data ftp_fcst vanillabean MCNTAB.html,,f
+SPGBHMTAB,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/southern/forecast/icwf/data ftp_fcst vanillabean BHMTAB.html,,f
+SPGATLTAB,Ftp,energy-ecast.wsicorp.com /u2/www/html-docs/energy2/southern/forecast/icwf/data ftp_fcst vanillabean ATLTAB.html,,f
+BPMXMNEMAILFCST,Attachment,WSIMaxMinFrcst.txt,"",t
+E360DAILY,Attachment,WSIDailyForecast_%Y%m%d.txt,"",t
+SOUTHERNHOURLY,Attachment,WSIForecast.txt,"",t
+NORTHWESTERNFCST,Attachment,WSIFcst.csv,"",t
+WSITRADERDAILY,Attachment,WSIDailyForecast.csv,"",t
+SEQUENTDAILY,Attachment,%Y%m%d_daily.csv,"",t
+ATCOHRLYFCST,Attachment,WSIHourlyForecast.csv,"",t
+USEFCST,Attachment,%Y%m%d%H.csv,,t
+CONEDFCSTAVG,Attachment,WSIForecast_%m%d%y.csv,"",t
+WSIOBSCPS,Attachment,WSIOBSCPS.%y%b%d.%H,,f
+VITOLHRLYFCST2,Attachment,%m%d%y%HWEST_15DAY.csv,"",t
+PSEGHRLYFCST,Attachment,PSEG_Fcst_%Y%m%d.txt,"",t
+LIGHTHOUSEFCST,Attachment,WSIForecast_%m%d%y.csv,"",t
+LBWLHRLYOBS,Attachment,WSIObs.csv,"",t
+LGEKUFCST,Attachment,WSIfcst.txt,"",t
+IIROBS,Attachment,LatestHourlyObs.csv,"",t
+DYNEGYNEHRLYFCST,Attachment,WSIHourlyForecast_%Y%m%d.csv,"",t
+HESSTABTMO,Attachment,Hess.txt,"",t
+DENTONHRLY,Attachment,WSIHourlyForecast_%Y%m%d_%H.csv#TZ=USCenral#,"",t
+CHGELEOBS,Attachment,chgeleobs.txt,,t
+DRWFCST,Attachment,WSIDailyForecast.csv,"",t
+NATGASCSSPGP,Attachment,NATGASCSSPGP.txt,"",t
+IIDFCST,Attachment,IID_FCST_%m%d%y.csv,,
+CPSTABFCT,Attachment,CPSTABFCT.%y%b%d.%H,,f
+ALLIANT.CID,Attachment,FOR-CID_1.TXT,,
+ALLIANT.CID,Attachment,FOR-CID_1.TXT,,
+ALLIANT.MSN,Attachment,FOR-MSN_1.TXT,,
+ALLIANT.MSN,Attachment,FOR-MSN_1.TXT,,
+CPSTXFCT,Attachment,CPSTXFCT.%y%b%d.%H,,f
+CGCUFCSTBGI,Attachment,cgcfcst.bgi,"",t
+SASKOBS,Attachment,WSIDailyObs.csv,"",t
+CROWNFCST,Attachment,WSIDailyForecast.csv,"",t
+DAILYOBS,Attachment,DailyNAObs.csv,"",t
+AMERENFCST,Attachment,%m%d%Y.txt,,f
+AMERENFCST,Attachment,%m%d%Y.txt,,f
+CGCUOBS,Attachment,cgcuobs.txt,,t
+PRTFCSTPDM,Attachment,fcst.txt,,
+JETBLUE_RISK_TEMPS,Attachment,jetblue_risk_temps.csv,"",t
+NISRCHRLYFCST,Attachment,WSIForecast_%m%d%y.csv,"",t
+CGCUOBSBGI,Attachment,cgcuobs.bgi,"",t
+MIECODAILY,Attachment,WSIDailyForecast.csv,"",t
+CHGTABFCT,Attachment,chgtabfct.txt,,t
+GOLDSAC01,Attachment,GOLDSACSFCST.%y%b%d.01,"",f
+FPLDAILY,Attachment,daily.%Y%m%d.%H.csv,"",t
+PRAXAIR100DAYFRCST,Attachment,WSI_100Day_Forecast_%Y%m%d.txt,"",t
+PRAXAIR30DAYFORECAST,Attachment,WSI_30Day_Forecast_%Y%m%d.txt,"",t
+SCANAMAXMIN,Attachment,cityfcst.csv,,f
+CHEVRON30DAYFORECAST,Attachment,WSI_30Day_Forecast_%Y%m%d.txt,"",t
+PRAXAIRDAILY,Attachment,WSI_0-15Day_Forecast_%Y%m%d.csv,"",t
+SCANAMAXMINACT,Attachment,cityact.csv,,f
+PLECONOBS,Attachment,MonthlyGuamObs.csv,"",t
+SCANAOBS,Attachment,%Y%m%d.csv,,f
+SHELLHRLYOBS,Attachment,KMHT_Obs_%Y%m%d.txt,"",t
+NORTHLANDFCST,Attachment,WSI_hourly_forecast_%Y%m%d.%H.csv,"",t
+LINDEHOURLY,Attachment,hourly_fcst_obs_%Y%m%d.%H.csv,,t
+WILLIAMSFCST,Attachment,WSI_degree_day_forecast_%Y%m%d.csv,,
+FPLHOURLY,Attachment,hourly.%Y%m%d.%H.csv,"",t
+MERCURIAFCST,Attachment,daily_forecast_%Y%m%d.csv,"",t
+MERCURIAOBS,Attachment,daily_obs_%Y%m%d.csv,"",t
+SCANAFCST,Attachment,scanafcst.csv,,t
+CSUTESTXLS,Attachment,CSUFCT_%Y%m%d%H.xls,,t
+DYNEGYTANHRLYFCST,Attachment,WSIHourlyForecast_%Y%m%d.csv,"",t
+VITOLHRLYFCST,Attachment,VITOL_Forecast_%Y%m%d.csv,"",t
+MORVRENRGYFCST,Attachment,wsi_weather_f.txt,"",t
+HONEYWELLDLY,Attachment,WSIDailyForecast.txt,"",t
+AA_RISK_TEMPERATURES,Attachment,aatemps.csv,"",t
+DSIHRLY,Attachment,%Y%m%d.csv,"",t
+CPSHOURLYFCST,Attachment,WSIHourlyForecast.%y%b%d.csv,"",t
+HONEYWELLHRLY,Attachment,WSIHourlyForecast.txt,"",t
+NATGASCSSPGP.NEW,Attachment,NATGASCSSPGP.NEW,"",t
+METROMEDIAFCST,Attachment,WSIDailyForecast.csv,"",t
+LINDEDAILYFCST,Attachment,WSIDailyForecast_%y%m%d.csv,"",t
+LINDEHOURLYFCST,Attachment,WSIHourlyForecast_%y%m%d.csv,"",t
+ROANOKEGASHRLY,Attachment,WSI_HourlyGasForecast_%Y%m%d.csv,"",t
+ROANOKEGASDLY,Attachment,WSI_DailyGasForecast_%Y%m%d.csv,"",t
+MPOWERHRLY,Attachment,WSIHourlyForecast_%Y%m%d.csv,"",t
+MPOWERDLY,Attachment,WSIDailyForecast_%Y%m%d.csv,"",t
+AIRCANADA_RISK_TEMPS,Attachment,canada_temps.csv,"",t
+PIEDMONTHOURLY,Attachment,WSIHourly_%Y%m%d.csv,"",t
+HORIZON_RISK_TEMPS,Attachment,alaskatemps.csv,"",t
+AVIATION_RISK_FRCST,Attachment,new_aviation_risk_temps.csv,"",t
+PANDAHRLYFCST.TPL,Attachment,WSIHourlyTempleForecast_%y%m%d.csv,"",t
+GOLDSAC09,Attachment,GOLDSACSFCST.%y%b%d.09,"",f
+CFAN_TMIN00,Attachment,ECM_ENSMOS_TMIN_00Z.%Y%m%d.csv,"",f
+CFAN_TMAX00,Attachment,ECM_ENSMOS_TMAX_00Z.%Y%m%d.csv,"",f
+ACCENTUREDLY,Attachment,WSIDailyForecast_%m%d%y.csv,"",t
+ACCENTUREHLY,Attachment,WSIHourlyForecast_%m%d%y.csv,"",t
+CFAN_TMAX12,Attachment,ECM_ENSMOS_TMAX_12Z.%Y%m%d.csv,"",f
+CFAN_TMIN12,Attachment,ECM_ENSMOS_TMIN_12Z.%Y%m%d.csv,"",f
+INERTIAERCOT,Attachment,DailyERCOTFile.csv,"",t
+RPMNA4KMFF,Attachment,WSIRPMForecast_%Y%m%d_%H.csv#TZ=USEasern#,"",f
+RPMNA4KM,Attachment,WSIRPM72hrForecast_%Y%m%d_%H.csv#TZ=USEasern#,"",f
+NORWICHHRLY,Attachment,WSIHourlyForecast_%Y%m%d.csv,"",t
+DYNEGYNEHRLYFCST,Attachment,WSIHourlyForecast_%Y%m%d.csv,"",t
+CAITHNESSSBH,Attachment,KHWV_OBS_%y%m%d.csv,,t
+MEXICODAILY,Attachment,MexicoDailyForecast_%Y%m%d.csv,"",t
+DYNEGYMPHRLYFCST,Attachment,WSIHourlyForecast_%Y%m%d.csv,"",t
+DYNEGYMAHRLYFCST,Attachment,WSIHourlyForecast_%Y%m%d.csv,"",t
+GOLDSAC11,Attachment,GOLDSACSFCST.%y%b%d.11,"",f
+GOLDSAC21,Attachment,GOLDSACSFCST.%y%b%d.21,"",f
+INTERGENFCST,Email,"",,f
+PPLOBS,Email,"",,t
+NATGASCSSRAW,Email,"",,t
+SWGTABFCT2,Email,"",,t
+BGETABEMA,Email,"","",t
+BGEOBSBGE,Email,"",,t
+MRNTFCST,Email,"",,
+FPLOBSFCT,Email,"",,t
+CHGGASOBS,Email,"",,t
+damcities.txt,Email,"",,t
+LANTABLAN,Email,"",,t
+ELEMENTREOBS,Email,"",,
+CIGFTPFCT_TEST,Email,"",,
+PEPGRP001,Email,"",,f
+CFCGRP001,Email,"",,
+PPLFCST,Email,"",,t
+EMAILRWE,Email,"",,t
+ONEOKFCST,Email,"",,t
+EMAILRWEUPDATE,Email,"",,t
+CNGTABFCT_AM,Email,"",,
+ALGYTB1FCT,Email,"","",t
+SWGTABFCT,Email,"",,t
+dpmcities.txt,Email,"",,t
+tdpmcities.txt,Email,"",,t
+HBKOBS,Email,"",,f
+MLYNCHOBS,Email,"",,
+NATGASSYRCOVER,Email,"",,t
+NATGASDEPART,Email,"",,f
+NATGASNYCOVER,Email,"","",t
+HGETABFCT,Email,"",,t
+HGEHLYTXT,Email,"",,t
+CFCGRP001,Email,"",,
+BRUCE_MONTHLY,Email,"",,f
+UNITILFCST03,Email,"",,f
+UNITILFCST09,Email,"",,f
+VAPOBS,Email,"",,f
+VAPRHFCST,Email,"",,f
+VAPRDFCST,Email,"",,f
+VAPRDOBS,Email,"",,f
+VAPRHOBS,Email,"",,f
+BRUCEPOWERFCST,Email,"",,f
+FREEPTDAILY,Email,"","",t
+PRAXAIRHOURLY,Email,"",,t
+CFCGRP001,Email,"",,
+SHELLTABFCT,Email,"",,t
+BRUCEPOWEROBS,Email,"",,f
+NCETABFCT.ECG.txt,Email,"","",t
+NC2OBSTXT.ECG.txt,Email,"","",t
+UNITILFCST,Email,"",,f
+NATGASFCTEMAIL,Email,"",,f
+NATGASOBSEMAIL,Email,"",,f
+UNITILFCST13,Email,"",,f
+CRAIGMXMN,Email,"",,t
+ENERNOCFCST,Email,"",,t
+ENERNOCOBS,Email,"",,t
+NOVHEFTXT,Email,"",,t
+UNITILFCST21,Email,"",,f
+UNITIL_MONTHLY,Email,"",,f
